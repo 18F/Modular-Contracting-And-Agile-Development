@@ -1,0 +1,29 @@
+# Site settings
+title: Your Team Name
+email: you@yourteam.gov
+description: Put a nifty sentence about what your team does.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
+analytics:
+  code: '<<UA-CODE-TO-COME>>'
+
+contact:
+  agencyname: Your Team Name
+  agencyimage: https://pages.18f.gov/usfwds/assets/img/logo-img.png
+  email: you@yourteam.gov
+  phonenumber: 800-555-5555
+  form:
+    url: https://docs.google.com/forms/d/1Tsdm_2spbxWnmTFMrH5eHxpOAN9W4LB3eaMMXJ1N0rU/formResponse
+    name: entry.1710277143
+    email: entry.1440502332
+    comments: entry.722489988
+    hidden:
+      name: fbzx
+      value: -7861934959779167198
+
+federalist:
+  root: '/pages'

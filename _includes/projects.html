@@ -1,0 +1,17 @@
+<h2>Case Studies</h2>
+{% assign studies = site.pages | sort: 'studydate' | reverse %}
+{% for page in studies %}
+  {% if page.layout == 'case-study' %}
+    {% assign third = forloop.index | modulo: 3 %}
+    {% if third == 0 %}
+    <div class="usa-width-one-third usa-end-row case-study">
+    {% else %}
+    <div class="usa-width-one-third case-study">
+    {% endif %}
+      <div class="case-study--image" style="background-image: url({{ page.image | prepend: site.baseurl }});"></div>
+      <h3>{{ page.title }}</h3>
+      <p>{{ page.description }}</p>
+      <a href="{{ page.permalink | prepend: site.baseurl }}">Read the case study</a>
+    </div>
+  {% endif %}
+{% endfor %}

@@ -1,0 +1,34 @@
+.usa-site-navbar {
+  border-bottom: 1px solid gray;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+.usa-site-navbar .usa-grid::before,
+.usa-site-navbar .usa-grid::after {
+  display: table;
+  content: "";
+}
+#logo {
+  float: left;
+  max-width: 32rem;
+}
+#logo h1 {
+  font-size: 3rem;
+  margin: 0;
+}
+ul.usa-unstyled-list a {
+  border-bottom: 0;
+  text-decoration: none;
+}
+ul.usa-nav-list {
+  float: right;
+  line-height: 2em;
+  height: 2em;
+}
+li.usa-menu-item {
+  display: inline;
+  margin-right: 2em;
+}
+li.usa-menu-item:last-child {
+  margin-right: 0;
+}
