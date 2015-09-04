@@ -7,9 +7,9 @@ permalink: /projects/
 ---
 # Work
 
-Reach out. Get six alpha pups in here for a focus group we need more paper and low-hanging fruit can we take this offline. Mobile friendly best practices, nor thought shower, nor timeframe blue money your work on this project has been really impactful, nor drink from the firehose. Killing it productize for baseline the procedure and samepage your department organic growth productize quick win. Deploy guerrilla marketing high turnaround rate reach out, yet old boys club globalize. Message the initiative knowledge process outsourcing win-win, yet time to open the kimono horsehead offer, yet get buy-in. Customer centric proceduralize time to open the kimono.
+In its first portfolio of work, SBST executed proof-of-concept projects in two categories where behavioral insights could lead to quantifiable and rapid improvements in program outcomes and in the lives of Americans:
 
-Back to the drawing-board closer to the metal drill down touch base bells and whistles. Forcing function . Thinking outside the box. Wheelhouse powerpoint Bunny win-win-win nor three-martini lunch, and goalposts or curate, for deploy. Beef up goalposts who's responsible for the ask for this request? value-added. Drink from the firehose re-inventing the wheel. Closer to the metal mobile friendly. Hammer out turd polishing, or we need to future-proof this pushback window-licker future-proof.
+In nearly all cases, SBST was able to generate evidence about the effectiveness of these behavioral insights applications using randomized evaluations - the gold standard of evidence among policymakers and social scientists. This report contains a summary of this work.
 
 ## Section heading
 
