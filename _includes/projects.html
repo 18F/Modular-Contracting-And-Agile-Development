@@ -1,5 +1,5 @@
 <h2>Case Studies</h2>
-{% assign studies = site.pages | sort: 'studydate' | reverse %}
+{% assign studies = site.pages | sort: 'order' | reverse %}
 {% for page in studies %}
   {% if page.layout == 'case-study' %}
     {% assign third = forloop.index | modulo: 3 %}
