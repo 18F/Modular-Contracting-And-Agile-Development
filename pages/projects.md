@@ -7,6 +7,8 @@ permalink: /work/
 ---
 # Work
 
+### First Annual Report
+
 In its first portfolio of work, SBST executed proof-of-concept projects in two categories where behavioral insights could lead to quantifiable and rapid improvements in program outcomes and in the lives of Americans:
 
 1.  Assisting Americans by streamlining access to programs: Projects to streamline access to programs in retirement security, education, health care, and economic opportunity.  
