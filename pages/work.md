@@ -5,9 +5,12 @@ author: jeremiak
 nav: '2'
 permalink: /work/
 ---
-# Work
 
-### First Annual Report
+## What We've Accomplished
+
+As a result of the first year of SBST projects, more members of the military are saving for retirment, more students are goin to college, more Americans are securing health insurance, more Veterans and farmers are accessing benefits, and all taxpayers are seeing returns due to increased program efficiency and integrity.
+
+## First Annual Report
 
 In its first portfolio of work, SBST executed proof-of-concept projects in two categories where behavioral insights could lead to quantifiable and rapid improvements in program outcomes and in the lives of Americans:
 

@@ -5,7 +5,7 @@ title: SBST
 hero-image: ''
 hero-text: "We believe that government works best when it's built for people. "
 hero-button-text: See what we do
-hero-button-link: /approach
+hero-button-link: /approach/
 ---
 ## President Obama ( ) that makes the Social and Behavioral Sciences Team a permanent part of government
 
