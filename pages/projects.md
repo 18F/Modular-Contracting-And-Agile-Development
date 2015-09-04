@@ -3,7 +3,7 @@ layout: case-study-list
 title: Work
 author: jeremiak
 nav: '2'
-permalink: /work
+permalink: /work/
 ---
 # Work
 
