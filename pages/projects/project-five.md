@@ -1,8 +1,8 @@
 ---
 layout: case-study
-title: Project Five
-description: I mean, they have no respect for us up there! No respect whatsoever! We're all just drudgeons to them! Well that's easy to remember. 0118 999 88199 9119 725! I'm a 32 year old IT-man who works in a basement.
-studydate: 2015-05-01
+title: 'Reducing "Summer Melt"'
+description: 'Eight personalized text messages resulted in a nearly 9% increase in college enrollment.'
+studydate: 'Thu Apr 30 2015 20:00:00 GMT-0400 (EDT)'
 permalink: /projects/project-five/
 image: /assets/img/helicopters-in-the-city.jpg
 ---
