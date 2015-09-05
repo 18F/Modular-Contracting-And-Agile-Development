@@ -6,7 +6,7 @@
     {% else %}
     <div class="usa-width-one-third case-study">
     {% endif %}
-      <div class="case-study--image" style="background-image: url();"></div>
+      <div class="case-study--image" style="background-image: url({{ project.image | prepend: site.baseurl }});"></div>
       <h3>{{ project.name }}</h3>
       <a href="{{ project.link | prepend: site.baseurl }}">Read the case study</a>
     </div>
