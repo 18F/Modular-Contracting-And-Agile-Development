@@ -15,6 +15,18 @@ layout: base
   </div>
 </section>
 
+{% if page.hero-youtube-id %}
+<section>
+  <div class="usa-grid">
+    <div class="usa-width-one-sixth">&nbsp;</div>
+    <div class="usa-width-two-thirds hero-content">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.hero-youtube-id }}" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div class="usa-width-one-sixth usa-end-row">&nbsp;</div>
+  </div>
+</section>
+{% endif %}
+
 <section>
   <div class="usa-grid">
     <div class="usa-width-one-whole usa-end-row">
