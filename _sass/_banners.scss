@@ -1,0 +1,14 @@
+.banner {
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+.banner.tagline {
+  background-color: $text-color;
+}
+.banner.tagline h2,
+.banner.tagline p {
+  color: white;
+}
+.banner.contact {
+  background-color: $contact-background-color;
+}
