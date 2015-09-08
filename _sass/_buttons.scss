@@ -1,0 +1,7 @@
+$usaButtonColor: rgb(270, 86, 70);
+.usa-button {
+  background-color: $usaButtonColor;
+}
+.usa-button:hover {
+  background-color: darken($usaButtonColor, 17);
+}
