@@ -1,13 +1,18 @@
 - name: Eight personalized text messages resulted in a nearly 9% increase in college enrollment.
-  link: /projects/reducing-snow-melt/
-  image: /assets/img/helicopters-in-the-city.jpg
-- name: A letter including a fill-in-the-blank calender reminder boosted healthcare enrollment by 13.2%.
-  link: ''
-- name: Highlighting to Veterans that they had earned [italicize] a benefit increased opens and click rates.
-  link: ''
-- name: Emails sent at lunchtime had 2.5% higher open rate and 1.5% click rate - meaning sending emails three hours later led to appx. 1,500 more people following through.
-  link: ''
-- name: A "fresh start" and action-oriented language increases Servicemember savings plan enrollment by 22%.
-  link: ''
-- name: A reminder email to borrowers who had missed one or two payments led to a 5% increase in the number of borrowers making payments.
-  link: ''
+  link: /projects/reducing-summer-melt/
+  image: /assets/img/project-icons/graduation.png
+- name: Providing a choice at the right time doubled Servicemember enrollment in a workplace savings plan.
+  link: /projects/roth-tsp-enrollment/
+  image: /assets/img/project-icons/piggy-bank.png
+- name: Refreshing outreach strategy led to a more than doubling of inquiries from farmers eligible for business investment loans.
+  link: /projects/microloans-for-farmers/
+  image: /assets/img/project-icons/tractor.png
+- name: Emails sent at lunchtime had a 2.5% higher open rate and 1.5% click rate.
+  link: /projects/tenant-satisfaction-survey/
+  image: /assets/img/project-icons/email-timer.png
+- name: Requiring persons to sign that information they provide is true and accurate at the start of a form rather than the end led to an additional $1.59 million collected.
+  link: /projects/industrial-funding-fee-reports/
+  image: /assets/img/project-icons/consent.png
+- name: Sending timely emails led to a four-fold increase in applications for income-driven repayment plans.
+  link: /projects/income-driven-repayment/
+  image: /assets/img/project-icons/calendar.png
