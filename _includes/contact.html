@@ -1,30 +1,31 @@
-<div class="usa-alert usa-alert-success" id="contact-alert" style="display: none;">
-  <div class="usa-alert-body">
-    <h3 class="usa-alert-heading">Thanks for getting in touch!</h3>
+<section class="contact">
+  <div class="usa-alert usa-alert-success" id="contact-alert" style="display: none;">
+    <div class="usa-alert-body">
+      <h3 class="usa-alert-heading">Thanks for getting in touch!</h3>
+    </div>
   </div>
-</div>
 
-<div class="usa-grid">
-<form id="contact" action="{{ site.contact.form.url }}" method="POST">
+  <div class="usa-grid">
+  <form id="contact" action="{{ site.contact.form.url }}" method="POST">
 
-  <fieldset>
+    <fieldset>
 
-    <legend>Keep informed</legend>
-    <div class="usa-width-one-half">
-      <label for="contact-email">Email Address</label>
-      <input id="contact-email" name="{{ site.contact.form.email }}" type="text">
-    </div>
-    <div class="usa-width-one-half usa-end-row">
-      <label>Your privacy and security are important to us.</label>
-    </div>
-    {% if site.contact.form.hidden %}
-      <input id="contact-hidden" type="hidden" name="{{ site.contact.form.hidden.name }}" value="{{ site.contact.form.hidden.value }}">
-    {% endif %}
-    <div class="usa-width-one-whole usa-input-buttons-inline">
-      <input type="submit" value="Subscribe to email updates">
-    </div>
+      <legend>Sign up to receive updates from SBST</legend>
+      <div class="usa-width-one-half">
+        <label for="contact-email">Email Address</label>
+        <input id="contact-email" name="{{ site.contact.form.email }}" type="text">
+      </div>
+      <div class="usa-width-one-half usa-end-row">
+      </div>
+      {% if site.contact.form.hidden %}
+        <input id="contact-hidden" type="hidden" name="{{ site.contact.form.hidden.name }}" value="{{ site.contact.form.hidden.value }}">
+      {% endif %}
+      <div class="usa-width-one-whole usa-input-buttons-inline">
+        <input type="submit" value="Subscribe to email updates">
+      </div>
 
-  </fieldset>
+    </fieldset>
 
-</form>
-</div>
+  </form>
+  </div>
+</section>

@@ -5,27 +5,13 @@ layout: base
 <section>
   <div class="hero-unit" style="background-image: url('{{ page.hero-image | prepend: site.baseurl }}')">
     <div class="usa-grid">
-      <div class="usa-width-one-sixth">&nbsp;</div>
-      <div class="usa-width-two-thirds hero-content">
+      <div class="usa-width-whole hero-content">
         <h1>{{ page.hero-text }}</h1>
         <a class="usa-button usa-button-big" href="{{ page.hero-button-link }}">{{ page.hero-button-text }}</a>
       </div>
-      <div class="usa-width-one-sixth usa-end-row">&nbsp;</div>
     </div>
   </div>
 </section>
-
-{% if page.hero-youtube-id %}
-<section>
-  <div class="usa-grid">
-    <div class="usa-width-one-sixth">&nbsp;</div>
-    <div class="usa-width-two-thirds hero-content">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.hero-youtube-id }}" frameborder="0" allowfullscreen></iframe>
-    </div>
-    <div class="usa-width-one-sixth usa-end-row">&nbsp;</div>
-  </div>
-</section>
-{% endif %}
 
 <section>
   <div class="usa-grid">
@@ -35,12 +21,7 @@ layout: base
   </div>
 </section>
 
-<section>
-  <div class="usa-grid">
-    {% include projects.html %}
-  </div>
-</section>
 
-<section>
-  {% include contact.html %}
-</section>
+{% include projects.html %}
+
+{% include contact.html %}

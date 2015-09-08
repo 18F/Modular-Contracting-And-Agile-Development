@@ -1,13 +1,17 @@
-<h2>Case Studies</h2>
-{% for project in site.data.projects %}
-    {% assign third = forloop.index | modulo: 3 %}
-    {% if third == 0 %}
-    <div class="usa-width-one-third usa-end-row case-study">
-    {% else %}
-    <div class="usa-width-one-third case-study">
-    {% endif %}
-      <div class="case-study--image" style="background-image: url({{ project.image | prepend: site.baseurl }});"></div>
-      <h3>{{ project.name }}</h3>
-      <a href="{{ project.link | prepend: site.baseurl }}">Read the case study</a>
-    </div>
-{% endfor %}
+<section>
+  <div class="usa-grid">
+    <h2>Work</h2>
+    {% for project in site.data.projects %}
+        {% assign third = forloop.index | modulo: 3 %}
+        {% if third == 0 %}
+        <div class="usa-width-one-third usa-end-row project">
+        {% else %}
+        <div class="usa-width-one-third project">
+        {% endif %}
+          <div class="project--image" style="background-image: url({{ project.image | prepend: site.baseurl }});"></div>
+          <h3 class="project--title">{{ project.name }}</h3>
+          <a href="{{ project.link | prepend: site.baseurl }}">Read the case study</a>
+        </div>
+    {% endfor %}
+  </div>
+</section>

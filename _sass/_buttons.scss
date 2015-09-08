@@ -1,7 +1,20 @@
-$usaButtonColor: rgb(270, 86, 70);
-.usa-button {
-  background-color: $usaButtonColor;
+.usa-button,
+.usa-button-primary,
+.usa-button:visited,
+.usa-button-primary:visited,
+button,
+[type="button"],
+[type="submit"],
+[type="reset"],
+[type="button"],
+[type="submit"],
+[type="reset"],
+[type="image"] {
+  background-color: $button-color;
 }
-.usa-button:hover {
-  background-color: darken($usaButtonColor, 17);
+.usa-button:hover
+.usa-button-primary:hover,
+.usa-button:visited:hover,
+.usa-button-primary:visited:hover, {
+  background-color: darken($button-color, 25%);
 }

@@ -1,3 +1,13 @@
+body,
+legend,
+h1, h2, h3, h4, h5, h6 {
+  color: $text-color;
+  font-family: sans-serif;
+}
+legend,
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 500;
+}
 form {
   max-width: 100%;
 }

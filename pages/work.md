@@ -1,7 +1,6 @@
 ---
-layout: case-study-list
+layout: project-list
 title: Work
-author: jeremiak
 nav: '2'
 permalink: /work/
 ---

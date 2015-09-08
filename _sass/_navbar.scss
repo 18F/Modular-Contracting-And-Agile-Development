@@ -1,7 +1,6 @@
 .usa-site-navbar {
   border-bottom: 1px solid gray;
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding-top: 1rem;
 }
 .usa-site-navbar .usa-grid::before,
 .usa-site-navbar .usa-grid::after {
@@ -11,6 +10,9 @@
 #logo {
   float: left;
   max-width: 32rem;
+}
+#logo a {
+  border: none;
 }
 #logo h1 {
   font-size: 3rem;

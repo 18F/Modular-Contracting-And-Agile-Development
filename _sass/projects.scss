@@ -1,0 +1,17 @@
+.project {
+  margin-bottom: 2em;
+  min-height: 300px;
+  padding: 1em;
+}
+
+.project--image {
+  background-size: cover;
+  height: 7em;
+  margin: 0 auto;
+  width: 50%;
+}
+
+.project--title {
+  border-top: 3px solid coral;
+  padding-top: .5em;
+}

@@ -4,9 +4,14 @@ email: you@yourteam.gov
 description: We are a cross-agency team with backgrounds in a diversity of fields, including economics, policy, psychology, law, medicine, statistics and political science. What unifies us is our commitment to using what research tells us about how people make decisions to better serve Americans and improve government efficiency.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
+logo: /assets/img/logo.png
 
-# Build settings
-markdown: kramdown
+colors:
+  background: '#fdfdfd'
+  brand: '#2a7ae2'
+  button: 'rgb(239, 91, 93)'
+  text: 'rgb(45, 97, 114)'
+  contact: 'rgb(248, 235, 212)'
 
 analytics:
   code: '<<UA-CODE-TO-COME>>'
@@ -22,3 +27,7 @@ contact:
     hidden:
       name: fbzx
       value: -7861934959779167198
+
+
+# Build settings
+markdown: kramdown

@@ -11,7 +11,11 @@
     <div class="usa-grid">
       <div id="logo">
         <a href="{{ site.baseurl }}/" accesskey="1" title="Home" aria-label="Home">
-          <h1 class="usa-header-title">{{ site.title }}</h1>
+          {% if site.logo %}
+            <img width="150px" src="{{ site.logo }}" alt="Logo for {{ site.title }}">
+          {% else %}
+            <h1 class="usa-header-title">{{ site.title }}</h1>
+          {% endif %}
         </a>
       </div>
       <ul class="usa-nav-list usa-unstyled-list">

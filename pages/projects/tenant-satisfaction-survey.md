@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Reducing Summer Melt
-permalink: /projects/reducing-summer-melt/
+title: Tenant Satisfaction Survey
+permalink: /projects/tenant-satisfaction-survey/
 image: /assets/img/pathway.jpg
 ---
 
