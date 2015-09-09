@@ -1,21 +1,26 @@
 <section class="banner contact">
   <div class="usa-grid">
-  <form id="contact" action="{{ site.contact.form.url }}" method="POST">
+  {% for form in site.forms %}
+    {% if form.type == 'newsletter' %}
+      {% assign f = form %}
+    {% endif %}
+  {% endfor %}
 
+  <form id="contact" action="{{ f.url }}" method="POST">
     <fieldset>
-
       <legend>Sign up to receive updates from SBST</legend>
-      <div class="usa-width-one-half">
-        <label for="contact-email">Email Address</label>
-        <input id="contact-email" name="{{ site.contact.form.email }}" type="text">
-      </div>
-      <div class="usa-width-one-half usa-end-row">
-      </div>
-      {% if site.contact.form.hidden %}
-        <input id="contact-hidden" type="hidden" name="{{ site.contact.form.hidden.name }}" value="{{ site.contact.form.hidden.value }}">
-      {% endif %}
+      {% for field in f.fields %}
+        <div class="usa-width-one-half">
+          <label for="contact-{{ field.name }}">{{ field.label }}</label>
+          <input id="contact-{{ field.name }}"
+            name="{{ field.name }}" type="{{ field.type }}"
+            {% if field.value %} value="{{ field.value }}" {% endif %}>
+        </div>
+        <div class="usa-width-one-half usa-end-row">
+        </div>
+      {% endfor %}
       <div class="usa-width-one-whole usa-input-buttons-inline">
-        <input type="submit" value="Subscribe to email updates">
+        <input type="submit" value="{{ f.button }}">
       </div>
 
     </fieldset>

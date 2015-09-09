@@ -3,19 +3,22 @@
   <div class="usa-footer-secondary_section">
     <div class="usa-grid">
       <div class="usa-footer-logo usa-width-one-half">
-        {% if site.contact.agencyimage %}
-          <img class="usa-footer-logo-img" src="{{ site.contact.agencyimage | prepend: site.baseurl }}" alt="Logo image">
+        {% if site.footer.image %}
+          <img class="usa-footer-logo-img" src="{{ site.footer.image | prepend: site.baseurl }}" alt="Logo image">
+        {% endif %}
+        {% if site.footer.text %}
+          <p>{{ site.footer.text }}</p>
         {% endif %}
       </div>
 
       <div class="usa-footer-contact-links usa-width-one-half">
 
         <address>
-          <h3 class="usa-footer-contact-heading">{{ site.contact.agencyname }}</h3>
-          {% if site.contact.phonenumber %}
-            <p><a href="tel:{{ site.contact.phonenumber }}">{{ site.contact.phonenumber }}</a></p>
+          <h3 class="usa-footer-contact-heading">{{ site.footer.name }}</h3>
+          {% if site.footer.phonenumber %}
+            <p><a href="tel:{{ site.footer.phonenumber }}">{{ site.footer.phonenumber }}</a></p>
           {% endif %}
-          <p><a href="mailto:{{ site.contact.email }}">{{ site.contact.email }}</a></p>
+          <p><a href="mailto:{{ site.footer.email }}">{{ site.footer.email }}</a></p>
         </address>
       </div>
     </div>

@@ -19,18 +19,23 @@ analytics:
     agency: GSA
     subagency: SBST
 
-
-contact:
-  agencyname: Social & Behavioral Sciences Team
-  agencyimage: /assets/img/gsa-logo.png
-  email: sbst@gsa.gov
-  form:
-    url: https://docs.google.com/forms/d/1Tsdm_2spbxWnmTFMrH5eHxpOAN9W4LB3eaMMXJ1N0rU/formResponse
-    email: entry.1440502332
-    hidden:
+forms:
+- type: newsletter
+  url: https://docs.google.com/forms/d/1Tsdm_2spbxWnmTFMrH5eHxpOAN9W4LB3eaMMXJ1N0rU/formResponse
+  button: Subscribe to email updates
+  fields:
+    - type: email
+      name: entry.1440502332
+      label: Email Address
+    - type: hidden
       name: fbzx
       value: -7861934959779167198
 
+footer:
+  name: Social & Behavioral Sciences Team
+  image: /assets/img/gsa-logo.png
+  email: sbst@gsa.gov
+  text: This site is run by the General Services Administration for the National Science and Technology Council's Subcommittee on the Social and Behavioral Sciences Team.
 
 # Build settings
 markdown: kramdown
