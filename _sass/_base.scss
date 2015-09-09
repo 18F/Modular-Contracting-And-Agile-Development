@@ -14,10 +14,12 @@ h1, h2, h3, h4, h5, h6,
 ul, ol, li, a, label {
   font-weight: 300;
 }
+ul, li {
+  margin-bottom: 0;
+}
+main {
+  margin-bottom: 1em;
+}
 form {
   max-width: 100%;
-}
-iframe {
-  margin-left: 25%;
-  width: 50%;
 }

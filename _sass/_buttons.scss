@@ -29,3 +29,19 @@ button:hover,
 [type="image"]:hover {
   background-color: darken($button-color, 25%);
 }
+@media (max-width: 500px) {
+  .usa-button,
+  .usa-button-primary,
+  .usa-button:visited,
+  .usa-button-primary:visited,
+  button,
+  [type="button"],
+  [type="submit"],
+  [type="reset"],
+  [type="button"],
+  [type="submit"],
+  [type="reset"],
+  [type="image"] {
+    width: auto;
+  }
+}

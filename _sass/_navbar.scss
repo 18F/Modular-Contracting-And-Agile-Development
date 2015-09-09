@@ -16,6 +16,11 @@
   float: left;
   max-width: 32rem;
 }
+@media (max-width: 500px) {
+  #logo img {
+      width: 90px;
+  }
+}
 #logo a {
   border: none;
 }
@@ -38,6 +43,14 @@ li.usa-menu-item {
   font-size: 18px;
   display: inline;
   margin-right: 2em;
+}
+@media (max-width: 500px) {
+  ul.usa-nav-list {
+    margin-top: .5em;
+  }
+  li.usa-menu-item {
+    display: block;
+  }
 }
 li.usa-menu-item:last-child {
   margin-right: 0;

@@ -6,7 +6,7 @@
   function ajaxifyContactForm () {
     var contactForm = $('#contact'),
         originalUrl = contactForm.attr('action');
-        contactBtn  = $('[type=submit]'),
+        contactBtn  = $('.contact [type=submit]'),
         alert       = $('#contact-alert');
 
     contactBtn.on('click', function (e) {
@@ -16,12 +16,9 @@
 
       img.on('error', function (e) {
         console.log('known error', e);
-        window.setTimeout(function() {
-          alert.fadeOut();
-        }, 1000);
       });
 
-      alert.fadeIn(0);
+      contactBtn.val('Thank you');
       contactBtn.attr('disabled', true);
       img.attr('src', url);
 
