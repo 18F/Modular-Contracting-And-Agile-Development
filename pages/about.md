@@ -26,6 +26,6 @@ When these insights are brought into policy, the returns are significant. Colleg
 
 An effective and efficient government must, therefore, reflect our best understanding of human behavior—how people engage with, participate in, and respond to policies and programs. The Social and Behavioral Sciences Team is here to work with agencies to do this. 
 
-## Who We are
+## Who We Are
 
 To ensure we build a government that is responsive to citizens, we began recruiting leading behavioral scientists and innovators from across the country and launched the first-ever Social and Behavioral Sciences Team (SBST) in 2014. SBST is organized under the National Science and Technology Council and also is supported by a unit in Office of Evaluation Sciences (OES) at the General Services Administration (GSA). 
