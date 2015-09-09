@@ -14,3 +14,12 @@
   border-top: 3px solid coral;
   padding-top: .5em;
 }
+
+.project--description a {
+  border-bottom: 0;
+  color: $text-color;
+}
+
+.project--description a:hover {
+  border-bottom: 1px dotted;
+}
