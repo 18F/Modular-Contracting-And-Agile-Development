@@ -7,7 +7,7 @@ layout: base
     <div class="usa-grid">
       <div class="usa-width-whole hero-content">
         <h1>{{ page.hero-text }}</h1>
-        <a class="usa-button" href="{{ page.hero-button-link }}">{{ page.hero-button-text }}</a>
+        <a class="usa-button" href="{{ page.hero-button-link | prepend: site.baseurl }}">{{ page.hero-button-text }}</a>
       </div>
     </div>
   </div>
