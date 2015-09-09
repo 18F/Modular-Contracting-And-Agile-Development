@@ -3,6 +3,7 @@ layout: page
 title: About
 nav: 1
 permalink: /about/
+tags: nav
 ---
 
 ## Why We're Here

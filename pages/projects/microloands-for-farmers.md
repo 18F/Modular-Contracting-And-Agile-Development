@@ -3,6 +3,7 @@ layout: project
 title: Microloans for Farmers
 permalink: /projects/microloans-for-farmers/
 image: /assets/img/church.jpg
+tags: project
 ---
 
 # Our second project

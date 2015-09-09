@@ -19,8 +19,7 @@
         </a>
       </div>
       <ul class="usa-nav-list usa-unstyled-list">
-        {% assign pages = site.pages %}
-        {% for page in pages %}
+        {% for page in site.pages %}
           {% if page.nav %}
             <li class="usa-menu-item">
               <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>

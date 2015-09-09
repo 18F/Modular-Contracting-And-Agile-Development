@@ -3,6 +3,7 @@ layout: project
 title: Industrial funding fee reports
 permalink: /projects/industrial-funding-fee-reports/
 image: /assets/img/helicopter-in-the-sunset.jpg
+tags: project
 ---
 
 # Our project

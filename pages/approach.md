@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Approach
-nav: 2
+nav: 3
 permalink: /approach/
+tags: nav
 ---
 
 ## What are the social and behavioral sciences?
