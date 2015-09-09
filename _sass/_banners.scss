@@ -1,6 +1,9 @@
 .banner.tagline {
   background-color: $text-color;
 }
+.banner.tagline .usa-grid {
+  padding: 3rem;
+}
 .banner.tagline p {
   color: white;
   margin-bottom: 75px;

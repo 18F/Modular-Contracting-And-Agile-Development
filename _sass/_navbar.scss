@@ -16,11 +16,7 @@
   float: left;
   max-width: 32rem;
 }
-@media (max-width: 500px) {
-  #logo img {
-      width: 90px;
-  }
-}
+
 #logo a {
   border: none;
 }
@@ -28,11 +24,11 @@
   font-size: 3rem;
   margin: 0;
 }
-ul.usa-nav-list a {
+.usa-nav-list a {
   border-bottom: 0;
   text-decoration: none;
 }
-ul.usa-nav-list {
+.usa-nav-list {
   bottom: 20px;
   float: right;
   margin-top: 1em;
@@ -44,15 +40,25 @@ li.usa-menu-item {
   display: inline;
   padding: 1.3em;
 }
-li.usa-menu-item:hover {
+.usa-menu-item:hover {
   background-color: $text-color;
 }
-li.usa-menu-item:hover a {
+.usa-menu-item:hover a {
   color: white;
 }
 @media (max-width: 500px) {
+  #logo,.usa-nav-list {
+    float: none;
+    text-align: center;
+  }
+  #logo img {
+    width: 90px;
+  }
   ul.usa-nav-list {
-    margin-top: .5em;
+    bottom: 0;
+    position: relative;
+    right: 0;
+    width: 100%;
   }
   li.usa-menu-item {
     display: block;
