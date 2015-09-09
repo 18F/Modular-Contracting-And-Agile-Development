@@ -6,7 +6,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 legend,
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 500;
+  margin-bottom: 20px;
+}
+p,
+legend,
+h1, h2, h3, h4, h5, h6,
+ul, ol, li, a, label {
+  font-weight: 300;
 }
 form {
   max-width: 100%;

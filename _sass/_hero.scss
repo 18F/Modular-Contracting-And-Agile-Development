@@ -9,9 +9,17 @@
 .hero-content {
   background-color: azure;
   background-color: transparentize($text-color, .5);
-  padding: 1.2em;
+  padding-top: 20px;
   text-align: center;
 }
 .hero-content h1 {
   color: white;
+  font-size: 40px;
+  font-weight: 100;
+  line-height: 50px;
+  margin-bottom: 0;
+}
+.hero-content .usa-button {
+  font-size: 22px;
+  line-height: 44px;
 }

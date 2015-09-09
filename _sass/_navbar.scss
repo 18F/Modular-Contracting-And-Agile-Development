@@ -1,6 +1,11 @@
+.usa-disclaimer {
+  text-align: center;
+}
 .usa-site-navbar {
-  border-bottom: 1px solid gray;
   padding-top: 1rem;
+}
+.usa-site-navbar .usa-grid {
+  position: relative;
 }
 .usa-site-navbar .usa-grid::before,
 .usa-site-navbar .usa-grid::after {
@@ -18,16 +23,19 @@
   font-size: 3rem;
   margin: 0;
 }
-ul.usa-unstyled-list a {
+ul.usa-nav-list a {
   border-bottom: 0;
   text-decoration: none;
 }
 ul.usa-nav-list {
+  bottom: 20px;
   float: right;
   margin-top: 1em;
-  margin-bottom: .5em;
+  position: absolute;
+  right: 3rem;
 }
 li.usa-menu-item {
+  font-size: 18px;
   display: inline;
   margin-right: 2em;
 }

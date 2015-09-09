@@ -1,3 +1,14 @@
-footer {
-  margin-top: 2em;
+.usa-footer-secondary_section {
+  background-color: $text-color;
+}
+footer h1,
+footer h2,
+footer h3,
+footer h4,
+footer h5,
+footer h6,
+footer a,
+footer a:hover,
+footer a:visited {
+  color: white;
 }

@@ -9,8 +9,7 @@
         <div class="usa-width-one-third project">
         {% endif %}
           <div class="project--image" style="background-image: url({{ project.image | prepend: site.baseurl }});"></div>
-          <h3 class="project--title">{{ project.name }}</h3>
-          <a href="{{ project.link | prepend: site.baseurl }}">Read the case study</a>
+          <h3 class="project--title">{{ project.name }} <a href="{{ project.link | prepend: site.baseurl }}">&gt;</a></h3>
         </div>
     {% endfor %}
   </div>

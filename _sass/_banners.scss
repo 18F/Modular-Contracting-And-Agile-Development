@@ -1,14 +1,18 @@
-.banner {
-  padding-top: 2em;
-  padding-bottom: 2em;
-}
 .banner.tagline {
   background-color: $text-color;
 }
-.banner.tagline h2,
 .banner.tagline p {
   color: white;
+  margin-bottom: 75px;
 }
+.banner.tagline h2 {
+  color: white;
+  margin-top: 75px;
+}
+
 .banner.contact {
   background-color: $contact-background-color;
+}
+.banner.contact form {
+  padding-top: 2em;
 }

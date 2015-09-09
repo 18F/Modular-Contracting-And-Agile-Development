@@ -1,20 +1,4 @@
 <footer class="usa-footer usa-footer-medium usa-sans" role="contentinfo">
-  <div class="usa-footer-primary-section">
-    <div class="usa-grid-full">
-      <nav class="usa-footer-nav">
-        <ul class="usa-unstyled-list">
-          {% assign pages = site.pages %}
-          {% for page in pages %}
-            {% if page.nav %}
-            <li class="usa-width-one-sixth usa-footer-primary-content">
-              <a class="usa-footer-primary-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-            </li>
-            {% endif %}
-          {% endfor %}
-        </ul>
-      </nav>
-    </div>
-  </div>
 
   <div class="usa-footer-secondary_section">
     <div class="usa-grid">

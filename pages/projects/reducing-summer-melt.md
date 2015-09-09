@@ -5,6 +5,6 @@ permalink: /projects/reducing-summer-melt/
 image: /assets/img/pathway.jpg
 ---
 
-# A cool project
+## A cool project
 
 With some text here
