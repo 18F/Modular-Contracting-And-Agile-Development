@@ -4,14 +4,14 @@
     <div class="usa-grid">
       <div class="usa-footer-logo usa-width-one-half">
         {% if site.contact.agencyimage %}
-          <img class="usa-footer-logo-img" src="{{ site.contact.agencyimage }}" alt="Logo image">
+          <img class="usa-footer-logo-img" src="{{ site.contact.agencyimage | prepend: site.baseurl }}" alt="Logo image">
         {% endif %}
       </div>
 
       <div class="usa-footer-contact-links usa-width-one-half">
 
         <address>
-          <h3 class="usa-footer-contact-heading">Contact {{ site.contact.agencyname }}</h3>
+          <h3 class="usa-footer-contact-heading">{{ site.contact.agencyname }}</h3>
           {% if site.contact.phonenumber %}
             <p><a href="tel:{{ site.contact.phonenumber }}">{{ site.contact.phonenumber }}</a></p>
           {% endif %}

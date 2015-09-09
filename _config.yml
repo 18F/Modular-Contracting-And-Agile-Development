@@ -1,6 +1,5 @@
 # Site settings
 title: SBST
-email: sbst@gsa.gov
 description: We are a cross-agency team with backgrounds in a diversity of fields, including economics, policy, psychology, law, medicine, statistics and political science. What unifies us is our commitment to using what research tells us about how people make decisions to better serve Americans and improve government efficiency.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
@@ -22,9 +21,9 @@ analytics:
 
 
 contact:
-  agencyname: Your Team Name
-  agencyimage: https://pages.18f.gov/usfwds/assets/img/logo-img.png
-  email: you@yourteam.gov
+  agencyname: Social & Behavioral Sciences Team
+  agencyimage: /assets/img/gsa-logo.png
+  email: sbst@gsa.gov
   form:
     url: https://docs.google.com/forms/d/1Tsdm_2spbxWnmTFMrH5eHxpOAN9W4LB3eaMMXJ1N0rU/formResponse
     email: entry.1440502332
