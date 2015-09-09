@@ -1,6 +1,6 @@
 # Site settings
 title: SBST
-email: you@yourteam.gov
+email: sbst@gsa.gov
 description: We are a cross-agency team with backgrounds in a diversity of fields, including economics, policy, psychology, law, medicine, statistics and political science. What unifies us is our commitment to using what research tells us about how people make decisions to better serve Americans and improve government efficiency.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
@@ -14,7 +14,12 @@ colors:
   contact: 'rgb(248, 235, 212)'
 
 analytics:
-  code: '<<UA-CODE-TO-COME>>'
+  google:
+    code: '<<UA-CODE-TO-COME>>'
+  dap:
+    agency: GSA
+    subagency: SBST
+
 
 contact:
   agencyname: Your Team Name
