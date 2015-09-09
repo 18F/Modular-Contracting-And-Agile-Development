@@ -42,7 +42,13 @@ ul.usa-nav-list {
 li.usa-menu-item {
   font-size: 18px;
   display: inline;
-  margin-right: 2em;
+  padding: 1.3em;
+}
+li.usa-menu-item:hover {
+  background-color: $text-color;
+}
+li.usa-menu-item:hover a {
+  color: white;
 }
 @media (max-width: 500px) {
   ul.usa-nav-list {
