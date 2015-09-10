@@ -15,6 +15,7 @@
 #logo {
   float: left;
   max-width: 32rem;
+  height: 51px;
 }
 
 #logo a {
@@ -38,7 +39,7 @@
 li.usa-menu-item {
   font-size: 18px;
   display: inline;
-  padding: 1.3em;
+  padding: 1em;
 }
 .usa-menu-item:hover {
   background-color: $text-color;

@@ -12,7 +12,8 @@ button,
 [type="image"] {
   background-color: $button-color;
   color: $button-text-color;
-  font-weight: 300;
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
   margin-bottom: 20px;
   margin-top: 20px;
 }
