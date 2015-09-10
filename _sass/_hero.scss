@@ -7,8 +7,7 @@
   min-height: 30em;
 }
 .hero-content {
-  background-color: azure;
-  background-color: transparentize($text-color, .5);
+  background-color: transparentize($text-color, .6);
   margin-left: 20%;
   padding-top: 20px;
   text-align: center;
