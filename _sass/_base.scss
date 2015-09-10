@@ -36,9 +36,11 @@ form {
   max-width: 62.5rem;
 }
 
-.usa-width-one-whole.usa-content {
-  position: relative;
-  left: 50%;
-  max-width: 62.5rem;
-  margin-left: -31.25rem;
+@media (min-width: 600px) {
+  .usa-width-one-whole.usa-content {
+    position: relative;
+    left: 50%;
+    max-width: 62.5rem;
+    margin-left: -31.25rem;
+  }
 }
