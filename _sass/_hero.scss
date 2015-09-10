@@ -2,22 +2,24 @@
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;
-  align-items: center;
-  justify-content: center;
-  min-height: 30em;
+  min-height: 32em;
+  background-position: 50% 20%;
+  flex-direction: column-reverse;
 }
 .hero-content {
   background-color: transparentize($text-color, .6);
-  margin-left: 20%;
+  margin-left: 10%;
   padding-top: 20px;
   text-align: center;
-  width: 60%;
+  width: 80%;
+  margin-bottom: 20px;
 }
 .hero-content h1 {
   color: white;
   font-size: 36px;
   font-weight: 100;
   line-height: 50px;
+  margin-top: 0;
   margin-bottom: 0;
 }
 .hero-content .usa-button {
