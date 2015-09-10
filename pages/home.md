@@ -3,7 +3,7 @@ layout: home
 permalink: /
 hero-image: /assets/img/potus.jpg
 hero-text: "We believe that government works best when it's built for people. "
-hero-button-text: See what we do
+hero-button-text: What we do
 hero-button-link: /about/
 hero-youtube-id: ShvaavFq92s
 ---
