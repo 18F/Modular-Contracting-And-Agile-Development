@@ -9,6 +9,7 @@ p, ul, ol, li, a  {
 legend,
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: 20px;
+  color: $header-text-color;
 }
 ul, li {
   margin-bottom: 0;
@@ -18,4 +19,21 @@ main {
 }
 form {
   max-width: 100%;
+}
+.usa-content > p,
+.usa-content > ul,
+.usa-content > ol,
+.usa-content > h1,
+.usa-content > h2,
+.usa-content > h3,
+.usa-content > h4,
+.usa-content > h5,
+.usa-content > h6 {
+  max-width: 62.5rem;
+}
+
+.usa-width-one-whole.usa-content {
+  position: relative;
+  left: 50%;
+  margin-left: -31.25rem;
 }
