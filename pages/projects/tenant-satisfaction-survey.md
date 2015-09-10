@@ -3,6 +3,8 @@ layout: project
 title: Tenant Satisfaction Survey
 permalink: /projects/tenant-satisfaction-survey/
 tags: project
+image: /assets/img/project-images/tenant-statisfaction.jpg
+image-credit: https://commons.wikimedia.org/wiki/User:Aboutmovies
 ---
 ## What is the issue?
 

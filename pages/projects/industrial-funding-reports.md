@@ -3,6 +3,7 @@ layout: project
 title: Industrial Funding Fee Reports
 permalink: /projects/industrial-funding-fee-reports/
 tags: project
+image: /assets/img/project-images/funding-fee-reports.png
 ---
 ## What is the issue?
 
