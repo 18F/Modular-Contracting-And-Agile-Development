@@ -18,7 +18,7 @@ layout: base
     <div class="usa-width-one-whole usa-end-row">
       {{ content }}
       {% if page.content-button-link %}
-        <div class="content-button">
+        <div class="center-content">
           <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.content-button-text }}</a>
         </div>
       {% endif %}
@@ -26,14 +26,23 @@ layout: base
   </div>
 </section>
 
+{% if page.banner-heading %}
 <section class="banner tagline">
   <div class="usa-grid">
     <div class="usa-width-one-whole usa-end-row">
-      <h2>We are a cross-agency team with backgrounds in a diversity of fields, including economics, policy, psychology, law, medicine, statistics and political science.</h2>
-      <p>What unifies us is our commitment to using what research tells us about how people make decisions to better serve Americans and improve government efficiency.</p>
+      <h2>{{ page.banner-heading }}</h2>
+      {% if page.banner-text %}
+        <p>{{ page.banner-text }}</p>
+      {% endif %}
+      {% if page.banner-button-text %}
+      <div class="center-content">
+        <a href="{{ page.banner-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.banner-button-text }}</a>
+      </div>
+      {% endif %}
     </div>
   </div>
 </section>
+{% endif %}
 
 <section>
   <div class="usa-grid">
