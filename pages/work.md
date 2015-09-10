@@ -3,7 +3,6 @@ layout: project-list
 title: Work
 nav: 2
 permalink: /work/
-category: nav
 ---
 
 ## What We've Accomplished

@@ -19,12 +19,12 @@
         </a>
       </div>
       <ul class="usa-nav-list usa-unstyled-list">
-        {% for page in site.pages %}
-          {% if page.nav %}
-            <li class="usa-menu-item">
-              <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-            </li>
-          {% endif %}
+        {% assign navs = site.data.navbar %}
+
+        {% for nav in navs %}
+          <li class="usa-menu-item">
+            <a href="{{ nav.permalink | prepend: site.baseurl }}">{{ nav.name }}</a>
+          </li>
         {% endfor %}
       </ul>
     </div>
