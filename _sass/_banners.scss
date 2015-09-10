@@ -5,11 +5,11 @@
   padding: 3rem;
 }
 .banner.tagline p {
-  color: white;
+  color: $contact-text-color;
   margin-bottom: 75px;
 }
 .banner.tagline h2 {
-  color: white;
+  color: $contact-text-color;
   margin-top: 75px;
 }
 
@@ -18,4 +18,13 @@
 }
 .banner.contact form {
   padding-top: 2em;
+}
+.banner.contact h2,
+.banner.contact p,
+.banner.contact legend,
+.banner.contact label,
+.banner.contact a,
+.banner.contact a:hover,
+.banner.contact a:visited {
+  color: $contact-text-color;
 }

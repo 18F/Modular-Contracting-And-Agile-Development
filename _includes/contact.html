@@ -16,12 +16,19 @@
             name="{{ field.name }}" type="{{ field.type }}"
             {% if field.value %} value="{{ field.value }}" {% endif %}>
         </div>
-        <div class="usa-width-one-half usa-end-row">
-        </div>
       {% endfor %}
-      <div class="usa-width-one-whole usa-input-buttons-inline">
+      <div class="usa-width-one-half usa-input-buttons-inline">
         <input type="submit" value="{{ f.button }}">
       </div>
+
+      <div class="usa-width-one-half">
+        {% if f.privacypolicy %}
+          <p>Your privacy and security are important to us, we'll only share your information as described in <a href="{{ f.privacypolicy.url }}">{{ f.privacypolicy.name }}</a></p>
+        {% else %}
+          <p></p>
+        {% endif %}
+      </div>
+
 
     </fieldset>
 

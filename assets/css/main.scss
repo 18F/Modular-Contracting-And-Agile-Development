@@ -12,15 +12,17 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       {{ site.colors.text }};
-$button-color:     {{ site.colors.button }};
-$background-color: {{ site.colors.background }};
-$brand-color:      {{ site.colors.brand }};
-$contact-background-color: {{ site.colors.contact }};
+$background-color:         {{ site.colors.background }};
+$text-color:               {{ site.colors.text }};
+$button-color:             {{ site.colors.button.background }};
+$button-hover-color:       {{ site.colors.button.hover }};
+$button-text-color:        {{ site.colors.button.text }};
 
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$contact-background-color: {{ site.colors.contact.background }};
+$contact-text-color:       {{ site.colors.contact.text }};
+
+$footer-background-color:  {{ site.colors.footer.background }};
+$footer-text-color:        {{ site.colors.footer.text }};
 
 // Width of the content area
 $content-width:    800px;

@@ -23,3 +23,12 @@
 .project--description a:hover {
   border-bottom: 1px dotted;
 }
+
+.project--banner {
+  background-color: black;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 300px;
+  width: 100%;
+}

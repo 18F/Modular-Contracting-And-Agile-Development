@@ -8,9 +8,17 @@ logo: /assets/img/logo.png
 colors:
   background: '#fdfdfd'
   brand: '#2a7ae2'
-  button: 'rgb(239, 91, 93)'
-  text: 'rgb(45, 97, 114)'
-  contact: 'rgb(248, 235, 212)'
+  button:
+    background: '#C11802'
+    hover: '#981b1e'
+    text: 'white'
+  text: '#227292'
+  contact:
+    background: '#227292'
+    text: 'white'
+  footer:
+    background: 'rgb(241, 195, 82)'
+    text: 'black'
 
 analytics:
   google:
@@ -23,6 +31,9 @@ forms:
 - type: newsletter
   url: https://docs.google.com/forms/d/1Tsdm_2spbxWnmTFMrH5eHxpOAN9W4LB3eaMMXJ1N0rU/formResponse
   button: Subscribe
+  privacypolicy:
+    name: GSA Privacy and Security Notice
+    url: https://gsa.gov
   fields:
     - type: email
       name: entry.1440502332
@@ -33,7 +44,7 @@ forms:
 
 footer:
   name: Social & Behavioral Sciences Team
-  image: /assets/img/gsa-logo.png
+  image: /assets/img/gsa-logo-dark.jpg
   email: sbst@gsa.gov
   text: This site is run by the General Services Administration for the National Science and Technology Council's Subcommittee on the Social and Behavioral Sciences Team.
 

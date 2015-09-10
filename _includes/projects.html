@@ -1,20 +1,16 @@
-<section>
-  <div class="usa-grid">
-    <h2>Work</h2>
-    {% for project in site.data.projects %}
-        {% assign third = forloop.index | modulo: 3 %}
-        {% if third == 0 %}
-        <div class="usa-width-one-third usa-end-row project">
-        {% else %}
-        <div class="usa-width-one-third project">
-        {% endif %}
-          <div class="project--image" style="background-image: url({{ project.image | prepend: site.baseurl }});"></div>
-          <h3 class="project--description">
-            <a href="{{ project.link | prepend: site.baseurl }}">
-              {{ project.description }}&nbsp;&gt;
-            </a>
-          </h3>
-        </div>
-    {% endfor %}
-  </div>
-</section>
+<h2>Work</h2>
+{% for project in site.data.projects %}
+    {% assign third = forloop.index | modulo: 3 %}
+    {% if third == 0 %}
+    <div class="usa-width-one-third usa-end-row project">
+    {% else %}
+    <div class="usa-width-one-third project">
+    {% endif %}
+      <div class="project--image" style="background-image: url({{ project.image | prepend: site.baseurl }});"></div>
+      <h3 class="project--description">
+        <a href="{{ project.link | prepend: site.baseurl }}">
+          {{ project.description }}&nbsp;&gt;
+        </a>
+      </h3>
+    </div>
+{% endfor %}

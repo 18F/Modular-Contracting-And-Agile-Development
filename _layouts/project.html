@@ -2,4 +2,8 @@
 layout: sidenav-page
 ---
 
+{% if page.image %}
+  <div class="project--banner" style="background-image: url({{ page.image | prepend: site.baseurl }});"></div>
+{% endif %}
+
 {{ content }}

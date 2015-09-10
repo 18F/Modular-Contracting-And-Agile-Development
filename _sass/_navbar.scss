@@ -44,7 +44,7 @@ li.usa-menu-item {
   background-color: $text-color;
 }
 .usa-menu-item:hover a {
-  color: white;
+  color: $button-text-color;
 }
 @media (max-width: 500px) {
   #logo,.usa-nav-list {
