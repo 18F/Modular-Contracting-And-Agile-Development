@@ -1,5 +1,6 @@
 <h2>Work</h2>
 {% for project in site.data.projects %}
+  {% unless project.featured %}
     {% assign third = forloop.index | modulo: 3 %}
     {% if third == 0 %}
     <div class="usa-width-one-third usa-end-row project">
@@ -13,4 +14,5 @@
         </a>
       </h3>
     </div>
+  {% endunless %}
 {% endfor %}
