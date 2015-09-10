@@ -15,6 +15,7 @@ $spacing-unit:     30px;
 $background-color:         {{ site.colors.background }};
 $headers-color:            {{ site.colors.headers }};
 $text-color:               {{ site.colors.text }};
+$header-text-color:       {{ site.colors.headers }};
 $button-color:             {{ site.colors.button.background }};
 $button-hover-color:       {{ site.colors.button.hover }};
 $button-text-color:        {{ site.colors.button.text }};

@@ -12,7 +12,7 @@ colors:
     hover: '#134050'
     text: '#fff'
   headers: '#126ca7'
-  text: '#227292'
+  text: '#000000'
   projects:
     accent: 'rgb(249, 131, 74)'
   contact:
@@ -51,6 +51,9 @@ footer:
   name: Social & Behavioral Sciences Team
   image: /assets/img/gsa-logo-dark.jpg
   email: sbst@gsa.gov
+  twitter:
+    - usgsa
+    - whitehouseostp
   text: This site is run by the General Services Administration for the National Science and Technology Council's Subcommittee on the Social and Behavioral Sciences Team.
 
 # Build settings
