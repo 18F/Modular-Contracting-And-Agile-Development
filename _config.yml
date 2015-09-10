@@ -3,24 +3,27 @@ title: SBST
 description: We are a cross-agency team with backgrounds in a diversity of fields, including economics, policy, psychology, law, medicine, statistics and political science. What unifies us is our commitment to using what research tells us about how people make decisions to better serve Americans and improve government efficiency.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-logo: /assets/img/logos/sbstgov-red.png
+logo: /assets/img/logos/sbstgov-gray.png
 
 colors:
   background: '#fdfdfd'
-  brand: '#2a7ae2'
   button:
-    background: 'rgb(250, 86, 70)'
-    hover: 'rgb(107, 36, 31)'
-    text: 'white'
+    background: '#126ca7'
+    hover: '#134050'
+    text: '#fff'
+  headers: '#126ca7'
   text: '#227292'
   projects:
     accent: 'rgb(249, 131, 74)'
   contact:
-    background: 'rgb(46, 154, 196)'
-    text: 'white'
+    background: '#126ca7'
+    text: '#fff'
+    button:
+      background: '#f2c446'
+      text: '#134050'
   footer:
-    background: 'rgb(241, 195, 82)'
-    text: 'black'
+    background: '#4c4c4c'
+    text: '#fff'
 
 analytics:
   google:

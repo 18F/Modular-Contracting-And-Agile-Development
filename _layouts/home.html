@@ -13,10 +13,15 @@ layout: base
   </div>
 </section>
 
-<section>
+<section class="content">
   <div class="usa-grid">
     <div class="usa-width-one-whole usa-end-row">
       {{ content }}
+      {% if page.content-button-link %}
+        <div class="content-button">
+          <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.content-button-text }}</a>
+        </div>
+      {% endif %}
     </div>
   </div>
 </section>

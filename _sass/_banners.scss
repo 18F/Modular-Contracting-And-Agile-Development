@@ -28,3 +28,15 @@
 .banner.contact a:visited {
   color: $contact-text-color;
 }
+
+.contact .usa-button,
+.contact .usa-button-primary,
+.contact .usa-button:visited,
+.contact .usa-button-primary:visited,
+.contact button,
+.contact [type="button"],
+.contact [type="submit"],
+.contact [type="reset"] {
+  background-color: $contact-button-color;
+  color: $contact-button-text-color;
+}
