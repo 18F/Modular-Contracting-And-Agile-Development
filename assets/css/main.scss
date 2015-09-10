@@ -13,6 +13,7 @@ $base-line-height: 1.5;
 $spacing-unit:     30px;
 
 $background-color:         {{ site.colors.background }};
+$headers-color:            {{ site.colors.headers }};
 $text-color:               {{ site.colors.text }};
 $header-text-color:       {{ site.colors.headers }};
 $button-color:             {{ site.colors.button.background }};
@@ -23,6 +24,8 @@ $project-accent-color:     {{ site.colors.projects.accent }};
 
 $contact-background-color: {{ site.colors.contact.background }};
 $contact-text-color:       {{ site.colors.contact.text }};
+$contact-button-color:     {{ site.colors.contact.button.background }};
+$contact-button-text-color:       {{ site.colors.contact.button.text }};
 
 $footer-background-color:  {{ site.colors.footer.background }};
 $footer-text-color:        {{ site.colors.footer.text }};
@@ -53,6 +56,7 @@ $on-laptop:        800px;
         "buttons",
         "navbar",
         "sidenav",
+        "home",
         "hero",
         "iframe",
         "projects",

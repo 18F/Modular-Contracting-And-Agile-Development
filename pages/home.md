@@ -5,6 +5,8 @@ hero-image: /assets/img/potus.jpg
 hero-text: "We believe that government works best when it's built for people. "
 hero-button-text: What we do
 hero-button-link: /about/
+content-button-text: View the report
+content-button-link: assets/report.pdf
 ---
 ## President Obama ( ) that makes the Social and Behavioral Sciences Team a permanent part of government
 
