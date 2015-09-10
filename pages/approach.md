@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Approach
-nav: 3
 permalink: /approach/
 ---
 
