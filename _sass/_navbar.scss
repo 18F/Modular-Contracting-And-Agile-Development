@@ -39,12 +39,12 @@
 li.usa-menu-item {
   font-size: 18px;
   display: inline;
+}
+.usa-menu-item a {
   padding: 1em;
 }
-.usa-menu-item:hover {
-  background-color: $button-color;
-}
 .usa-menu-item:hover a {
+  background-color: $button-color;
   color: $button-text-color;
 }
 @media (max-width: 500px) {
