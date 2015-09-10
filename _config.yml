@@ -22,7 +22,7 @@ analytics:
 forms:
 - type: newsletter
   url: https://docs.google.com/forms/d/1Tsdm_2spbxWnmTFMrH5eHxpOAN9W4LB3eaMMXJ1N0rU/formResponse
-  button: Subscribe to email updates
+  button: Subscribe
   fields:
     - type: email
       name: entry.1440502332

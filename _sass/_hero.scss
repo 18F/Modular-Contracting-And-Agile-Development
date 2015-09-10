@@ -9,17 +9,29 @@
 .hero-content {
   background-color: azure;
   background-color: transparentize($text-color, .5);
+  margin-left: 20%;
   padding-top: 20px;
   text-align: center;
+  width: 60%;
+}
+@media (max-width: 500px) {
+  .hero-content {
+    margin-bottom: 2em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50%;
+    padding-top: 10px;
+    width: auto;
+  }
 }
 .hero-content h1 {
   color: white;
-  font-size: 40px;
+  font-size: 36px;
   font-weight: 100;
   line-height: 50px;
   margin-bottom: 0;
 }
 .hero-content .usa-button {
   font-size: 22px;
-  line-height: 44px;
+  line-height: 30px;
 }
