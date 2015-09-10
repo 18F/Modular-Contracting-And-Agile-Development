@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About
-nav: 1
 permalink: /about/
+image: /assets/img/about.jpg
 ---
 
 ## Why we're here

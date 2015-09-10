@@ -1,8 +1,8 @@
 ---
 layout: project-list
 title: Work
-nav: 2
 permalink: /work/
+image: /assets/img/work.jpg
 ---
 
 ## What We've Accomplished
