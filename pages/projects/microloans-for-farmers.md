@@ -1,8 +1,10 @@
 ---
 layout: project
-title: Microloans for farmers
+title: Microloans for Farmers
 permalink: /projects/microloans-for-farmers/
 tags: project
+image: /assets/img/project-images/microloans-for-farmers.jpg
+image-credit: https://www.flickr.com/photos/usdagov
 ---
 ## What is the issue?
 

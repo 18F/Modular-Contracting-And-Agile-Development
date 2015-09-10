@@ -1,8 +1,8 @@
 - name: About
   permalink: '/about/'
-- name: Work
-  permalink: '/work/'
 - name: Approach
   permalink: '/approach/'
+- name: Work
+  permalink: '/work/'
 - name: Connect
   permalink: '/connect/'

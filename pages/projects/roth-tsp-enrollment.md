@@ -1,8 +1,9 @@
 ---
 layout: project
-title: Roth TSP enrollment
+title: Roth TSP Enrollment
 permalink: /projects/roth-tsp-enrollment/
 tags: project
+image: /assets/img/project-images/roth-tsp-enrollment.jpg
 ---
 ## What is the issue?
 

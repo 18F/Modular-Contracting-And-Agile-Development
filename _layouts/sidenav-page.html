@@ -22,6 +22,9 @@ layout: base
     {% if page.image %}
       <div class="page--banner" style="background-image: url({{ page.image | prepend: site.baseurl }});"></div>
     {% endif %}
+    {% if page.image-credit %}
+      <span class="caption"><a href="{{page.image-credit}}" target="_blank">Photo credit</a> (Creative Commons)</span>
+    {% endif %}
     {{ content }}
   </div>
 </div>
