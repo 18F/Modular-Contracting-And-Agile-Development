@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Industrial funding fee reports
+title: Industrial Funding Fee Reports
 permalink: /projects/industrial-funding-fee-reports/
 tags: project
 ---

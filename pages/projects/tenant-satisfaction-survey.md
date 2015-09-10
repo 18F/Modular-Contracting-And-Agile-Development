@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Tenant satisfaction survey
+title: Tenant Satisfaction Survey
 permalink: /projects/tenant-satisfaction-survey/
 tags: project
 ---

@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Income driven repayment
+title: Income Driven Repayment
 permalink: /projects/income-driven-repayment/
 tags: project
 ---

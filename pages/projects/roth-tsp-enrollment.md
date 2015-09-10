@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Roth TSP enrollment
+title: Roth TSP Enrollment
 permalink: /projects/roth-tsp-enrollment/
 tags: project
 ---

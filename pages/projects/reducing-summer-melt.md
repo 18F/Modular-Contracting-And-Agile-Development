@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Reducing summer melt
+title: Reducing Summer Melt
 permalink: /projects/reducing-summer-melt/
 tags: project
 ---
