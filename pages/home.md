@@ -7,6 +7,10 @@ hero-button-text: What we do
 hero-button-link: /about/
 content-button-text: View the report
 content-button-link: assets/report.pdf
+banner-heading: We are a cross-agency team with backgrounds in a diversity of fields, including economics, policy, psychology, law, medicine, statistics and political science.
+banner-text: What unifies us is our commitment to using what research tells us about how people make decisions to better serve Americans and improve government efficiency.
+banner-button-text: Our approach
+banner-button-link: /approach/
 ---
 ## President Obama ( ) that makes the Social and Behavioral Sciences Team a permanent part of government
 
