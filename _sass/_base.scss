@@ -1,18 +1,14 @@
 body,
-legend,
-h1, h2, h3, h4, h5, h6 {
+legend, label,
+h1, h2, h3, h4, h5, h6,
+p, ul, ol, li, a  {
   color: $text-color;
-  font-family: sans-serif;
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
 }
 legend,
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: 20px;
-}
-p,
-legend,
-h1, h2, h3, h4, h5, h6,
-ul, ol, li, a, label {
-  font-weight: 300;
 }
 ul, li {
   margin-bottom: 0;
