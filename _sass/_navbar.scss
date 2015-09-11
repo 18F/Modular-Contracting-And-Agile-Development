@@ -64,6 +64,9 @@ li.usa-menu-item {
   li.usa-menu-item {
     display: block;
   }
+  .usa-menu-item a {
+    padding: 0;
+  }
 }
 li.usa-menu-item:last-child {
   margin-right: 0;
