@@ -19,5 +19,5 @@ Federal vendors making sales through the Federal Supply Schedules are required t
 
 ## What was the impact?
 
-The median self-reported sales amount was $445 higher for vendors signing at the top of the form portal.  This translated into an extra $1.59 million in IFF paid to the government in a single quarter.
+The median self-reported sales amount was $445 higher for vendors signing at the top of the form.  This translated into an extra $1.59 million in IFF paid to the government in a single quarter.
 
