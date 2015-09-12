@@ -61,5 +61,3 @@ exclude:
   - CONTRIBUTING.md
   - LICENSE.md
   - README.md
-gems:
-  - jekyll-sitemap
