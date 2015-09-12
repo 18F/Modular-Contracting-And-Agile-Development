@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Income Driven Repayment
+title: Income-Driven Repayment
 permalink: /projects/income-driven-repayment/
 tags: project
 image: /assets/img/project-images/income-driven-repayment.jpg
@@ -9,16 +9,16 @@ image-credit: https://www.flickr.com/photos/timetrax/
 ---
 ## What is the issue?
 
-At-risk and delinquent student loan borrowers may benefit from alternative repayment plans.  There are several alternative payment options available to borrowers, such as Income-Based Repayment, Income-Contingent Repayment, and Pay-As-You-Earn.  Each of the plans link monthly payment amounts to their incomes, and can thus make student loan repayment more manageable.
+As student loan balances have risen in recent years, an increasing numbers of borrowers have struggled to stay on track with their payments. At-risk and delinquent borrowers may benefit from alternative repayment plans offered by the U.S. Department of Education known as income-driven repayment (IDR) plans. These plans link monthly payment amounts to borrower incomes, and can make student loan repayment more manageable.
 
 ## What is the insight?
 
-We know borrowers are busy and that decisions about student loan plans can be complex and challenging.  Sharing information about Income-Driven Repayment (IDR) options can help borrowers make informed decisions.
+Borrowers are busy, and decisions about student loan plans can be complex and challenging. Research from behavioral science finds that clear, timely notices can help people take up and choose programs like income-driven repayment plans. Sharing information about IDR options with borrowers at key moments can help borrowers make informed decisions about applying for those plans.
 
 ## What was the intervention?
 
-An e-mail campaign was used to increase awareness of Income-Driven Repayment plans and help borrowers make more informed decisions about loan repayment options given their circumstances. The campaign sent emails to over three million borrowers last year who had fallen behind on their payments, had higher-than-average debts, had grace periods coming to an end, had deferred or entered forbearance because of financial hardship or unemployment, or some combination of the above. Among the 841,442 borrowers who were 90-180 days delinquent on their loans, emails were sent in two waves roughly three weeks apart.
+An e-mail campaign was conducted to increase awareness of income-driven repayment plans and help borrowers make more informed decisions about loan repayment options given their circumstances. The campaign sent emails to over three million borrowers last year who had fallen behind on their payments, had higher-than-average debts, had grace periods coming to an end, had deferred or entered forbearance because of financial hardship or unemployment, or some combination of the above. Among the 841,442 borrowers who were 90 to 180 days delinquent on their loans, emails were sent in two waves roughly three weeks apart, in order to measure the impact of these emails.
 
 ## What was the impact?
 
-Sending emails to delinquent borrowers in the first wave resulted in a statistically significant, four-fold increase in completed income-driven repayment applications compared to those who had not yet received an email. This effect translates into roughly 6,600 additional completed applications after 20 days. In total, 221,000 email recipients from the campaign subm
+Sending emails to delinquent borrowers resulted in a statistically significant, four-fold increase in completed income-driven repayment applications compared to those who had not yet received an email. Over the three weeks between email waves, IDR application rates were four times higher among borrowers who had been sent an email than among those who had not yet been sent an email. A total of 4,327 applications for IDR were made by the former group, compared with only 982 applications by the latter.
