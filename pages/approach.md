@@ -6,7 +6,7 @@ permalink: /approach/
 
 ## How we work
 
-SBST seeks to build capacity in government by directly partnering experts with agency counterparts to identify opportunities, design, and rigorously test the impact of behaviorally-informed program improvements.
+SBST works to identify how behavioral insights can be integrated into Federal agency programs in order to help agencies achieve their missions and objectives. 
 
 SBST focuses on four features of program design where prior research and practice indicate that behavioral insights have an especially strong role to play in program outcomes:
 
