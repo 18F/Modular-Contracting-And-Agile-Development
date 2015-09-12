@@ -15,8 +15,8 @@ In order to enroll in TSP, Servicemembers need to know about TSP, log in to the 
 
 ## What was the intervention?
 
-Servicemembers who were not enrolled in TSP were sent emails that highlighted the opportunity and potential benefits of enrolling and saving in TSP. Eight different messages employed different combinations of behavioral insights: describing clear action steps to enroll, presenting enrollment as a chance to make a fresh-start with saving, describing the decision to enroll in TSP as a choice between two options, and emphasizing the short- and long-term benefits of saving. A ninth email was designed using language drawn from the TSP website. Most of the over 800,000 Servicemembers who were not enrolled in TSP as of April 27 received one of the eight emails.
+Servicemembers who were not enrolled in TSP were sent emails that highlighted the opportunity and potential benefits of enrolling and saving in TSP. Eight different messages employed different combinations of behavioral insights: describing clear action steps to enroll, presenting enrollment as a chance to make a fresh-start with saving, describing the decision to enroll in TSP as a choice between two options, and emphasizing the short- and long-term benefits of saving. A ninth email was designed using language drawn from the TSP website. Most of the over 800,000 Servicemembers who were not enrolled in TSP as of April 27 received one of the nine emails.
 
 ## What was the impact?
 
-The most effective email clarified the action steps needed to enroll and emphasized the potential long-term benefits of saving even a little each month. Sixty-seven percent more Servicemembers—4,930—enrolled in TSP in May 2015 as a result of being sent one of the messages with behavioral insights, compared to receiving no message at all.
+The most effective email clarified the action steps needed to enroll and emphasized the potential long-term benefits of saving even a little each month. Sixty-seven percent more Servicemembers—4,930—enrolled in TSP in May 2015 as a result of being sent one of the messages designed using behavioral insights, compared to receiving no message at all.
