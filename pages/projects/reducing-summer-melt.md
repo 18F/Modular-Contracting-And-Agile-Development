@@ -8,7 +8,7 @@ image-credit: https://www.flickr.com/photos/jenumfamily
 ---
 ## What is the issue?
 
-Every year 20–30 percent of college-accepted high school graduates in urban districts fail to matriculate in college in the fall—a phenomenon known as “summer melt.”
+Every year 20 to 30 percent of college-accepted high school graduates in urban districts fail to matriculate in college in the fall—a phenomenon known as “summer melt.”
 
 ## What is the insight?
 
