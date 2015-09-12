@@ -7,7 +7,7 @@ image: /assets/img/project-images/funding-fee-reports.png
 ---
 ## What is the issue?
 
-Transactions with the government often involve self-reporting. Individuals and businesses report things like income, sales figures, use of services, etc. What is reported on such forms impacts how much individuals and businesses owe in taxes and fees; it impacts eligibility for government benefits. And if the reporting is truthful and accurate, self-reporting can be more cost-effective than more burdensome audits or independent checks.
+Transactions with the government often involve self-reporting. Individuals and businesses report things like income, sales figures, and use of services. What is reported on such forms impacts how much individuals and businesses owe in taxes and fees; and it can impact eligibility for government benefits. If the reporting is truthful and accurate, self-reporting can be more cost-effective than more burdensome audits or independent checks.
 
 ## What is the insight?
 
