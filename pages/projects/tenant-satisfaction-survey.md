@@ -12,7 +12,7 @@ The General Service Administration (GSA)’s Public Buildings Service (PBS) owns
 
 ## What is the insight?
 
-Small details of program administration, like the timing of a mailing, can matter more for program outcomes than might be expected. Varying the time of day of workplace email requests can affect email opens and clicks for a response.
+Small details of program administration, like the framing or timing of an email, can matter more for program outcomes than might be expected. Varying the time of day of workplace email requests can affect email opens and clicks for a response.
 
 ## What was the intervention?
 
