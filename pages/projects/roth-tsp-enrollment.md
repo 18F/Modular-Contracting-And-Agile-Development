@@ -7,11 +7,11 @@ image: /assets/img/project-images/roth-tsp-enrollment.jpg
 ---
 ## What is the issue?
 
-The financial readiness of our military Servicemembers and their families is a priority of the Department of Defense. The military, like the civilian Federal government, offers a workplace savings plan called the Thrift Savings Plan (TSP) to help Servicemembers save and invest for their futures. However, just 42 percent of active duty Servicemembers are enrolled in TSP.
+The financial readiness of our military Servicemembers and their families is a priority of the Department of Defense. The military, like the civilian Federal government, offers a workplace savings plan called the Thrift Savings Plan (TSP) to help Servicemembers save and invest for their futures. However, just 42 percent of active duty Servicemembers are enrolled in TSP, compared to 87 percent of civilian Federal employees.
 
 ## What is the insight?
 
-In order to enroll in TSP, Servicemembers need to know about TSP, log in to the Department of Defense’s (DOD) Defense Finance and Accounting Service (DFAS) MyPay website, and select a contribution percentage. Research from behavioral science finds that clarifying and streamlining enrollment processes such as this can promote participation in programs. As TSP savings through traditional (pre-tax) or Roth (after-tax) contributions can confer both short- and long-term benefits, many of the over 800,000 non-enrolled Servicemembers might choose to enroll in TSP if actively presented with a chance to do so.
+In order to enroll in TSP, Servicemembers need to know about TSP, login to the Department of Defense’s (DOD) Defense Finance and Accounting Service (DFAS) MyPay website, and select a contribution percentage. Research from behavioral science finds that clarifying and streamlining enrollment processes such as this can promote participation in programs. As TSP savings through traditional (pre-tax) or Roth (after-tax) contributions can confer both short- and long-term benefits, many of the over 800,000 non-enrolled Servicemembers might choose to enroll in TSP if actively presented with a chance to do so.
 
 ## What was the intervention?
 
