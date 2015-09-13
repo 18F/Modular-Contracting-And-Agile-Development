@@ -8,7 +8,7 @@ image-credit: https://commons.wikimedia.org/wiki/User:Aboutmovies
 ---
 ## What is the issue?
 
-The General Service Administration (GSA)’s Public Buildings Service (PBS) owns or leases over 9,600 assets, with more than 370 million square feet of space for over a million federal employees. Each year, PBS sends Federal employees the Tenant Satisfaction Survey (TSS), the results of which help determine Federal facilities strategy. In 2014, PBS collaborated with SBST to simplify the survey and test different messages and methods for launching the survey, with the goal of increasing response rates.
+The General Service Administration (GSA)’s Public Buildings Service (PBS) owns or leases over 9,600 assets, with more than 370 million square feet of space for over a million federal employees. Each year, PBS sends Federal employees the Tenant Satisfaction Survey (TSS), the results of which help determine Federal facilities strategy. 
 
 ## What is the insight?
 
@@ -16,7 +16,7 @@ Small details of program administration, like the framing or timing of an email,
 
 ## What was the intervention?
 
-PBS spread out the emails among the intended 873,755 recipients over the course of Thursday, July 10, 2014. In order to reduce burden on the survey site contractor and ensure the site operated, the same email was scheduled to be sent to randomly selected groups of 96,000 federal employees every hour over the course of the day, starting at 8:55 a.m.
+In 2014, PBS collaborated with SBST to simplify the survey and test different messages and methods for launching the survey, with the goal of increasing response rates. In one project, PBS spread out the emails among the intended 873,755 recipients over the course of Thursday, July 10, 2014. In order to reduce burden on the survey site contractor and ensure the site operated, the same email was scheduled to be sent to randomly selected groups of 96,000 federal employees every hour over the course of the day, starting at 8:55 a.m.
 
 ## What was the impact?
 
