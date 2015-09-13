@@ -7,7 +7,7 @@ This report was developed by the Social and Behavioral Sciences Team (SBST), a c
 
 In building an initial portfolio of work, SBST focused on projects in two areas where behavioral science had a strong role to play and impacts could be demonstrated relatively rapidly:
 
-- **Streamlining Access to Programs:** projects to streamline access to programs in retirement security, education, healthcare, and economic opportunity.
+- **Assisting Americans by Streamlining Access to Programs:** projects to streamline access to programs in retirement security, education, healthcare, and economic opportunity.
 
 - **Improving Government Efficiency:** projects to improve program integrity, promote efficiencies by government workers, and help officials make cost-effective decisions.
 
