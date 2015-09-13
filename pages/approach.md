@@ -22,10 +22,11 @@ SBST focuses on four features of program design where prior research and practic
 
 Applying behavioral insights in the right context can lead to substantial improvements in program outcomes. Given the vast array of policies and programs across the Federal Government, and the full range of their objectives, how does SBST identify where to apply behavioral insights?
 
-SBST has found that three key elements define the most promising opportunities to apply behavioral insights:
+The most promising opportunities have three features:
 
-**Policy Goals:** SBST projects support well-defined policy goals or already-identified program challenges—for example, improving program integrity in Medicare to save taxpayer dollars. Successful projects require clear goals in part because SBST itself does not set policy.
+**Policy Goal:**a well-defined policy goal — for example, improving program integrity in Medicare to save taxpayer dollars, or enrolling eligible students in a school-lunch program. Successful projects require clear goals in part because SBST itself does not set policy.
 
-**Individual Behavior:** SBST projects identify a link between a policy goal or program outcome and the decisions or actions of individuals. This link is the essence of an SBST project. Where Federal policy outcomes do not depend on behavior, applications of behavioral insights will have little relevance, no matter how worthwhile the goal.
+**Individual Behavior:**a link between a policy goal or program outcome and the decisions or actions of individuals. This link is the essence of an SBST project. Where Federal policy outcomes do not depend on behavior, applications of behavioral insights will have little relevance, no matter how worthwhile the goal.
 
-**Program Touchpoints:** SBST projects operate at a point of direct interaction between the Federal Government and individuals. This point could be an application process or form, a website that offers program choices, information about government resources that are available to the public, or the structure of incentives (both financial and nonfinancial). SBST explores how behavioral insights can inform that interaction in ways that can potentially improve outcomes. If the goal is to help borrowers manage their student debt, for example, the application process for alternative repayment plans represents a touchpoint where behavioral insights could help borrowers choose the option that’s right for them.
+**Program Touchpoint:** a point of direct interaction between the Federal government and individuals. This point could be an application process or form, a website that offers program choices, information about government resources that are available to the public, or the structure of incentives (both financial and nonfinancial). SBST explores how behavioral insights can inform that interaction in ways that can potentially improve outcomes. If the goal is to help borrowers manage their student debt, for example, the application process for alternative repayment plans represents a touchpoint where behavioral insights could help borrowers choose the option that’s right for them.
+
