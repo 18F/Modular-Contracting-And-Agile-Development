@@ -5,10 +5,11 @@ permalink: /projects/tenant-satisfaction-survey/
 tags: project
 image: /assets/img/project-images/tenant-statisfaction.jpg
 image-credit: https://commons.wikimedia.org/wiki/User:Aboutmovies
+abstract: /assets/files/tenant-satisfaction-survey.pdf
 ---
 ## What is the issue?
 
-The General Service Administration (GSA)’s Public Buildings Service (PBS) owns or leases over 9,600 assets, with more than 370 million square feet of space for over a million federal employees. Each year, PBS sends Federal employees the Tenant Satisfaction Survey (TSS), the results of which help determine Federal facilities strategy. 
+The General Service Administration (GSA)’s Public Buildings Service (PBS) owns or leases over 9,600 assets, with more than 370 million square feet of space for over a million federal employees. Each year, PBS sends Federal employees the Tenant Satisfaction Survey (TSS), the results of which help determine Federal facilities strategy.
 
 ## What is the insight?
 

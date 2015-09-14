@@ -6,7 +6,7 @@
     {% else %}
     <div class="usa-width-one-third project">
     {% endif %}
-      <div class="project--image" style="background-image: url({{ project.image | prepend: site.baseurl }});"></div>
+      <a href="{{ project.link | prepend: site.baseurl }}" class="project--image" style="background-image: url({{ project.image | prepend: site.baseurl }});"></a>
       <h3 class="project--description">
         <a href="{{ project.link | prepend: site.baseurl }}">
           {{ project.description }}&nbsp;&gt;
