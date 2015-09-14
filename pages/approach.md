@@ -26,7 +26,7 @@ The most promising opportunities have three features:
 
 **Policy Goal:** a well-defined policy goal — for example, income-driven repayment plans aim to empower student loan borrowers with more manageable monthy payments. Successful projects require clear goals in part because SBST itself does not set policy.
 
-**Individual Behavior:** a link between a policy goal or program outcome and the decisions or actions of individuals - for example. This link is the essence of an SBST project. Where Federal policy outcomes do not depend on behavior, applications of behavioral insights will have little relevance, no matter how worthwhile the goal.
+**Individual Behavior:** a link between a policy goal or program outcome and the decisions or actions of individuals. This link is the essence of an SBST project. Where Federal policy outcomes do not depend on behavior, applications of behavioral insights will have little relevance, no matter how worthwhile the goal.
 
 **Program Touchpoint:** a point of direct interaction between the Federal government and individuals. This point could be an application process or form, a website that offers program choices, information about government resources that are available to the public, or the structure of incentives (both financial and nonfinancial). SBST explores how behavioral insights can inform that interaction in ways that can potentially improve outcomes. If the goal is to help borrowers manage their student debt, for example, the application process for alternative repayment plans represents a touchpoint where behavioral insights could help borrowers choose the option that’s right for them.
 
