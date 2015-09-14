@@ -28,6 +28,6 @@ The most promising opportunities have three features:
 
 **Program Touchpoint:** A point of direct interaction between the Federal government and individuals, such as an application process or form, a website that offers program choices, or the structure of incentives (financial and nonfinancial).
 
-So for example, if the policy goal is to help borrowers manage their student debt, the individual behavior might be whether or not to apply for an income-driven repayment (IDR) plan, and the program touchpoint might be the IDR application. And behavioral insights might suggest ways to most clearly present the IDR options and make the application as simple and intuitive as possible.
+So for example, if the policy goal is to help borrowers manage their student debt, the individual behavior might be whether or not to apply for an income-driven repayment (IDR) plan, and the program touchpoint might be the IDR application. Behavioral insights might suggest ways to most clearly present the IDR options and make the application as simple and intuitive as possible.
 
 
