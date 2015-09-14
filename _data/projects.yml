@@ -1,6 +1,10 @@
 - title: 2015 Annual Report
   link: /2015-annual-report/
   featured: true
+- title: Microloans for Farmers
+  description: A new outreach letter led to a more eligible farmers obtaining business investment loans.
+  link: /projects/microloans-for-farmers/
+  image: /assets/img/project-icons/tractor.png
 - title: Reducing Summer Melt
   description: Eight personalized text messages resulted in a nearly 9% increase in college enrollment.
   link: /projects/reducing-summer-melt/
@@ -9,10 +13,10 @@
   description: A single email to Servicemembers nearly doubled the rate of enrollment for a savings plan.
   link: /projects/roth-tsp-enrollment/
   image: /assets/img/project-icons/piggy-bank.png
-- title: Microloans for Farmers
-  description: A new outreach letter led to a more eligible farmers obtaining business investment loans.
-  link: /projects/microloans-for-farmers/
-  image: /assets/img/project-icons/tractor.png
+- title: Income-Driven Repayment
+  description: Timely emails to student loan borrowers led to a four-fold increase in applications for income-driven repayment plans.
+  link: /projects/income-driven-repayment/
+  image: /assets/img/project-icons/calendar.png
 - title: Tenant Satisfaction Survey
   description: Emails sent at lunchtime saw 1.5% more employees click through to a workplace survey.
   link: /projects/tenant-satisfaction-survey/
@@ -21,7 +25,3 @@
   description: A signature box at the start of a form led to an additional $1.59 million collected.
   link: /projects/industrial-funding-fee-reports/
   image: /assets/img/project-icons/consent.png
-- title: Income-Driven Repayment
-  description: Timely emails to student loan borrowers led to a four-fold increase in applications for income-driven repayment plans.
-  link: /projects/income-driven-repayment/
-  image: /assets/img/project-icons/calendar.png
