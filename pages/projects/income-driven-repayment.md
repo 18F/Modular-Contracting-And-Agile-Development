@@ -9,7 +9,7 @@ abstract: /assets/files/income-driven-repayment.pdf
 ---
 ## What is the issue?
 
-As student loan balances have risen in recent years, an increasing numbers of borrowers have struggled to stay on track with their payments. At-risk and delinquent borrowers may benefit from alternative repayment plans offered by the U.S. Department of Education known as income-driven repayment (IDR) plans. These plans link monthly payment amounts to borrower incomes, and can make student loan repayment more manageable.
+As student loan balances have risen in recent years, an increasing number of borrowers have struggled to stay on track with their payments. At-risk and delinquent borrowers may benefit from alternative repayment plans offered by the U.S. Department of Education known as income-driven repayment (IDR) plans. These plans link monthly payment amounts to borrower incomes, and can make student loan repayment more manageable.
 
 ## What is the insight?
 
@@ -21,4 +21,4 @@ An e-mail campaign was conducted to increase awareness of IDR plans and help bor
 
 ## What was the impact?
 
-Sending emails to delinquent borrowers resulted in a statistically significant, four-fold increase in completed IDR applications compared to those who had not yet received an email. Over the three weeks between email waves, IDR application rates were four times higher among borrowers who had been sent an email than among those who had not yet been sent an email. A total of 4,327 applications for IDR were made by the former group, compared with only 982 applications by the latter.
+Sending emails to delinquent borrowers resulted in a statistically significant, four-fold increase in completed IDR applications compared to those who had not yet received an email. A total of 4,327 applications for IDR were made by the former group, compared with only 982 applications by the latter.
