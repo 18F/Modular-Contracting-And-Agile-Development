@@ -13,6 +13,6 @@ Do you have an idea of a project at your agency that you'd like to discuss with 
 
 ## Register as an interested academic affiliate
 
-Are you interested in potentially supporting a project in your area of expertise? Tell us a bit about yourself, and if an opportunity arises, we'll notify you.
+Are you interested in supporting a project in your area of expertise? Tell us a bit about yourself, and if an opportunity arises, we'll notify you.
 
 [Register now >](https://docs.google.com/a/gsa.gov/forms/d/1Q-htQ4boVP4sSeAsgkejfQbS3opMMRXR0Er4s7hdsGg/viewform)
