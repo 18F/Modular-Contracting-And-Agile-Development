@@ -21,4 +21,4 @@ An e-mail campaign was conducted to increase awareness of IDR plans and help bor
 
 ## What was the impact?
 
-Sending emails to delinquent borrowers resulted in a statistically significant, four-fold increase in completed IDR applications compared to those who had not yet received an email. A total of 4,327 applications for IDR were made by the former group, compared with only 982 applications by the latter.
+Sending emails to delinquent borrowers resulted in a statistically significant, four-fold increase in completed IDR applications compared to those who had not yet received an email. A total of 4,327 applications for IDR were made by the former group, compared with only 982 applications by the latter. These results suggest that sending just a single email led roughly 6,600 additional borrowers in total to sign up for an IDR plan.
