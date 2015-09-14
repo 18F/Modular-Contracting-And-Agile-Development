@@ -13,7 +13,7 @@ The General Service Administration (GSA)’s Public Buildings Service (PBS) owns
 
 ## What is the insight?
 
-Small details of program administration, like the framing or timing of an email, can matter more for program outcomes than might be expected. Varying the time of day of workplace email requests can affect email opens and clicks for a response.
+Small details of program administration, like the framing or timing of an email, can matter more for program outcomes than might be expected. Varying the time of day of workplace email requests can affect email open and click-through rates.
 
 ## What was the intervention?
 
@@ -21,4 +21,4 @@ In 2014, PBS collaborated with SBST to simplify the survey and test different me
 
 ## What was the impact?
 
-Emails sent at 11:55 a.m. had an open rate that was 2.5 percentage points higher than the 8:55 a.m. send, and a click rate that was 1.5 percentage points higher. Sending emails three hours later meant that approximately 1,500 more people read and followed through on the email request.
+Emails sent at 11:55 a.m. had an open rate that was 2.5 percentage points higher than the 8:55 a.m. send, and a click-through rate that was 1.5 percentage points higher. Sending emails three hours later meant that approximately 1,500 more people read and followed through on the email request.
