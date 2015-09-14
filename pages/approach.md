@@ -4,8 +4,6 @@ title: Approach
 permalink: /approach/
 ---
 
-## How we work
-
 SBST translates findings and methods from the social and behavioral sciences into improvements in Federal policies and programs. 
 
 We focus on four aspects of program design where prior research and practice indicate that behavioral insights have an especially strong role to play in program outcomes:
