@@ -6,8 +6,17 @@
 
 .project--image {
   background-size: cover;
+  display: block;
   min-height: 75px;
   width: 75px;
+}
+
+a.project--image,
+a.project--image:active,
+a.project--image:focus,
+a.project--image:hover,
+a.project--image:visited {
+  border: 0;
 }
 
 .project--description {
