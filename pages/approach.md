@@ -11,8 +11,11 @@ SBST translates findings and methods from the social and behavioral sciences int
 We focus on four aspects of program design where prior research and practice indicate that behavioral insights have an especially strong role to play in program outcomes:
 
 * opportunities to streamline access to programs and benefits for qualifying individuals, families, and businesses.
+* 
 * opportunities to improve how Government presents information to consumers, borrowers, and program beneficiaries.
+* 
 * opportunities to enhance how Government presents and structure choices within programs, including default settings and the number and arrangement of options.
+* 
 * opportunities to examine the frequency, presentation, and labeling of benefits, tax credits, and other incentives (financial and non-financial).
 
 ## Where we work
