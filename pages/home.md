@@ -3,8 +3,8 @@ layout: home
 permalink: /
 hero-image: /assets/img/potus.jpg
 hero-text: "We believe that government works best when it's built for people. "
-hero-button-text: What we do
-hero-button-link: /about/
+hero-button-text: View the 2015 Annual Report
+hero-button-link: /2015-annual-report/
 content-button-text: View the report
 content-button-link: assets/report.pdf
 banner-heading: We are a cross-agency team with backgrounds in a diversity of fields, including psychology, economics, policy,  law, medicine, statistics, and political science.
