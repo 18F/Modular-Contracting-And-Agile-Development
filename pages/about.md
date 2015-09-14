@@ -5,7 +5,7 @@ permalink: /about/
 image: /assets/img/about.jpg
 ---
 
-## Why we're here
+## Why We're Here
 
 We believe that government works best when it’s designed from the perspective of the American people.
 
@@ -13,7 +13,7 @@ Accessing and using programs should be intuitive. Information and choices among 
 
 Behavioral science provides us with tools for designing the kind of government Americans deserve.
 
-## Why the social and behavioral sciences matter for Americans
+## Why the Social and Behavioral Sciences Matter for Americans
 
 The Federal government administers a wide array of programs on behalf of the American people: financial aid to assist with college access, social insurance programs and tax incentives to promote retirement security, health insurance programs to ensure access to healthcare and financial protection for families, disclosure requirements to help people obtain safer mortgages, and others.
 
@@ -22,6 +22,6 @@ But Americans can only realize the  benefits of these programs if the programs a
 See [Our Work]({{site.baseurl}}/work/) for examples.
 
 
-## Who we are
+## Who We Are
 
 The Social & Behavioral Sciences Team includes leading behavioral scientists and innovators from across the country. SBST is organized under the National Science and Technology Council, and receives particular support from the Office of Evaluation Sciences (OES) at the General Services Administration (GSA).
