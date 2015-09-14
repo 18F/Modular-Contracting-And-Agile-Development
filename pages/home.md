@@ -7,13 +7,11 @@ hero-button-text: View the 2015 Annual Report
 hero-button-link: /2015-annual-report/
 content-button-text: View the report
 content-button-link: assets/report.pdf
-banner-heading: We are a cross-agency team with backgrounds in a diversity of fields, including psychology, economics, policy,  law, medicine, statistics, and political science.
-banner-text: What unifies us is our commitment to using what research tells us about how people make decisions to better serve Americans and improve government efficiency.
-banner-button-text: Our approach
+banner-heading: We are a cross-agency team with backgrounds in a diverse fields including psychology, economics, policy,  law, medicine, statistics, and political science.
+banner-text: We are unified by our commitment to use what research tells us about how people make decisions to better serve Americans and improve government efficiency.
+banner-button-text: Our Approach
 banner-button-link: /approach/
 ---
 ## President Obama ( ) that makes the Social and Behavioral Sciences Team a permanent part of government
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ShvaavFq92s?modestbranding=1&amp;controls=0?start=10" frameborder="0" allowfullscreen></iframe>
-
-On September 15, 2015, President Obama [ ] that makes the Social and Behavioral Sciences Team permanent and directs agencies to integrate behavioral insights into the policy and program design process. Following the President's announcement, SBST released its first annual report that highlights results from their initial year of applying research insights to improve outcomes for Americans.
+On September 15, 2015, President Obama signed an Executive Order that directs Federal agencies to use behavioral science insights to better serve the American people. The Executive Order directs Federal agencies to identify programs in which applying behavioral science insights can yield substantial improvements; develop strategies for applying behavioral science insights to programs, and, where possible, for rigorously testing and evaluating the impact of these insights; recruit behavioral science experts to join the Federal Government; and strengthen agency relationships with the research community.
