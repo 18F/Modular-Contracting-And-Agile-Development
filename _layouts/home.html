@@ -13,16 +13,10 @@ layout: base
   </div>
 </section>
 
-<section class="content">
+<section>
   <div class="usa-grid">
-    <div class="usa-width-one-whole usa-end-row">
-      {{ content }}
-      {% if page.content-button-link %}
-        <div class="center-content">
-          <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.content-button-text }}</a>
-        </div>
-      {% endif %}
-    </div>
+    <h2>Work</h2>
+    {% include projects.html %}
   </div>
 </section>
 
@@ -44,10 +38,16 @@ layout: base
 </section>
 {% endif %}
 
-<section>
+<section class="content">
   <div class="usa-grid">
-    <h2>Work</h2>
-    {% include projects.html %}
+    <div class="usa-width-one-whole usa-end-row">
+      {{ content }}
+      {% if page.content-button-link %}
+        <div class="center-content">
+          <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.content-button-text }}</a>
+        </div>
+      {% endif %}
+    </div>
   </div>
 </section>
 
