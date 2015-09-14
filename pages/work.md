@@ -2,7 +2,6 @@
 layout: project-list
 title: Work
 permalink: /work/
-image: /assets/img/work.jpg
 ---
 
 ## What we've accomplished
