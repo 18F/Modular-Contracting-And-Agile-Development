@@ -27,7 +27,7 @@ colors:
 
 analytics:
   google:
-    code: '<<UA-CODE-TO-COME>>'
+    code: 'UA-48605964-32'
   dap:
     agency: GSA
     subagency: SBST
