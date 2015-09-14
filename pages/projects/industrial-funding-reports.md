@@ -16,7 +16,7 @@ Experiments have shown that requiring a signature at the beginning of a form, ra
 
 ## What was the intervention?
 
-Federal vendors making sales through the Federal Supply Schedules are required to pay a fee— the industrial funding fee (IFF)—that covers the cost of operating the program. The size of the IFF payment owed is a fraction of the total sales made. To know how much vendors sold, the government uses an online website where vendors self-report the quantity of total sales. To promote vigilant self-reporting of sales, GSA piloted an electronic signature box at the beginning of its online reporting portal.
+Federal vendors making sales through the Federal Supply Schedules are required to pay a fee—the industrial funding fee (IFF)—that covers the cost of operating the program. The size of the IFF payment owed is a fraction of the total sales made. To know how much vendors sold, the government uses an online website where vendors self-report the quantity of total sales. To promote vigilant self-reporting of sales, GSA piloted an electronic signature box at the beginning of its online reporting portal.
 
 ## What was the impact?
 
