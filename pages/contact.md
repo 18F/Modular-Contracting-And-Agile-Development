@@ -7,7 +7,7 @@ image: /assets/img/contact.jpg
 
 ## Interested Agency Collaborators
 
-Do you have an idea for a project at your agency that you'd like to discuss with SBST? Tell us more about what you're working on and we'll reach out.
+Do you have an idea for a project at your agency that you'd like to discuss with SBST? Tell us more about what you're working on and we'll reach out to set up a virtual office hours appointment.
 
 [Register now >](https://docs.google.com/a/gsa.gov/forms/d/1Ho5LmjXDGwrxwnLE3MVIA7yNv9LdQmeKBcbSRHqK0AQ/viewform)
 
