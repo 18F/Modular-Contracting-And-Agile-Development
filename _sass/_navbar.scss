@@ -47,13 +47,21 @@ li.usa-menu-item {
   background-color: $button-color;
   color: $button-text-color;
 }
-@media (max-width: 500px) {
+@media (max-width: 600px) {
+  .usa-site-navbar .usa-grid {
+    padding: 0;
+  }
+  #logo {
+    height: auto;
+    margin-top: 1em;
+    max-width: none;
+  }
+  .usa-nav-list {
+    margin: 1em 0;
+  }
   #logo,.usa-nav-list {
     float: none;
     text-align: center;
-  }
-  #logo img {
-    width: 90px;
   }
   ul.usa-nav-list {
     bottom: 0;
@@ -61,8 +69,8 @@ li.usa-menu-item {
     right: 0;
     width: 100%;
   }
-  li.usa-menu-item {
-    display: block;
+  .usa-menu-item a {
+    padding: 0.4em;
   }
 }
 li.usa-menu-item:last-child {
