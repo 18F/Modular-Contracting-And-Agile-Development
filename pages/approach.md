@@ -14,7 +14,7 @@ We focus on four aspects of program design where prior research and practice ind
 * opportunities to improve how Government presents information to consumers, borrowers, and program beneficiaries.
 * opportunities to enhance how Government presents and structure choices within programs, including default settings and the number and arrangement of options.
 * opportunities to examine the frequency, presentation, and labeling of benefits, tax credits, and other incentives (financial and non-financial).
-* 
+
 ## Where we work
 
 Applying behavioral insights in the right context can lead to substantial improvements in program outcomes. How does SBST identify where to apply behavioral insights?
