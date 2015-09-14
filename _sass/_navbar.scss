@@ -15,10 +15,10 @@
 #logo {
   float: left;
   max-width: 32rem;
-  height: 51px;
+  height: 80px;
 }
 #logo img {
-  margin-top: 6px;
+  width: 60%;
 }
 #logo a {
   border: none;
@@ -32,11 +32,11 @@
   text-decoration: none;
 }
 .usa-nav-list {
-  bottom: 20px;
   float: right;
-  margin-top: 1em;
+  margin-top: -1em;
   position: absolute;
   right: 3rem;
+  top: 50%;
 }
 li.usa-menu-item {
   font-size: 18px;
