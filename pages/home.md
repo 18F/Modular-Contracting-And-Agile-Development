@@ -1,4 +1,5 @@
 ---
+published: false
 layout: home
 permalink: /
 hero-image: /assets/img/potus.jpg
