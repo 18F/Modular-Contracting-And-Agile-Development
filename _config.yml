@@ -4,6 +4,7 @@ description: We are a cross-agency team with backgrounds in a diversity of field
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://sbst.gov" # the base hostname & protocol for your site
 logo: /assets/img/logos/logo-name.png
+feature_image: /assets/img/potus.jpg
 
 colors:
   background: '#fdfdfd'
