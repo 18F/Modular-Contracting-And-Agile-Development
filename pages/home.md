@@ -6,7 +6,7 @@ hero-text: "We believe that government works best when it's built for people. "
 hero-button-text: View the 2015 Annual Report
 hero-button-link: /2015-annual-report/
 content-button-text: View the Executive Order
-content-button-link: assets/report.pdf
+content-button-link: /assets/files/behavioral-science-eo-unsigned.pdf
 banner-heading: We are a cross-agency team with backgrounds in diverse fields including psychology, economics, policy,  law, medicine, statistics, and political science.
 banner-text: We are unified by our commitment to use what research tells us about how people make decisions to better serve Americans and improve government efficiency.
 banner-button-text: Our Approach
