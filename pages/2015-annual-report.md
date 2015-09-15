@@ -17,6 +17,12 @@ In building an initial portfolio of work, SBST focused on projects in two areas 
 In nearly all cases, SBST was able to generate evidence about the effectiveness of these behavioral insights applications using randomized evaluations — the gold standard of evidence among policymakers and social scientists.
 
 
+[View Executive Order >]({{ '/assets/files/behavioral-science-eo-unsigned.pdf' | prepend: site.baseurl }})
+
+[View OIRA / OSTP Guidance >]({{ '/assets/files/forms-guidance.pdf' | prepend: site.baseurl }})
+
+[View the Fact Sheet >]({{ '/assets/files/sbst-fact-sheet.pdf' | prepend: site.baseurl }})
+
 [View the West Wing Week video >](https://www.whitehouse.gov/blog/2015/02/09/behavioral-science-insights-make-government-more-effective-simpler-and-more-user-fri)
 
 
