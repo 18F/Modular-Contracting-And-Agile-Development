@@ -24,11 +24,11 @@ a.project--image:visited {
   padding-top: .5em;
 }
 
-.project--description a {
+a .project--description span {
   border-bottom: 0;
   color: $text-color;
 }
 
-.project--description a:hover {
+a:hover .project--description span {
   border-bottom: 1px dotted;
 }

@@ -17,7 +17,7 @@ layout: base
       {% endfor %}
     </ul>
   </aside>
-  <div class="usa-width-three-fourths usa-content">
+  <div class="usa-width-three-fourths usa-content" id="main" tabindex="-1">
     <h1>{{ page.title }}</h1>
     {% if page.image %}
       <div class="page--banner" style="background-image: url({{ page.image | prepend: site.baseurl }});"></div>

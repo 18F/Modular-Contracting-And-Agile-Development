@@ -6,12 +6,10 @@
     {% else %}
     <div class="usa-width-one-third project">
     {% endif %}
-      <a href="{{ project.link | prepend: site.baseurl }}" class="project--image" style="background-image: url({{ project.image | prepend: site.baseurl }});"></a>
-      <h3 class="project--description">
-        <a href="{{ project.link | prepend: site.baseurl }}">
-          {{ project.description }}&nbsp;&gt;
-        </a>
-      </h3>
+      <a href="{{ project.link | prepend: site.baseurl }}">
+        <span class="project--image" style="background-image: url({{ project.image | prepend: site.baseurl }});"></span>
+        <h3 class="project--description"><span>{{ project.description }}&nbsp;&gt;</span></h3>
+      </a>
     </div>
   {% endunless %}
 {% endfor %}
