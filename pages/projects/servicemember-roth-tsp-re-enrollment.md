@@ -3,9 +3,9 @@ layout: project
 title: Servicemember Roth TSP Re-Enrollment
 permalink: /projects/servicemember-roth-tsp/
 tags: project
-image: /assets/img/project-images/microloans-for-farmers.jpg
-image-credit: https://www.flickr.com/photos/usdagov
-abstract: /assets/files/microloans-for-farmers.pdf
+image: /assets/img/project-images/service-member-re-enrollment.jpg
+image-credit: https://www.flickr.com/photos/usaghumphreys
+abstract: /assets/files/roth-tsp-re-enrollment.pdf
 ---
 ## What is the issue?
 
