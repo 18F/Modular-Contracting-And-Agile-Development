@@ -21,7 +21,7 @@ In nearly all cases, SBST was able to generate evidence about the effectiveness 
 
 [View OIRA / OSTP Guidance >]({{ '/assets/files/forms-guidance.pdf' | prepend: site.baseurl }})
 
-[View the Fact Sheet >]({{ '/assets/files/sbst-fact-sheet.pdf' | prepend: site.baseurl }})
+[View the Fact Sheet >](https://www.whitehouse.gov/sites/default/files/omb/inforeg/memos/2015/behavioral-science-insights-and-federal-forms.pdf)
 
 [View the West Wing Week video >](https://www.whitehouse.gov/blog/2015/02/09/behavioral-science-insights-make-government-more-effective-simpler-and-more-user-fri)
 
