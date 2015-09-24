@@ -1,20 +1,20 @@
 .banner.tagline {
-  background-color: $contact-background-color;
+  background-color: $banner-background-color;
 }
 .banner.tagline .usa-grid {
   padding: 3rem;
 }
 .banner.tagline p {
-  color: $contact-text-color;
+  color: $banner-text-color;
   margin-bottom: 75px;
 }
 .banner.tagline h2 {
-  color: $contact-text-color;
+  color: $banner-text-color;
   margin-top: 75px;
 }
 
 .banner.contact {
-  background-color: $contact-background-color;
+  background-color: $banner-background-color;
 }
 .banner.contact form {
   padding-top: 2em;
@@ -26,7 +26,7 @@
 .banner.contact a,
 .banner.contact a:hover,
 .banner.contact a:visited {
-  color: $contact-text-color;
+  color: $banner-text-color;
 }
 
 .banner .usa-button,
@@ -37,6 +37,6 @@
 .banner [type="button"],
 .banner [type="submit"],
 .banner [type="reset"] {
-  background-color: $contact-button-color;
-  color: $contact-button-text-color;
+  background-color: $banner-button-color;
+  color: $banner-button-text-color;
 }

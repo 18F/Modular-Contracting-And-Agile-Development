@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-hero-image: /assets/img/potus.jpg
+hero-image: /assets/img/feature-background.jpg
 hero-text: "We believe that government works best when it's built for people. "
 hero-button-text: View the 2015 Annual Report
 hero-button-link: /2015-annual-report/

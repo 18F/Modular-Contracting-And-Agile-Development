@@ -1,45 +1,44 @@
 # Site settings
-title: Social and Behavioral Sciences Team
-description: We are a cross-agency team with backgrounds in a diversity of fields, including economics, policy, psychology, law, medicine, statistics and political science. What unifies us is our commitment to using what research tells us about how people make decisions to better serve Americans and improve government efficiency.
+title: Your Site Name
+description: A description of your website that will show up in search indexes and social media shares.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://sbst.gov" # the base hostname & protocol for your site
-logo: /assets/img/logos/logo-name.png
-feature_image: /assets/img/potus.jpg
+url: "https://example.gov" # the base hostname & protocol for your site
+logo: /assets/img/logo-main.gif
+feature_image: /assets/img/feature-background.jpg
 
 colors:
-  background: '#fdfdfd'
+  background: '#ffffff'
   button:
-    background: '#126ca7'
-    hover: '#134050'
+    background: '#0071bc'
+    hover: '#3e94cf'
     text: '#fff'
-  headers: '#126ca7'
-  text: '#000000'
+  headers: '#205493'
+  text: '#212121'
   projects:
-    accent: 'rgb(249, 131, 74)'
-  contact:
-    background: '#126ca7'
+    accent: '#02bfe7'
+  banner:
+    background: '#112e51'
     text: '#fff'
     button:
-      background: '#f2c446'
-      text: '#134050'
+      background: '#dce4ef'
+      text: '#112e51'
   footer:
-    background: '#4c4c4c'
+    background: '#323a45'
     text: '#fff'
 
 analytics:
   google:
-    code: 'UA-67580537-1'
+    code: 'UA-48605964-32' # Change this to your GSA analytics code
   dap:
-    agency: GSA
-    subagency: SBST
+    agency: GSA    # Change this to your agency
+    subagency: 18F # Change this to your agency
 
 forms:
 - type: newsletter
+  heading: Sign up to receive updates from our team
   url: https://docs.google.com/forms/d/1Tsdm_2spbxWnmTFMrH5eHxpOAN9W4LB3eaMMXJ1N0rU/formResponse
   button: Subscribe
-  privacypolicy:
-    name: GSA Privacy and Security Notice
-    url: https://gsa.gov
+  privacypolicy: Your privacy and security are important to us, we'll only share your information as described in the <a href="http://www.gsa.gov/portal/content/116609">GSA Privacy and Security Notice</a>
   fields:
     - type: email
       name: entry.1440502332
@@ -50,11 +49,10 @@ forms:
 
 footer:
   image: /assets/img/gsa-logo-dark.jpg
-  email: sbst@gsa.gov
+  email:
   twitter:
-    - usgsa
-    - whitehouseostp
-  text: This site is run by the General Services Administration for the National Science and Technology Council's Subcommittee on the Social and Behavioral Sciences Team.
+    - 18f
+  text: This site was built using <a href="https://federalist.18f.gov/" target="_blank">Federalist, from 18F</a>. # Change to a tag line for your agency
 
 # Build settings
 markdown: kramdown
