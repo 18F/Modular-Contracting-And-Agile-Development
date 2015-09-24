@@ -1,0 +1,4 @@
+- name: About
+  permalink: '/about/'
+- name: Projects
+  permalink: '/projects/'

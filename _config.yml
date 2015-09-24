@@ -1,29 +1,62 @@
 # Site settings
-title: Your Team Name
-email: you@yourteam.gov
-description: Put a nifty sentence about what your team does.
+title: Your Site Name
+description: A description of your website that will show up in search indexes and social media shares.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://example.gov" # the base hostname & protocol for your site
+logo: /assets/img/logo-main.gif
+feature_image: /assets/img/feature-background.jpg
 
-# Build settings
-markdown: kramdown
+colors:
+  background: '#ffffff'
+  button:
+    background: '#0071bc'
+    hover: '#3e94cf'
+    text: '#fff'
+  headers: '#205493'
+  text: '#212121'
+  projects:
+    accent: '#02bfe7'
+  banner:
+    background: '#112e51'
+    text: '#fff'
+    button:
+      background: '#dce4ef'
+      text: '#112e51'
+  footer:
+    background: '#323a45'
+    text: '#fff'
 
 analytics:
-  code: '<<UA-CODE-TO-COME>>'
+  google:
+    code: 'UA-48605964-32' # Change this to your GSA analytics code
+  dap:
+    agency: GSA    # Change this to your agency
+    subagency: 18F # Change this to your agency
 
-contact:
-  agencyname: Your Team Name
-  agencyimage: https://pages.18f.gov/usfwds/assets/img/logo-img.png
-  email: you@yourteam.gov
-  phonenumber: 800-555-5555
-  form:
-    url: https://docs.google.com/forms/d/1Tsdm_2spbxWnmTFMrH5eHxpOAN9W4LB3eaMMXJ1N0rU/formResponse
-    name: entry.1710277143
-    email: entry.1440502332
-    comments: entry.722489988
-    hidden:
+forms:
+- type: newsletter
+  heading: Sign up to receive updates from our team
+  url: https://docs.google.com/forms/d/1Tsdm_2spbxWnmTFMrH5eHxpOAN9W4LB3eaMMXJ1N0rU/formResponse
+  button: Subscribe
+  privacypolicy: Your privacy and security are important to us, we'll only share your information as described in the <a href="http://www.gsa.gov/portal/content/116609">GSA Privacy and Security Notice</a>
+  fields:
+    - type: email
+      name: entry.1440502332
+      label: Email Address
+    - type: hidden
       name: fbzx
       value: -7861934959779167198
 
-federalist:
-  root: '/pages'
+footer:
+  image: /assets/img/gsa-logo-dark.jpg
+  email:
+  twitter:
+    - 18f
+  text: This site was built using <a href="https://federalist.18f.gov/" target="_blank">Federalist, from 18F</a>. # Change to a tag line for your agency
+
+# Build settings
+markdown: kramdown
+exclude:
+  - CONTRIBUTING.md
+  - LICENSE.md
+  - README.md

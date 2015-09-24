@@ -1,16 +1,17 @@
 ---
 layout: home
 permalink: /
-title: Home
-hero-image: /assets/img/sky.jpg
-hero-text: The mission statement will be visible at the top-center of the homepage.
-hero-button-text: Call to action
-hero-button-link: 'https://18f.gsa.gov'
+hero-image: /assets/img/feature-background.jpg
+hero-text: "We believe that government works best when it's built for people. "
+hero-button-text: View the 2015 Annual Report
+hero-button-link: /2015-annual-report/
+content-button-text: View the Executive Order
+content-button-link: /assets/files/behavioral-science-eo-unsigned.pdf
+banner-heading: We are a cross-agency team with backgrounds in diverse fields including psychology, economics, policy,  law, medicine, statistics, and political science.
+banner-text: We are unified by our commitment to use what research tells us about how people make decisions to better serve Americans and improve government efficiency.
+banner-button-text: Our Approach
+banner-button-link: /approach/
 ---
-# Welcome
+## “A growing body of evidence demonstrates that behavioral science insights — research findings from fields such as behavioral economics and psychology about how people make decisions and act on them — can be used to design government policies to better serve the American people...” — President Barack Obama
 
-Reach out. Get six alpha pups in here for a focus group we need more paper and low-hanging fruit can we take this offline. Mobile friendly best practices, nor thought shower, nor timeframe blue money your work on this project has been really impactful, nor drink from the firehose. Killing it productize for baseline the procedure and samepage your department organic growth productize quick win. Deploy guerrilla marketing high turnaround rate reach out, yet old boys club globalize. Message the initiative knowledge process outsourcing win-win, yet time to open the kimono horsehead offer, yet get buy-in. Customer centric proceduralize time to open the kimono.
-
-## Section Header
-
-[Check out more](/projects)
+On September 15, 2015, President Obama signed an Executive Order that directs Federal agencies to use behavioral science insights to better serve the American people. The Executive Order directs Federal agencies to identify programs in which applying behavioral science insights can yield substantial improvements; develop strategies for applying behavioral science insights to programs, and, where possible, for rigorously testing and evaluating the impact of these insights; recruit behavioral science experts to join the Federal Government; and strengthen agency relationships with the research community.
