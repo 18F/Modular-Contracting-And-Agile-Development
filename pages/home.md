@@ -3,15 +3,15 @@ layout: home
 permalink: /
 hero-image: /assets/img/feature-background.jpg
 hero-text: "We believe that government works best when it's built for people. "
-hero-button-text: View the 2015 Annual Report
-hero-button-link: /2015-annual-report/
-content-button-text: View the Executive Order
-content-button-link: /assets/files/behavioral-science-eo-unsigned.pdf
-banner-heading: We are a cross-agency team with backgrounds in diverse fields including psychology, economics, policy,  law, medicine, statistics, and political science.
-banner-text: We are unified by our commitment to use what research tells us about how people make decisions to better serve Americans and improve government efficiency.
-banner-button-text: Our Approach
-banner-button-link: /approach/
+hero-button-text: Hey, me too!
+hero-button-link: /about/
+banner-heading: The mission of GSA is to deliver the best value in real estate, acquisition, and technology services to government and the American people.
+banner-text: GSA provides centralized procurement for the federal government, offering billions of dollars worth of products, services, and facilities that federal agencies need to serve the public.
+banner-button-text: Learn more
+banner-button-link: /about/
 ---
-## “A growing body of evidence demonstrates that behavioral science insights — research findings from fields such as behavioral economics and psychology about how people make decisions and act on them — can be used to design government policies to better serve the American people...” — President Barack Obama
+GSA helps keep the nation safe by providing tools, equipment, and non-tactical vehicles to the U.S. military, and providing state and local governments with law enforcement equipment, firefighting and rescue equipment, and disaster recovery products and services.
 
-On September 15, 2015, President Obama signed an Executive Order that directs Federal agencies to use behavioral science insights to better serve the American people. The Executive Order directs Federal agencies to identify programs in which applying behavioral science insights can yield substantial improvements; develop strategies for applying behavioral science insights to programs, and, where possible, for rigorously testing and evaluating the impact of these insights; recruit behavioral science experts to join the Federal Government; and strengthen agency relationships with the research community.
+Only one percent of GSA’s total budget is provided through direct congressional appropriations. The majority of GSA's operating costs are recovered through the products and services it provides.
+
+GSA leads the way in green building design, construction, retrofit and sustainable operations and maintenance. GSA is building a 21st century government that procures and manages technology solutions in smart, secure, and affordable ways. It supports reductions in federal government real estate costs and increases in workplace efficiencies by strategically integrating space, people, and technology solutions customized to different workplace needs.
