@@ -42,11 +42,11 @@ layout: base
   <div class="usa-grid">
     <div class="usa-width-one-whole usa-end-row">
       {{ content }}
-      {% if page.content-button-link %}
-        <div class="center-content">
+      <div class="center-content">
+        {% if page.content-button-link %}
           <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.content-button-text }}</a>
-        </div>
-      {% endif %}
+        {% endif %}
+      </div>  
     </div>
   </div>
 </section>
