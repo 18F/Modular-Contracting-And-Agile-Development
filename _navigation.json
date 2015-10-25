@@ -1,0 +1,36 @@
+---
+---
+
+[
+  {% for nav in site.data.navbar %}
+  {
+    "title": "{{ nav.name }}",
+    "permalink": "{{ nav.permalink }}",
+    {% for page in site.pages %}
+      {% if nav.permalink == page.permalink %}
+        "href": "{{ page.path }}"
+      {% endif %}
+    {% endfor %}
+    {% if nav.children %},
+    "children": [
+      {% for child in nav.children %}
+      {
+        "title": "{{ child.name }}",
+        "permalink": "{{ nav.permalink }}",
+        {% for page in site.pages %}
+          {% if child.permalink == page.permalink %}
+            "href": "{{ page.path }}"
+          {% endif %}
+        {% endfor %}
+      }
+      {% if forloop.rindex != 1 %}, {% endif %}
+      {% endfor %}
+    ]
+    {% endif %}
+  },
+  {% endfor %}
+  {
+    "title": "Project data",
+    "href": "_data/projects.yml"
+  }
+]
