@@ -1,4 +1,13 @@
 - name: About
   permalink: '/about/'
-- name: Projects
-  permalink: '/projects/'
+- name: Approach
+  permalink: '/approach/'
+- name: Work
+  permalink: '/work/'
+  children:
+    - name: 'Project 1'
+      permalink: '/projects/microloans-for-farmers/'
+    - name: 'Project 2'
+      permalink: '/projects/reducing-summer-melt/'
+- name: Connect
+  permalink: '/connect/'
