@@ -56,6 +56,8 @@ footer:
 
 # Build settings
 markdown: kramdown
+include:
+  - _navigation.json
 exclude:
   - CONTRIBUTING.md
   - LICENSE.md
