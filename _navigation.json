@@ -38,5 +38,9 @@
   {
     "title": "Project data",
     "href": "_data/projects.yml"
+  },
+  {
+    "title": "Navigation bar data",
+    "href": "_data/navbar.yml"
   }
 ]
