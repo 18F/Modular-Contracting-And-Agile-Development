@@ -13,12 +13,12 @@ assigned:
         show_in_footer: false
         children:
             -
-                text: 'Project 1'
+                text: 'Microloans for Farmers'
                 href: pages/projects/microloans-for-farmers.md
                 show_in_menu: false
                 show_in_footer: false
             -
-                text: 'Project 2'
+                text: 'Reducing Summer Melt'
                 href: pages/projects/reducing-summer-melt.md
                 show_in_menu: false
                 show_in_footer: false
