@@ -7,7 +7,7 @@ assigned:
     -
         text: Approach
         href: pages/approach.md
-        show_in_menu: true
+        show_in_menu: false
         show_in_footer: true
     -
         text: Work
