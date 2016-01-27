@@ -1,11 +1,33 @@
-- name: About
-  permalink: '/about/'
-- name: Projects
-  permalink: '/projects/'
-  children:
-    - name: 'Project 1'
-      permalink: '/projects/microloans-for-farmers/'
-    - name: 'Project 2'
-      permalink: '/projects/reducing-summer-melt/'
-    - name: 'Project 3'
-      permalink: '/projects/tsp-enrollment/'
+assigned:
+    -
+        text: About
+        href: pages/about.md
+        show_in_menu: true
+        show_in_footer: false
+    -
+        text: Approach
+        href: pages/approach.md
+        show_in_menu: true
+        show_in_footer: true
+    -
+        text: Work
+        href: pages/projects.md
+        show_in_menu: true
+        show_in_footer: false
+        children:
+            -
+                text: 'Project 1'
+                href: pages/projects/microloans-for-farmers.md
+                show_in_menu: false
+                show_in_footer: false
+            -
+                text: 'Project 2'
+                href: pages/projects/reducing-summer-melt.md
+                show_in_menu: false
+                show_in_footer: false
+    -
+        text: 'Project data'
+        href: _data/projects.yml
+        show_in_menu: false
+        show_in_footer: false
+unassigned: []
