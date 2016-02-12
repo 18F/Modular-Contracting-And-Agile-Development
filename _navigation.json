@@ -2,31 +2,19 @@
 ---
 
 [
-  {% for nav in site.data.navbar %}
+  {% for nav in site.data.navbar.assigned %}
   {
-    "title": "{{ nav.name }}",
+    "title": "{{ nav.text }}",
     "permalink": "{{ nav.permalink }}",
-
-    {% for page in site.pages %}
-
-      {% if nav.permalink == page.permalink %}
-       {% assign href = page.path %}
-      {% endif %}
-    {% endfor %}
-    "href": "{{ href }}"
+    "href": "{{ nav.href }}"
 
     {% if nav.children %},
     "children": [
       {% for child in nav.children %}
       {
-        "title": "{{ child.name }}",
-        "permalink": "{{ nav.permalink }}",
-        {% for p in site.pages %}
-          {% if child.permalink == p.permalink %}
-            {% assign childHref = p.path %}
-          {% endif %}
-        {% endfor %}
-        "href": "{{ childHref }}"
+        "title": "{{ child.text }}",
+        "permalink": "{{ child.permalink }}",
+        "href": "{{ child.href }}"
 
       } {% if forloop.rindex != 1 %}, {% endif %}
       {% endfor %}
@@ -35,10 +23,6 @@
 
   },
   {% endfor %}
-  {
-    "title": "Project data",
-    "href": "_data/projects.yml"
-  },
   {
     "title": "Navigation bar data",
     "href": "_data/navbar.yml"
