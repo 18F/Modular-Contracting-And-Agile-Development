@@ -5,14 +5,10 @@ permalink: /about/
 image: /assets/img/about.jpg
 ---
 
-## About GSA
+## About 18F
 
-GSA provides workplaces by constructing, managing, and preserving government buildings and by leasing and managing commercial real estate. GSA's acquisition solutions offer private sector professional services, equipment, supplies, telecommunications, and information technology to government organizations and the military. GSA policies promote management best practices and efficient government operations.
+We help federal agencies build, buy, and share modern digital services to improve the user experience of government. Learn more about us at (18f.gsa.gov). We are a team of developers, designers, product managers, strategists, lawyers, and contracting officers.
 
-### Mission
+### 18F's State and Local Work
 
-The mission of GSA is to deliver the best value in real estate, acquisition, and technology services to government and the American people.
-
-### History
-
-GSA was established by President Harry Truman on July 1, 1949, to streamline the administrative work of the federal government.  GSA consolidated the National Archives Establishment, the Federal Works Agency and its Public Buildings Administration, the Bureau of Federal Supply and the Office of Contract Settlement, and the War Assets Administration into one federal agency tasked with administering supplies and providing workplaces for federal employees
+18F is beginning to work with state and local governments. We believe in the impact state and local governments have on individuals, and we look forward to helping multiply that impact by 50 states.
