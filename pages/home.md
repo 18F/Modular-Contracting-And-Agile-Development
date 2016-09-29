@@ -26,48 +26,48 @@ These documents won’t make you an expert, But if you’re interested in avoidi
 
 ## Presentations
 
-* Presentation Modular Contracting
+* [Presentation Modular Contracting](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/Presentation%20Modular%20Contracting.pdf)
 
-* Presentation Qualified Vendor Pool
+* [Presentation Qualified Vendor Pool](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/Presentation%20Qualified%20Vendor%20Pool.pdf)
 
-* Modular Contracting Guide
+* [GSA's Guide to Modular Contracting](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/Modular%20Contracting%20Guide.pdf)
 
-* Presentation Strangler Pattern
+* [Presentation Strangler Pattern](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/Presentation%20Strangler%20Pattern.pdf)
 
-* Presentation Agile and Scrum for New Teams
+* [Presentation Agile and Scrum for New Teams](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/Presentation%20Agile%20and%20Scrum%20for%20New%20Teams.pdf)
 
-* Presentation Human Centered Design and Agile
+* [Presentation Human Centered Design and Agile](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/Presentation%20Human%20Centered%20Design%20and%20Agile.pdf)
 
-* Presentation Organizational and Team Structure
+* [Presentation Organizational and Team Structure](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/Presentation%20Organizational%20and%20Team%20Structure.pdf)
 
 ## RFP Documents
 
 ### Agile Vendor Pool
 
-* 18F Agile Vendor Pool FRQ
+* [18F Agile Vendor Pool FRQ](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/18F%20Agile%20Vendor%20Pool%20RFQ.docx)
 
-* Mississippi Agile Vendor Pool RFP
+* [Mississippi Agile Vendor Pool RFP](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/Mississippi%20Agile%20Vendor%20Pool%20RFP.docx)
 
-* Mississippi Agile Vendor Pool RFP Lightweight Version
+* [Mississippi Agile Vendor Pool RFP Lightweight Version](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/Mississippi%20Agile%20Vendor%20Pool%20RFP%20Lightweight%20version.docx)
 
-* Mississippi Potential RFP questions
+* [Mississippi Potential RFP questions](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/Mississippi%20Potential%20Vendor%20Questions%20for%20Vendor%20Pool%20RFP.xlsx)
 
 ### Prototype Challenge
 
-* Mississippi Vendor Challenge
+* [Mississippi Vendor Challenge](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/Mississippi%20Vendor%20Challenge.docx)
 
-* Mississippi Vendor Prototype Evaluation Notes
+* [Mississippi Vendor Prototype Evaluation Notes](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/18F%20Vendor%20Prototype%20Evaluation%20Notes.docx)
 
 ### Vendor Pool Evaluation and Post Award
 
-* 18F Agile BPA Evaluation Factors
+* [18F Agile BPA Evaluation Factors](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/18F%20Agile%20BPA%20Evaluation%20Factors.docx)
 
-* 18F Example Quality Assurance Surveillance Plan for a Contract
+* [18F Example Quality Assurance Surveillance Plan for a Contract](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/18F%20Example%20Quality%20Assurance%20Plan%20for%20a%20Contract.docx)
 
 ### Task Orders to the Vendor Pool
 
-* 18F Sample Live Interview Questions
+* [18F Sample Live Interview Questions]()
 
-* California Intake Module Statement of Work
+* [California Intake Module Statement of Work](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/California%20Intake%20Module%20Statement%20of%20Work.docx)
 
-* California Nonfunctional Requirements
+* [California Nonfunctional Requirements](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/California%20Nonfunctional%20Requirements.docx)
