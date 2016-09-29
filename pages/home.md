@@ -2,18 +2,18 @@
 layout: home
 permalink: /
 hero-image: /assets/img/feature-background.jpg
-hero-text: 'Implement modular contracting and agile development in your government organization. '
+hero-text: 'Learn to implement modular contracting and agile development in your government organization.'
 banner-heading: 'What is modular contracting? Why should I care?'
-banner-text: 'Modular contracting reduces vendor lock-in, enables risk of failure, and consequences of failure while enabling continuous competition and allowing your end users to benefit from new software in weeks - not years.'
+banner-text: 'Modular contracting reduces vendor lock-in, enables risk of failure, and consequences of failure while enabling continuous competition and allowing your end users to benefit from new software in weeks - not years. It does this by breaking up a massive software project into tiny chunks and issuing multiple smaller, faster, lower risk solicitations.'
 
 ---
 # Modular Contracting And Agile Development
 
 ## What is this page?
 
-This documentation will help you understand how to implement modular contracting in your organization, and how modular contracting can enable agile development. These are all real documents, not simulations. There are presentations and white papers, but a majority of these are real RFPs, quality assurance surveillance plans, questions and answers, vendor prototype challenge solicitations, evaluation factors, statements of work, and more.
+This documentation will help you understand what modular contracting is, how to implement modular contracting in your organization, and how modular contracting can enable agile development. These are all real documents, not simulations. There are presentations and white papers, but a majority of these are real RFPs, quality assurance surveillance plans, questions and answers, vendor prototype challenge solicitations, evaluation factors, statements of work, and more.
 
-Some are documents 18F generated and used, some are documents 18F has created in collaboration with partners. We hope that as more agencies use modular contracts, agile vendor pools, and develop software using agile, they will submit (via pull request, please!) documents they are generating for inclusion in this guide.
+Some are documents 18F generated and used, some are documents 18F created in collaboration with partners. We hope that as more agencies use modular contracts, agile vendor pools, and develop software using agile, they will submit (via pull request, please!) documents they are generating for inclusion in this guide.
 
 While 18F generally approves of the contents of the documents found in this guide, none of these documents are perfect. There are lessons each of these organizations learned after executing on these documents. Different approaches are more, or less, appropriate for different situations. And there are some internal documents we are not able to share publicly. But we hope that providing you with many real world examples, you can use these as templates and modify as needed.
 
