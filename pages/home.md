@@ -11,7 +11,7 @@ banner-text: 'Modular contracting reduces vendor lock-in, enables risk of failur
 ---
 # Modular Contracting And Agile Development
 
-## What is this site?
+## What is this page?
 
 This documentation will help you understand how to implement modular contracting in your organization, and how modular contracting can enable agile development. These are all real documents, not simulations. There are presentations and white papers, but a majority of these are real RFPs, quality assurance surveillance plans, questions and answers, vendor prototype challenge solicitations, evaluation factors, statements of work, and more.
 
