@@ -3,8 +3,6 @@ layout: home
 permalink: /
 hero-image: /assets/img/feature-background.jpg
 hero-text: 'Implement modular contracting and agile development in your government organization. '
-hero-button-text: 'Don''t click me.'
-hero-button-link: /about/
 banner-heading: 'What is modular contracting? Why should I care?'
 banner-text: 'Modular contracting reduces vendor lock-in, enables risk of failure, and consequences of failure while enabling continuous competition and allowing your end users to benefit from new software in weeks - not years.'
 
