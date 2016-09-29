@@ -46,17 +46,10 @@ defaults:
 
 forms:
 - type: newsletter
-  heading: Sign up to receive updates from our team
-  url: https://docs.google.com/forms/d/1Tsdm_2spbxWnmTFMrH5eHxpOAN9W4LB3eaMMXJ1N0rU/formResponse
+  heading: Sign up to receive updates from the 18F Acquisitions team.
+  url: http://eepurl.com/bJQHFr
   button: Subscribe
   privacypolicy: Your privacy and security are important to us, we'll only share your information as described in the <a href="http://www.gsa.gov/portal/content/116609">GSA Privacy and Security Notice</a>
-  fields:
-    - type: email
-      name: entry.1440502332
-      label: Email Address
-    - type: hidden
-      name: fbzx
-      value: -7861934959779167198
 
 footer:
   image: /assets/img/gsa-logo-dark.jpg
