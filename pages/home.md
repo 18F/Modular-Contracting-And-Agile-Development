@@ -24,11 +24,17 @@ These documents won’t make you an expert, But if you’re interested in avoidi
 
 ## Presentations
 Presentation Modular Contracting
+
 Presentation Qualified Vendor Pool
+
 Modular Contracting Guide
+
 Presentation Strangler Pattern
+
 Presentation Agile and Scrum for New Teams
+
 Presentation Human Centered Design and Agile
+
 Presentation Organizational and Team Structure
 
 ## RFP Documents
