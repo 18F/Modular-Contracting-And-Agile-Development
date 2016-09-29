@@ -7,8 +7,7 @@ hero-button-text: 'Don''t click me.'
 hero-button-link: /about/
 banner-heading: 'What is modular contracting? Why should I care?'
 banner-text: 'Modular contracting reduces vendor lock-in, enables risk of failure, and consequences of failure while enabling continuous competition and allowing your end users to benefit from new software in weeks - not years.'
-banner-button-text: 'Don''t click me either.'
-banner-button-link: /about/
+
 ---
 # Modular Contracting And Agile Development
 
