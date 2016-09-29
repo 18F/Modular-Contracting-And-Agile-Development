@@ -15,7 +15,7 @@ assigned:
         text: Work
         href: pages/projects.md
         permalink: /projects/
-        show_in_menu: true
+        show_in_menu: false
         show_in_footer: false
         children:
             -
