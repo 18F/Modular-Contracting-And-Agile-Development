@@ -63,7 +63,7 @@ footer:
   email:
   twitter:
     - 18f
-  text: This site was built using <a href="https://federalist.18f.gov/" target="_blank">Federalist, from 18F</a>. # Change to a tag line for your agency
+  text: This site was built using <a href="https://federalist.18f.gov/" target="_blank">Federalist, from 18F</a>. Take a look at [the Github repo for this site](https://github.com/18F/Modular-Contracting-And-Agile-Development). # Change to a tag line for your agency
 
 # Build settings
 markdown: kramdown
