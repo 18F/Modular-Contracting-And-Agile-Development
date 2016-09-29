@@ -23,45 +23,44 @@ These documents won’t make you an expert, But if you’re interested in avoidi
 ---
 
 ## Presentations
-Presentation Modular Contracting
+* Presentation Modular Contracting
 
-Presentation Qualified Vendor Pool
+* Presentation Qualified Vendor Pool
 
-Modular Contracting Guide
+* Modular Contracting Guide
 
-Presentation Strangler Pattern
+* Presentation Strangler Pattern
 
-Presentation Agile and Scrum for New Teams
+* Presentation Agile and Scrum for New Teams
 
-Presentation Human Centered Design and Agile
+* Presentation Human Centered Design and Agile
 
-Presentation Organizational and Team Structure
+* Presentation Organizational and Team Structure
 
 ## RFP Documents
 
 ### Agile Vendor Pool
-18F Agile Vendor Pool FRQ
+* 18F Agile Vendor Pool FRQ
 
-Mississippi Agile Vendor Pool RFP
+* Mississippi Agile Vendor Pool RFP
 
-Mississippi Agile Vendor Pool RFP Lightweight Version
+* Mississippi Agile Vendor Pool RFP Lightweight Version
 
-Mississippi Potential RFP questions
+* Mississippi Potential RFP questions
 
 ### Prototype Challenge
-Mississippi Vendor Challenge
+* Mississippi Vendor Challenge
 
-Mississippi Vendor Prototype Evaluation Notes
+* Mississippi Vendor Prototype Evaluation Notes
 
 ### Vendor Pool Evaluation and Post Award
-18F Agile BPA Evaluation Factors
+* 18F Agile BPA Evaluation Factors
 
-18F Example Quality Assurance Surveillance Plan for a Contract
-
+* 18F Example Quality Assurance Surveillance Plan for a Contract
 
 ### Task Orders to the Vendor Pool 
-18F Sample Live Interview Questions
+* 18F Sample Live Interview Questions
 
-California Intake Module Statement of Work
+* California Intake Module Statement of Work
 
-California Nonfunctional Requirements
+* California Nonfunctional Requirements
