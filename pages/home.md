@@ -41,7 +41,7 @@ These documents won’t make you an expert, But if you’re interested in avoidi
 
 ### Agile Vendor Pool
 
-* [18F Agile Vendor Pool RFQ](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/18F%20Agile%20Vendor%20Pool%20RFQ.docx). This is the RFQ 18F used when creating our Agile Vendor Pool.
+* [18F Agile Vendor Pool RFQ](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/18F%20Agile%20Vendor%20Pool%20RFQ.docx). This is the RFQ 18F used when creating our Agile Vendor Pool, also referred to as a BPA (Blanket Purchase Agreement).
 
 * [Mississippi Agile Vendor Pool RFP](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/Mississippi%20Agile%20Vendor%20Pool%20RFP.docx). This is the RFP Mississippi used when creating their Agile Vendor Pool. Includes a lot of state-specific boilerplate language.
 
@@ -57,17 +57,17 @@ These documents won’t make you an expert, But if you’re interested in avoidi
 
 ### Vendor Pool Evaluation and Post Award
 
-* [18F Agile BPA Evaluation Factors](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/18F%20Agile%20BPA%20Evaluation%20Factors.docx). 
+* [18F Agile BPA Evaluation Factors](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/18F%20Agile%20BPA%20Evaluation%20Factors.docx). These are the evaluation factors that 18F used when evaluating vendors for our Agile Vendor Pool.
 
-* [18F Example Quality Assurance Surveillance Plan for a Contract](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/18F%20Example%20Quality%20Assurance%20Plan%20for%20a%20Contract.docx)
+* [18F Example Quality Assurance Surveillance Plan for a Contract](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/18F%20Example%20Quality%20Assurance%20Plan%20for%20a%20Contract.docx). This is 18F's quality assurance surveillance plan for individual task orders to the agile vendor pool.
 
 ### Task Orders to the Vendor Pool
 
-* [18F Sample Live Interview Questions]()
+* [18F Sample Live Interview Questions](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/18F%20Sample%20Live%20Interview%20Questions.docx). For task orders on 18F's Agile BPA, we bring vendors in for oral interviews. This is a sample of the interview questions 18F used for one round of interviews.
 
-* [California Intake Module Statement of Work](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/California%20Intake%20Module%20Statement%20of%20Work.docx)
+* [California Intake Module Statement of Work](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/California%20Intake%20Module%20Statement%20of%20Work.docx). This is the solicitation California sent to their agile vendor pool for the Intake module of their child welfare system replacement.
 
-* [California Nonfunctional Requirements](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/California%20Nonfunctional%20Requirements.docx)
+* [California Nonfunctional Requirements](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/California%20Nonfunctional%20Requirements.docx). These are the non-functional, technical requirements that California included in their solicitations to the agile vendor pool. 
 
 
 
