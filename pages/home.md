@@ -20,6 +20,12 @@ While 18F generally approves of the contents of the documents found in this guid
 These documents won’t make you an expert, But if you’re interested in avoiding the waterfall/monolithic approach this is a good guide to get you started.
 
 ---
+## Product Strategy
+* [United States Digital Service: Digital Services Playbook](https://playbook.cio.gov/). Too many of our digital services projects do not work well, are delivered late, or are over budget. To increase the success rate of these projects, the U.S. Government needs a new approach. The United States Digital Service created a playbook of 13 key “plays” drawn from successful practices from the private sector and government that, if followed together, will help government build effective digital services.
+
+* [12 Factor Apps](https://12factor.net/). This is a list of 12 different “factors” that an organization should employ when building a software as a service application. Employing these 12 factors will help minimize time and cost for new developers joining the project, offer maximum portability between environments, be deployable on modern cloud platforms, enable continuous deployment for maximum agility, and can scale up without significant changes. 
+
+---
 
 ## Presentations
 
@@ -30,6 +36,8 @@ These documents won’t make you an expert, But if you’re interested in avoidi
 * [GSA's Guide to Modular Contracting](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/Modular%20Contracting%20Guide.pdf). A white paper by GSA's Office of Government Wide Policy  to assist federal agencies in employing modular contracting techniques for their major information technology development efforts. It provides useful information on the application of modular contracting techniques, and it should be used in conjunction with Federal and agency regulations and directives.
 
 * [Presentation Strangler Pattern](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/Presentation%20Strangler%20Pattern.pdf). An 18F presentation explaining a software development technique called the Strangler (or Encapsulation) Pattern, an approach for migrating off legacy systems that avoids years-off "big bang" deployments and drastically decreases the time to end users using the new system.
+
+* [Legacy Application Strangulation Case Studies](http://paulhammant.com/2013/07/14/legacy-application-strangulation-case-studies/). A series of case studies about applications of the strangler pattern.
 
 * [Presentation Agile and Scrum for New Teams](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/Presentation%20Agile%20and%20Scrum%20for%20New%20Teams.pdf). A presentation that accompanies a day-long 18F "Introduction to Agile and Scrum" workshop. 
 
@@ -59,7 +67,7 @@ These documents won’t make you an expert, But if you’re interested in avoidi
 
 * [18F Agile BPA Evaluation Factors](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/18F%20Agile%20BPA%20Evaluation%20Factors.docx). These are the evaluation factors that 18F used when evaluating vendors for our Agile Vendor Pool.
 
-* [18F Example Quality Assurance Surveillance Plan for a Contract](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/18F%20Example%20Quality%20Assurance%20Plan%20for%20a%20Contract.docx). This is 18F's quality assurance surveillance plan for individual task orders to the agile vendor pool.
+* [18F Example Quality Assurance Surveillance Plan for a Contract](https://github.com/18F/bpa-opm-eqip/blob/master/QASP.md). This is 18F's quality assurance surveillance plan for individual task orders to the agile vendor pool.
 
 ### Task Orders to the Vendor Pool
 
