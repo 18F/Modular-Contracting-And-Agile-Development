@@ -19,7 +19,7 @@ While 18F generally approves of the contents of the documents found in this guid
 
 These documents won’t make you an expert, But if you’re interested in avoiding the waterfall/monolithic approach this is a good guide to get you started.
 
--- 
+---
 
 ## Product Strategy
 
