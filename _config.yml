@@ -46,7 +46,7 @@ defaults:
 
 forms:
 - type: newsletter
-  heading: Sign up to receive updates from the 18F Acquisitions team.
+  heading: <a href="http://eepurl.com/bJQHFr">Sign up to receive updates from the 18F Acquisitions team.</a>
   url: http://eepurl.com/bJQHFr
   button: Subscribe
   privacypolicy: Your privacy and security are important to us, we'll only share your information as described in the <a href="http://www.gsa.gov/portal/content/116609">GSA Privacy and Security Notice</a>
@@ -56,7 +56,7 @@ footer:
   email:
   twitter:
     - 18f
-  text: This site was built using <a href="https://federalist.18f.gov/" target="_blank">Federalist, from 18F</a>. Take a look at [the Github repo for this site](https://github.com/18F/Modular-Contracting-And-Agile-Development). # Change to a tag line for your agency
+  text: This site was built using <a href="https://federalist.18f.gov/" target="_blank">Federalist, from 18F</a>. Take a look at <a href="https://github.com/18F/Modular-Contracting-And-Agile-Development">the Github repo for this site</a>. # Change to a tag line for your agency
 
 # Build settings
 markdown: kramdown
