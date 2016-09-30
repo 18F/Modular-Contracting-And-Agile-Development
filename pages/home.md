@@ -23,41 +23,41 @@ These documents won’t make you an expert, But if you’re interested in avoidi
 
 ## Presentations
 
-* [Presentation Modular Contracting](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/Presentation%20Modular%20Contracting.pdf)
+* [Presentation Modular Contracting](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/Presentation%20Modular%20Contracting.pdf). An 18F presentation that explains and makes the case for modular contracting, and explains the procurement and development process under a modular contracting model.
 
-* [Presentation Qualified Vendor Pool](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/Presentation%20Qualified%20Vendor%20Pool.pdf)
+* [Presentation Qualified Vendor Pool](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/Presentation%20Qualified%20Vendor%20Pool.pdf). An 18F presentation that explains the high level rationale and process for creating and using Qualified Vendor Pools.
 
-* [GSA's Guide to Modular Contracting](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/Modular%20Contracting%20Guide.pdf)
+* [GSA's Guide to Modular Contracting](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/Modular%20Contracting%20Guide.pdf). A white paper by GSA's Office of Government Wide Policy  to assist federal agencies in employing modular contracting techniques for their major information technology development efforts. It provides useful information on the application of modular contracting techniques, and it should be used in conjunction with Federal and agency regulations and directives.
 
-* [Presentation Strangler Pattern](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/Presentation%20Strangler%20Pattern.pdf)
+* [Presentation Strangler Pattern](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/Presentation%20Strangler%20Pattern.pdf). An 18F presentation explaining a software development technique called the Strangler (or Encapsulation) Pattern, an approach for migrating off legacy systems that avoids years-off "big bang" deployments and drastically decreases the time to end users using the new system.
 
-* [Presentation Agile and Scrum for New Teams](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/Presentation%20Agile%20and%20Scrum%20for%20New%20Teams.pdf)
+* [Presentation Agile and Scrum for New Teams](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/Presentation%20Agile%20and%20Scrum%20for%20New%20Teams.pdf). A presentation that accompanies a day-long 18F "Introduction to Agile and Scrum" workshop. 
 
-* [Presentation Human Centered Design and Agile](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/Presentation%20Human%20Centered%20Design%20and%20Agile.pdf)
+* [Presentation Human Centered Design and Agile](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/Presentation%20Human%20Centered%20Design%20and%20Agile.pdf). An 18F presentation introducing Human Centered Design and how it relates to agile software development.
 
-* [Presentation Organizational and Team Structure](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/Presentation%20Organizational%20and%20Team%20Structure.pdf)
+* [Presentation Organizational and Team Structure](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/Presentation%20Organizational%20and%20Team%20Structure.pdf). An 18F presentation describing how organizations and teams are structured when working in an agile environment.
 
 ## RFP Documents
 
 ### Agile Vendor Pool
 
-* [18F Agile Vendor Pool FRQ](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/18F%20Agile%20Vendor%20Pool%20RFQ.docx)
+* [18F Agile Vendor Pool RFQ](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/18F%20Agile%20Vendor%20Pool%20RFQ.docx). This is the RFQ 18F used when creating our Agile Vendor Pool.
 
-* [Mississippi Agile Vendor Pool RFP](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/Mississippi%20Agile%20Vendor%20Pool%20RFP.docx)
+* [Mississippi Agile Vendor Pool RFP](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/Mississippi%20Agile%20Vendor%20Pool%20RFP.docx). This is the RFP Mississippi used when creating their Agile Vendor Pool. Includes a lot of state-specific boilerplate language.
 
-* [Mississippi Agile Vendor Pool RFP Lightweight Version](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/Mississippi%20Agile%20Vendor%20Pool%20RFP%20Lightweight%20version.docx)
+* [Mississippi Agile Vendor Pool RFP Lightweight Version](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/Mississippi%20Agile%20Vendor%20Pool%20RFP%20Lightweight%20version.docx). This is a lightweight version of the Mississippi Agile Vendor Pool, before state boilerplate was inserted. 
 
-* [Mississippi Potential RFP questions](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/Mississippi%20Potential%20Vendor%20Questions%20for%20Vendor%20Pool%20RFP.xlsx)
+* [Mississippi Potential RFP questions](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/Mississippi%20Potential%20Vendor%20Questions%20for%20Vendor%20Pool%20RFP.xlsx). These were a list of questions Mississippi wanted to ensure were answered in their RFP, gathered largely from vendor questions California and 18F recieved when creating their Agile Vendor Pools.
 
 ### Prototype Challenge
 
-* [Mississippi Vendor Challenge](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/Mississippi%20Vendor%20Challenge.docx)
+* [Mississippi Vendor Challenge](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/Mississippi%20Vendor%20Challenge.docx). When evaluating who should be awarded a spot on their Agile Vendor Pool, Mississippi followed in 18F and California's footsteps by asking vendors to prove their abilities, not just write about them. "Prose" responses to the RFP are limited to a few hundred words, and a majority of the evaluation was based on the quality of a prototype each vendor submitted in response to a challenge.
 
-* [Mississippi Vendor Prototype Evaluation Notes](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/18F%20Vendor%20Prototype%20Evaluation%20Notes.docx)
+* [Mississippi Vendor Prototype Evaluation Notes](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/18F%20Vendor%20Prototype%20Evaluation%20Notes.docx). These are some thoughts about what to look for when evaluating a prototype. It is important to have an experienced developer in the given technology perform the evaluations. While this list is a nice guideline, it is not a checklist and it is not exhaustive or complete. A proficient developer should be part of the evaluation panel, and they should be able to judge whether the code is quality or not.
 
 ### Vendor Pool Evaluation and Post Award
 
-* [18F Agile BPA Evaluation Factors](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/18F%20Agile%20BPA%20Evaluation%20Factors.docx)
+* [18F Agile BPA Evaluation Factors](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/18F%20Agile%20BPA%20Evaluation%20Factors.docx). 
 
 * [18F Example Quality Assurance Surveillance Plan for a Contract](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/18F%20Example%20Quality%20Assurance%20Plan%20for%20a%20Contract.docx)
 
@@ -68,3 +68,6 @@ These documents won’t make you an expert, But if you’re interested in avoidi
 * [California Intake Module Statement of Work](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/California%20Intake%20Module%20Statement%20of%20Work.docx)
 
 * [California Nonfunctional Requirements](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/California%20Nonfunctional%20Requirements.docx)
+
+
+
