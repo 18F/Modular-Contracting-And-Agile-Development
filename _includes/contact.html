@@ -6,7 +6,7 @@
     {% endif %}
   {% endfor %}
 
-  <form id="contact" action="http://eepurl.com/bJQHFr" method="POST">
+  <form id="contact" action="{{ f.url }}" method="POST">
     <fieldset>
       <legend>{{ f.heading }}</legend>
       <div class="usa-width-one-half">
@@ -17,7 +17,7 @@
             {% if field.value %} value="{{ field.value }}" {% endif %}>
         {% endfor %}
         <div class="usa-input-buttons-inline">
-          <input type="submit" value="{{ f.button }}">
+          <a href="http://eepurl.com/bJQHFr">Join our mailing list today.</a>
         </div>
       </div>
       <div class="usa-width-one-half" style="margin-top: 3rem;">
