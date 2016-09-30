@@ -6,7 +6,7 @@ hero-text: 'Learn to implement modular contracting and agile development in your
 banner-heading: 'What is modular contracting? Why should I care?'
 banner-text: 'Modular contracting reduces vendor lock-in, enables risk of failure, and consequences of failure while enabling continuous competition and allowing your end users to benefit from new software in weeks - not years. It does this by breaking up a massive software project into tiny chunks and issuing multiple smaller, faster, lower risk solicitations.'
 banner-button-text: Learn more about modular contracting
-banner-button-link: https://pages.18f.gov/digital-acquisition-playbook/
+banner-button-link: "https://pages.18f.gov/digital-acquisition-playbook/"
 
 ---
 # Modular Contracting And Agile Development
