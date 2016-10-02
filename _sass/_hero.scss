@@ -2,13 +2,17 @@
   background-size: cover;
   background-repeat: no-repeat;
   min-height: 32em;
+  position: relative;
 }
 .hero-content {
   background-color: transparentize($text-color, .6);
   padding: 10px;
   text-align: center;
-  margin: 0 auto;
-  width: 60%;
+  position: absolute;
+  top: 50px;
+  width: 74%;
+  left: 13%;
+  right: 13%;
 
   @media screen and (max-width: $on-palm) {
      padding: 10px;
