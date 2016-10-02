@@ -10,8 +10,8 @@
   margin: 0 auto;
   width: 60%;
 
-  @media screen and (max-width: $on-laptop) {
-     padding: 5px 10px;
+  @media screen and (max-width: $on-palm) {
+     padding: 10px;
   }
 }
 .hero-content h1 {
@@ -19,8 +19,9 @@
   font-size: 30px;
   font-weight: 100;
   line-height: 50px;
+  margin: 0;
 
-  @media screen and (max-width: $on-laptop) {
+  @media screen and (max-width: $on-palm) {
      font-size: 20px;
      line-height: 30px;
   }
