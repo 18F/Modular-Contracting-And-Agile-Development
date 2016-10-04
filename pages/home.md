@@ -27,7 +27,7 @@ These documents won’t make you an expert, but if you’re interested in avoidi
 
 * [United States Digital Service: Digital Services Playbook](https://playbook.cio.gov/). Too many of our digital services projects do not work well, are delivered late, or are over budget. To increase the success rate of these projects, the U.S. Government needs a new approach. The United States Digital Service created a playbook of 13 key “plays” drawn from successful practices from the private sector and government that, if followed together, will help government build effective digital services.
 
-* [12 Factor Apps](https://12factor.net/). This is a list of 12 different “factors” that an organization should employ when building a software as a service application. Employing these 12 factors will help minimize time and cost for new developers joining the project, offer maximum portability between environments, be deployable on modern cloud platforms, enable continuous deployment for maximum agility, and can scale up without significant changes. 
+* [The Twelve-Factor App](https://12factor.net/). This is a list of 12 different “factors” that an organization should employ when building a software as a service application. Employing these 12 factors will help minimize time and cost for new developers joining the project, offer maximum portability between environments, be deployable on modern cloud platforms, enable continuous deployment for maximum agility, and can scale up without significant changes. 
 
 ## Presentations
 
