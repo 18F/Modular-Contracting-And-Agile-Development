@@ -4,7 +4,7 @@ permalink: /
 hero-image: /assets/img/feature-background.jpg
 hero-text: 'Learn to implement modular contracting and agile development in your government organization.'
 banner-heading: 'What is modular contracting? Why should I care?'
-banner-text: 'Modular contracting reduces vendor lock-in, the risk of failure, and the consequences of failure while enabling continuous competition and allowing your end users to benefit from new software in weeks — not years. It does this by breaking up a massive software project into smaller pieces and issuing multiple smaller, faster, lower-risk solicitations.'
+banner-text: 'Modular contracting reduces vendor lock-in, the risk of failure, and the consequences of failure, while enabling continuous competition and allowing your end users to benefit from new software in weeks — not years. It does this by breaking up a massive software project into smaller pieces and issuing multiple smaller, faster, lower-risk solicitations.'
 banner-button-text: Learn how to lower your procurement risk
 banner-button-link: "https://pages.18f.gov/digital-acquisition-playbook/"
 
@@ -78,6 +78,3 @@ These documents won’t make you an expert, But if you’re interested in avoidi
 * [California Intake Module Statement of Work](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/California%20Intake%20Module%20Statement%20of%20Work.docx). This is the solicitation California sent to their agile vendor pool for the Intake module of their child welfare system replacement.
 
 * [California Nonfunctional Requirements](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/California%20Nonfunctional%20Requirements.docx). These are the non-functional, technical requirements that California included in their solicitations to the agile vendor pool. 
-
-
-
