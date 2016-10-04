@@ -43,7 +43,7 @@ These documents won’t make you an expert, but if you’re interested in avoidi
 
 * [Organizational and Team Structure](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/Presentation%20Organizational%20and%20Team%20Structure.pdf). An 18F presentation describing how organizations and teams are structured when working in an agile environment.
 
-## Whitepapers and Case Studies
+## White Papers and Case Studies
 
 * [GSA's Guide to Modular Contracting](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/Modular%20Contracting%20Guide.pdf). A white paper by GSA's Office of Government Wide Policy  to assist federal agencies in employing modular contracting techniques for their major information technology development efforts. It provides useful information on the application of modular contracting techniques, and it should be used in conjunction with Federal and agency regulations and directives.
 
