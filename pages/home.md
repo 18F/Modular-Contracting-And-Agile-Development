@@ -15,7 +15,7 @@ banner-button-link: "https://pages.18f.gov/digital-acquisition-playbook/"
 
 This documentation will help you understand what modular contracting is, how to implement modular contracting in your organization, and how modular contracting can enable agile development. These are all real documents, not simulations. There are presentations and white papers, but a majority of these are real RFPs, quality assurance surveillance plans, questions and answers, vendor prototype challenge solicitations, evaluation factors, statements of work, and more.
 
-Some are documents that 18F generated and used, some are documents 18F created in collaboration with partners. We hope that as more agencies use modular contracts, agile vendor pools, and develop software using agile, they will submit (via pull request, please!) documents that they are generating for inclusion in this guide.
+Some are documents that 18F generated and used, some are documents 18F created in collaboration with partners. We hope that as more agencies use modular contracts, agile vendor pools, and develop software using agile, they will submit (via [pull request](https://github.com/18F/Modular-Contracting-And-Agile-Development), please!) documents that they are generating for inclusion in this guide.
 
 While 18F generally approves of the contents of the documents found in this guide, none of these documents are perfect. There are lessons each of these organizations learned after executing on these documents. Different approaches are more, or less, appropriate for different situations. And there are some internal documents we are not able to share publicly. But we hope that providing you with many real world examples, you can use these as templates and modify as needed.
 
