@@ -17,7 +17,7 @@ Below, you'll find a collection of resources to help you understand what modular
 
 Some were created by 18F, and some are documents 18F made in collaboration with our partners. We hope that as more agencies use modular contracts, agile vendor pools, and develop software using agile methodologies, they'll submit (via [pull request](https://github.com/18F/Modular-Contracting-And-Agile-Development), please!) their own documents for inclusion in this guide.
 
-These documents are from various organizations using various approaches to solve their problems. None of these documents represent the "ideal" process, but we hope that you can use these real-world examples as templates and modify them as needed. Similarly, this collection doesn't contain everything you need to know, but it's a good place to start to help your organization move from waterfall and monolithic approaches to modular contracting.
+These documents are from various organizations using various approaches to solve their problems. None of these documents represent the "ideal" process, but we hope that you can use these real-world examples as templates and modify them as needed. Similarly, this collection doesn't contain everything you need to know. Some of these documents even contain comments pointing out areas that could be improved, or areas where more thought is needed. We wanted to be transparent with you and show the thought process behind what you read here. But, it's a good place to start to help your organization move from waterfall and monolithic approaches to modular contracting.
 
 ---
 
