@@ -7,7 +7,7 @@ image: /assets/img/about.jpg
 
 ## About 18F
 
-18F is an office inside the General Services Administration's Technology Transformation Service that helps other federal agencies build, buy, and share efficient and easy-to-use digital services. Learn more about [what we deliver](https://18f.gsa.gov/what-we-deliver/). We're a team of developers, designers, product managers, strategists, lawyers, and contracting officers.
+18F is an office inside the General Services Administration's Technology Transformation Service that helps other federal agencies build, buy, and share efficient and easy-to-use digital services. You can learn more about [what we deliver](https://18f.gsa.gov/what-we-deliver/). We're a team of developers, designers, product managers, strategists, lawyers, and contracting officers.
 
 ### 18F's state and local work
 
