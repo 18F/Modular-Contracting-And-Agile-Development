@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project-list
 title: Open source software projects
 permalink: /projects/open-source/
 ---
