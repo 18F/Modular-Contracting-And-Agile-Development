@@ -12,21 +12,36 @@ assigned:
         show_in_menu: true
         show_in_footer: false
     -
-        text: Work
-        href: pages/projects.md
-        permalink: /projects/
-        show_in_menu: false
+        text: FAQ
+        href: pages/FAQ.md
+        permalink: /FAQ/
+        show_in_menu: true
         show_in_footer: false
         children:
             -
-                text: 'Microloans for Farmers'
-                href: pages/projects/microloans-for-farmers.md
-                show_in_menu: false
+                text: 'Agile Development'
+                href: pages/agile-development.md
+                show_in_menu: true
                 show_in_footer: false
             -
-                text: 'Reducing Summer Melt'
-                href: pages/projects/reducing-summer-melt.md
-                show_in_menu: false
+                text: 'Modular Procurement'
+                href: pages/modular-procurement.md
+                show_in_menu: true
+                show_in_footer: false
+            -
+                text: 'Open Source'
+                href: pages/open-source.md
+                show_in_menu: true
+                show_in_footer: false
+            -
+                text: 'Using COTS'
+                href: pages/using-cots.md
+                show_in_menu: true
+                show_in_footer: false
+            -
+                text: 'Common Questions'
+                href: pages/common-questions.md
+                show_in_menu: true
                 show_in_footer: false
     -
         text: 'Project data'
