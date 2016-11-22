@@ -14,7 +14,7 @@ assigned:
     -
         text: FAQ
         href: pages/faq.md
-        permalink: /FAQ/
+        permalink: /faq/
         show_in_menu: true
         show_in_footer: false
         children:
