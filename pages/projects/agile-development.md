@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project-list
 title: Agile development processes
 permalink: /projects/agile-development/
 ---
