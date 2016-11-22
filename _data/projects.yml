@@ -10,3 +10,11 @@
   description: Breaking big procurements up into small ones!
   link: /projects/modular-procurement/
   image: /assets/img/project-icons/piggy-bank.png
+- title: Open Source
+  description: So many benefits from making your code public.
+  link: /projects/open-source/
+  image: /assets/img/project-icons/piggy-bank.png
+- title: Using COTS
+  description: How to avoid the Commercial Off The Shelf software trap
+  link: /projects/using-cots/
+  image: /assets/img/project-icons/piggy-bank.png
