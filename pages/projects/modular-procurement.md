@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project-list
 title: Managing modular procurements
 permalink: /projects/modular-procurement/
 ---
