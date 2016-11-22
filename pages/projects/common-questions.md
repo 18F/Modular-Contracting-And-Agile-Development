@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project-list
 title: Common questions from state partners
 permalink: /projects/common-questions/
 ---
