@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project-list
 title: Using commercial off-the-shelf solutions
 permalink: /projects/cots-solutions/
 ---
