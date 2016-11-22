@@ -1,7 +1,7 @@
 ---
 layout: project-list
 title: Using commercial off-the-shelf solutions
-permalink: /projects/cots-solutions/
+permalink: /projects/using-cots/
 ---
 
 In some cases, if there is a COTS system that will fit your requirements, then there may be an opportunity for cost savings.
