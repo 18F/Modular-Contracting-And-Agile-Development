@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Common questions from state partners
-permalink: /common-questions/
+permalink: /projects/common-questions/
 ---
 
 There are a number of questions and concerns we've heard expressed in many of our workshops and conversations. Here's how we answer a few of them:
