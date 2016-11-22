@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Agile development processes
-permalink: /agile-development/
+permalink: /projects/agile-development/
 ---
 
 Agile development describes a set of principles for building software that allow collaborative, cross-functional teams to accommodate changing user needs and requirements.
