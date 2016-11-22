@@ -13,7 +13,7 @@ assigned:
         show_in_footer: false
     -
         text: FAQ
-        href: pages/projects.md
+        href: pages/faq.md
         permalink: /FAQ/
         show_in_menu: true
         show_in_footer: false
