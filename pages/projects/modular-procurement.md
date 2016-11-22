@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Managing modular procurements
-permalink: /modular-procurement/
+permalink: /projects/modular-procurement/
 ---
 
 Modular procurement is a procurement model that breaks what would traditionally be a large, monolithic contract into several shorter-term, lower dollar amount contracts.
