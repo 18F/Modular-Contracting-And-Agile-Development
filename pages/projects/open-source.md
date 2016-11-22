@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Open source software projects
-permalink: /open-source/
+permalink: /projects/open-source/
 ---
 
 18F has committed to working with open source software because developing in the open has real benefits, especially for the public sector. The [18F Open Source Policy](https://github.com/18F/open-source-policy/blob/master/policy.md) explains the benefits of open source and answers many common questions about security, licensing, distribution, and exceptions. Our policy is _itself_ open source, which means it can be adapted for state use.
