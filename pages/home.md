@@ -50,6 +50,8 @@ These documents are from various organizations using various approaches to solve
 
 ### Agile Vendor Pool
 
+* [California Agile Vendor Pool RFI](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/California%20Vendor%20Pool%20RFI.pdf) This is the RFI California used to gather information when they were creating their Agile Vendor Pool. 
+
 * [18F Agile Vendor Pool RFQ](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/18F%20Agile%20Vendor%20Pool%20RFQ.docx). This is the RFQ 18F used when creating our Agile Vendor Pool, also referred to as a BPA (Blanket Purchase Agreement).
 
 * [Mississippi Agile Vendor Pool RFP](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/pages/files/Mississippi%20Agile%20Vendor%20Pool%20RFP.docx). This is the RFP Mississippi used when creating their Agile Vendor Pool. It includes a lot of state-specific boilerplate language.
