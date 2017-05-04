@@ -25,6 +25,11 @@ layout: base
         <a href="{{ page.banner-button-link }}" class="usa-button">{{ page.banner-button-text }}</a>
       </div>
       {% endif %}
+      {% if page.banner-video-url %}
+      <div>
+        <iframe width="560" height="315" src="{{page.banner-video-url}}" frameborder="0" allowfullscreen></iframe>
+      </div>
+      {% endif %}
     </div>
   </div>
 </section>
@@ -38,7 +43,7 @@ layout: base
         {% if page.content-button-link %}
           <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.content-button-text }}</a>
         {% endif %}
-      </div>  
+      </div>
     </div>
   </div>
 </section>
