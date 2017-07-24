@@ -13,16 +13,12 @@ layout: base
   </div>
 </section>
 
-<section class="usa-grid usa-section">
-    <h2>Work</h2>
-    {% include projects.html %}
-</section>
-
 {% if page.banner-heading %}
 <section class="usa-section banner tagline">
   <div class="usa-grid">
     <div class="usa-width-one-whole usa-end-row">
       <h2>{{ page.banner-heading }}</h2>
+      <a href="{{ page.featured-video-url }}"><img class="featured-video" src="{{ page.thumbnail-image }}"/></a>
       {% if page.banner-text %}
         <p>{{ page.banner-text }}</p>
       {% endif %}
@@ -35,6 +31,11 @@ layout: base
   </div>
 </section>
 {% endif %}
+
+<section class="usa-grid usa-section">
+    <h2>Featured Projects</h2>
+    {% include projects.html %}
+</section>
 
 <section class="usa-grid usa-section">
   <div class="usa-width-one-whole usa-end-row">

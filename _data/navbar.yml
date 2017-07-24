@@ -6,7 +6,7 @@ assigned:
         show_in_menu: false
         show_in_footer: false
     -
-        text: Work
+        text: Examples
         href: pages/projects.md
         permalink: /projects/
         show_in_menu: true

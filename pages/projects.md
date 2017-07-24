@@ -1,6 +1,6 @@
 ---
 layout: project-list
-title: Projects
+title: Examples
 permalink: /projects/
 ---
 
