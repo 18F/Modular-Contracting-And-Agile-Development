@@ -18,7 +18,7 @@ layout: base
   <div class="usa-grid">
     <div class="usa-width-one-whole usa-end-row">
       <h2>{{ page.banner-heading }}</h2>
-      <a href="{{ page.featured-video-url }}"><img class="featured-video" src="{{ page.thumbnail-image }}"/></a>
+      <a href="{{ page.featured-video-url }}"><img class="featured-video" src="{{ page.thumbnail-image | prepend: site.baseurl }}"/></a>
       {% if page.banner-text %}
         <p>{{ page.banner-text }}</p>
       {% endif %}
