@@ -9,8 +9,17 @@
   line-height: 1.7;
 }
 
-.featured-video {
+figure {
   float: right;
   padding: 5px;
-  margin-left: 10px;
+}
+
+figcaption {
+  text-align: center;
+  color: $banner-text-color;
+}
+
+.banner-text {
+  margin-top: 35px;
+  text-align: justify;
 }

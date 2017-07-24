@@ -11,6 +11,7 @@ banner-text: Modular contracting is an acquisition strategy that breaks up large
 #banner-button-text: Learn more about our work
 #banner-button-link: /projects/
 featured-video-url: https://www.youtube.com/watch?v=lNSmF7-xisU
+video-caption: "Modular Procurement at CWDS"
 thumbnail-image: /assets/img/thumbnail.jpg
 
 ---
