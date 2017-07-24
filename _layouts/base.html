@@ -3,14 +3,14 @@
 
   {% include head.html %}
 
-  <body>
+  <body class="{{ page.body-class }}">
+  <div class="usa-overlay"></div>
 
     {% include header.html %}
-
-    {{ content }}
-
+      <main id="main" tabindex="-1">
+      {{ content }}
+    </main>
     {% include footer.html %}
     {% include javascript.html %}
-
   </body>
 </html>

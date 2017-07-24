@@ -1,0 +1,19 @@
+---
+layout: base
+---
+
+<section class="usa-grid usa-section">
+  <div class="usa-width-two-thirds">
+    <h2>{{ page.name }}</h2>
+    {{ content }}
+  </div>
+  <div class="usa-width-one-third">
+    {% if page.image %}
+      <img class="team-image" src="{{ page.image | prepend: site.baseurl }}" alt="{{ page.name }}" />
+    {% endif %}
+    {% if page.title %}
+      <h3>Title</h3>
+      <p>{{ page.title }}</p>
+    {% endif %}
+  </div>
+</section>

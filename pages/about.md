@@ -5,10 +5,14 @@ permalink: /about/
 image: /assets/img/about.jpg
 ---
 
-## About 18F
+## About GSA
 
-18F is an office inside the General Services Administration's Technology Transformation Service that helps other federal agencies build, buy, and share efficient and easy-to-use digital services. You can learn more about [what we deliver](https://18f.gsa.gov/what-we-deliver/). We're a team of developers, designers, product managers, strategists, lawyers, and contracting officers.
+GSA provides workplaces by constructing, managing, and preserving government buildings and by leasing and managing commercial real estate. GSA's acquisition solutions offer private sector professional services, equipment, supplies, telecommunications, and information technology to government organizations and the military. GSA policies promote management best practices and efficient government operations.
 
-### 18F's state and local work
+### Mission
 
-18F is beginning to work with state and local governments, and we look forward to spreading our impact to all levels of government. Due to the legal authority we use to engage and work with states, we do not build products for our state partners, but we do assist them with product and acquisition strategy and agile coaching. Learn more here by visiting our [State Frequently Asked Questions](https://pages.18f.gov/state-faq/).
+The mission of GSA is to deliver the best value in real estate, acquisition, and technology services to government and the American people.
+
+### History
+
+GSA was established by President Harry Truman on July 1, 1949, to streamline the administrative work of the federal government.  GSA consolidated the National Archives Establishment, the Federal Works Agency and its Public Buildings Administration, the Bureau of Federal Supply and the Office of Contract Settlement, and the War Assets Administration into one federal agency tasked with administering supplies and providing workplaces for federal employees

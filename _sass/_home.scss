@@ -1,3 +1,10 @@
 .center-content {
   text-align: center;
 }
+
+.home .usa-width-one-whole > p {
+  // same as .usa-font-lead
+  max-width: 77rem;
+  font-size: 20px;
+  line-height: 1.7;
+}

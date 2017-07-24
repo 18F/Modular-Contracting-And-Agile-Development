@@ -1,5 +1,19 @@
-<footer class="usa-footer usa-footer-medium usa-sans" role="contentinfo">
-
+<footer class="usa-footer usa-footer-medium" role="contentinfo">
+  {% if site.footer.links %}
+  <div class="usa-footer-primary-section">
+    <div class="usa-grid-full">
+      <nav class="usa-footer-nav">
+        <ul class="usa-unstyled-list">
+        {% for link in site.footer.links %}
+          <li class="usa-width-one-sixth usa-footer-primary-content">
+            <a class="usa-footer-primary-link" href="{{ link.href }}">{{ link.text }}</a>
+          </li>
+        {% endfor %}
+        </ul>
+      </nav>
+    </div>
+  </div>
+  {% endif %}
   <div class="usa-footer-secondary_section">
     <div class="usa-grid">
       <div class="usa-footer-logo usa-width-one-half">
@@ -12,20 +26,28 @@
       </div>
 
       <div class="usa-footer-contact-links usa-width-one-half">
-
+          {% if site.footer.contact.twitter %}
+          <a class="usa-link-twitter" href="https://twitter.com/{{ twitter }}"><span>Twitter</span></a>
+          {% endif %}
+          {% if site.footer.contact.facebook %}
+          <a class="usa-link-facebook" href="https://facebook.com/{{ facebook }}"><span>Facebook</span></a>
+          {% endif %}
+          {% if site.footer.contact.youtube %}
+          <a class="usa-link-youtube" href="https://youtube.com/{{ youtube }}"><span>YouTube</span></a>
+          {% endif %}
+          {% if site.footer.contact.rss %}
+          <a class="usa-link-rss" href="{{ rss }}"><span>RSS feed</span></a>
+          {% endif %}
         <address>
-          {% if site.footer.name %}
-            <h3 class="usa-footer-contact-heading">{{ site.footer.name }}</h3>
+          {% if site.footer.contact.name %}
+            <h3 class="usa-footer-contact-heading">{{ site.footer.contact.name }}</h3>
           {% endif %}
-          {% if site.footer.phonenumber %}
-            <p><a href="tel:{{ site.footer.phonenumber }}">{{ site.footer.phonenumber }}</a></p>
+          {% if site.footer.contact.phonenumber %}
+            <p><a href="tel:{{ site.footer.contact.phonenumber }}">{{ site.footer.contact.phonenumber }}</a></p>
           {% endif %}
-          <p><a href="mailto:{{ site.footer.email }}">{{ site.footer.email }}</a></p>
-          {% for twitter in site.footer.twitter %}
-          <a href="https://twitter.com/{{ twitter }}" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @{{ twitter }}</a>
-          <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-          {% endfor %}
+          <p><a href="mailto:{{ site.footer.contact.email }}">{{ site.footer.contact.email }}</a></p>
         </address>
+
       </div>
     </div>
   </div>
