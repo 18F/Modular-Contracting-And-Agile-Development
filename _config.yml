@@ -69,11 +69,7 @@ forms:
       value: -7861934959779167198
 
 footer:
-  links:
-      - text: 'Work'
-        href: '#'
-      - text: 'About'
-        href: '#'
+  links: ~
   image: /assets/img/gsa-logo-dark.jpg
   contact:
     name: GSA
@@ -84,7 +80,7 @@ footer:
     facebook: 18f
     youtube: 18f
     rss: 18f
-  text: This site was built using <a href="https://federalist.18f.gov/" target="_blank">Federalist, from 18F</a>. # Change to a tag line for your agency
+  text: This site was built using <a href="https://federalist.18f.gov/" target="_blank">Federalist, from 18F</a>. The source is available [on GitHub](https://github.com/18F/Modular-Contracting-And-Agile-Development/)
 
 # Build settings
 markdown: kramdown
