@@ -17,4 +17,4 @@ We worked directly with State CIO Stu Davis to identify ways that the State of O
 
 ## Read More
 
-Read more about how 18F worked with the State of Ohio [in Government technology Magazine](http://www.govtech.com/data/Ohio-Takes-Page-from-18F-to-Launch-Inclusive-Procurement-Attract-New-Bidders.html).
+Read more about how 18F worked with the State of Ohio [in Government Technology Magazine](http://www.govtech.com/data/Ohio-Takes-Page-from-18F-to-Launch-Inclusive-Procurement-Attract-New-Bidders.html).
