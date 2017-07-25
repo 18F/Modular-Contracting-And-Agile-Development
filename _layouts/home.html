@@ -20,7 +20,7 @@ layout: base
       <h2>{{ page.banner-heading }}</h2>
       {% if page.featured-video-url %}
       <figure>
-        <a href="{{ page.featured-video-url }}"><img class="featured-video" src="{{ page.thumbnail-image | prepend: site.baseurl }}"/></a>
+        <a href="{{ page.featured-video-url }}"><img class="featured-video" alt="{{ page.thumbnail-description }}" src="{{ page.thumbnail-image | prepend: site.baseurl }}"/></a>
         <figcaption>Video: {{ page.video-caption }}</figcaption>
       </figure>
       {% endif %}

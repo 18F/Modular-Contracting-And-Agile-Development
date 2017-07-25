@@ -8,11 +8,10 @@ hero-button-text: Learn more
 hero-button-link: /strategies/
 banner-heading: What is Modular Contracting?
 banner-text: Modular contracting is an acquisition strategy that breaks up large, complex procurements into multiple, tightly-scoped projects to implement technology systems in successive, interoperable increments. It is an approach that can help reduce vendor lock in, mitigate risk, and encourage the delivery of working software to users more rapidly.
-#banner-button-text: Learn more about our work
-#banner-button-link: /projects/
 featured-video-url: https://www.youtube.com/watch?v=lNSmF7-xisU
 video-caption: "Modular Contracting at CWDS"
 thumbnail-image: /assets/img/thumbnail.jpg
+thumbnail-description: "Hear about 18F's work with the California Child Welfare Digital Service."
 
 ---
 ## What we do

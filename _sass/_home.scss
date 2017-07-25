@@ -9,6 +9,11 @@
   line-height: 1.7;
 }
 
+.banner-text {
+  margin-top: 35px;
+  text-align: justify;
+}
+
 figure {
   float: right;
   padding: 5px;
@@ -19,7 +24,7 @@ figcaption {
   color: $banner-text-color;
 }
 
-.banner-text {
-  margin-top: 35px;
-  text-align: justify;
+img {
+  padding: 2px;
+  border:1px solid $button-color;
 }
