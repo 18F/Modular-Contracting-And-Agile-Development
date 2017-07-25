@@ -1,24 +1,20 @@
 ---
 layout: project
 title: Protecting At Risk Kids
-description: A project to overhaul the State of California's legacy child welfare system.
+description: Using modular contracting to help the State of California upgrade its legacy child welfare system.
 permalink: /projects/ca-child-welfare/
 tags: project
 image: /assets/img/project-images/california.jpg
 image-credit: https://www.flickr.com/photos/photocindy/
 ---
-## What is the issue?
+## The Challenge
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc.
+In 2015, the State of California began a process to modernize their child welfare services case management system. This system is used by more than 20,000 social workers to track and manage the more than 500,000 cases of child abuse and neglect that are reported in California each year. Every year, 30,000 children are removed from their homes, which means the stakes are too high for this system to be using outdated technology to investigate and manage California’s most vulnerable youth population who may be victims of abuse. And, although the state of California runs the system, the federal government pays for 50 percent of its cost through a grant from the Department of Health and Human Services (HHS).
 
-## What is the insight?
+## How We're Helping
 
-Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+Since late 2015, 18F has worked with California’s Department of Social Services and Office of Systems Integration to implement modular contracting, agile development, user-centered design, and open source practices into the modernization project project. This project is still in the early stages, but this change in strategy has started to produce greater vendor competition, cost savings, a vastly improved end product, and result in a better contracting experience for California’s Department of Social Services. All of this is being done to focus the valuable time of Child Welfare Professionals in California so they can spend more time helping the deeply vulnerable population of children who are the victims of abuse and neglect.
 
-## What was the intervention?
+## Read More
 
-Integer euismod lacus luctus magna. Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum. Morbi in ipsum sit amet pede facilisis laoreet. Donec lacus nunc, viverra nec, blandit vel, egestas et, augue. Vestibulum tincidunt malesuada tellus. Ut ultrices ultrices enim. Curabitur sit amet mauris. Morbi in dui quis est pulvinar ullamcorper.
-
-## What was the impact?
-
-Nulla facilisi. Integer lacinia sollicitudin massa. Cras metus. Sed aliquet risus a tortor. Integer id quam. Morbi mi. Quisque nisl felis, venenatis tristique, dignissim in, ultrices sit amet, augue. Proin sodales libero eget ante. Nulla quam. Aenean laoreet. Vestibulum nisi lectus, commodo ac, facilisis ac, ultricies eu, pede.
+Read more about our work with the State of California [on the 18F blog](https://18f.gsa.gov/2016/10/28/california-takes-new-approach-procurement/).
