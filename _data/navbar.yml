@@ -6,29 +6,7 @@ assigned:
         show_in_menu: true
         show_in_footer: false
     -
-        text: Examples
-        href: pages/projects.md
-        permalink: /projects/
-        show_in_menu: true
-        show_in_footer: false
-        children:
-            -
-                text: 'Protecting At Risk Kids'
-                href: pages/projects/ca-child-welfare.md
-                show_in_menu: false
-                show_in_footer: false
-            -
-                text: 'Strengthening the Safety Net'
-                href: pages/projects/ak-medicaid.md
-                show_in_menu: false
-                show_in_footer: false
-            -
-                text: 'Streamlining Procurement'
-                href: pages/projects/oh-procurement.md
-                show_in_menu: false
-                show_in_footer: false
-    -
-        text: 'Strategies'
+        text: 'Toolkit'
         href: pages/strategies.md
         permalink: /strategies/
         show_in_menu: true
@@ -59,6 +37,28 @@ assigned:
               href: pages/strategies/common-questions.md
               show_in_menu: true
               show_in_footer: false
+    -
+        text: Examples
+        href: pages/examples.md
+        permalink: /examples/
+        show_in_menu: true
+        show_in_footer: false
+        children:
+            -
+                text: 'Protecting At Risk Kids'
+                href: pages/projects/ca-child-welfare.md
+                show_in_menu: false
+                show_in_footer: false
+            -
+                text: 'Strengthening the Safety Net'
+                href: pages/projects/ak-medicaid.md
+                show_in_menu: false
+                show_in_footer: false
+            -
+                text: 'Streamlining Procurement'
+                href: pages/projects/oh-procurement.md
+                show_in_menu: false
+                show_in_footer: false
     -
         text: 'Assets'
         href: pages/assets.md

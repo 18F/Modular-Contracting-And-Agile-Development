@@ -1,6 +1,6 @@
 ---
 layout: strategy
-title: Managing modular procurements
+title: Managing modular contracts
 description: Learn how to break your project into smaller, less-risky modules.
 permalink: /modular-procurement/
 tags: strategy

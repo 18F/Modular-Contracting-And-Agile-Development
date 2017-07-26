@@ -15,6 +15,9 @@ Like other states, the technology procurement process in Ohio tends to attract a
 
 We worked directly with State CIO Stu Davis to identify ways that the State of Ohio could modify it's existing process to attract smaller, more nimble vendors to bid on state IT projects. Those proposed changes have since been incorporated into newly adopted changes to the Ohio procurement rules, opening the door for more and more vendors to bid on state work.
 
+## Tools We're Using
+* [Modular contracting](/modular-procurement/)
+
 ## Read More
 
 Read more about how 18F worked with the State of Ohio [in Government Technology Magazine](http://www.govtech.com/data/Ohio-Takes-Page-from-18F-to-Launch-Inclusive-Procurement-Attract-New-Bidders.html).

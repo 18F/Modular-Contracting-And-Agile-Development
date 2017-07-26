@@ -13,7 +13,13 @@ In 2015, the State of California began a process to modernize their child welfar
 
 ## How We're Helping
 
-Since late 2015, 18F has worked with California’s Department of Social Services and Office of Systems Integration to implement modular contracting, agile development, user-centered design, and open source practices into the modernization project project. This project is still in the early stages, but this change in strategy has started to produce greater vendor competition, cost savings, a vastly improved end product, and result in a better contracting experience for California’s Department of Social Services. All of this is being done to focus the valuable time of Child Welfare Professionals in California so they can spend more time helping the deeply vulnerable population of children who are the victims of abuse and neglect.
+Since late 2015, 18F has worked with California’s Department of Social Services and Office of Systems Integration to implement [modular contracting](/modular-procurement/), [agile development](/agile-development/), user-centered design, and [open source](/open-source/) practices into the modernization project project. This project is still in the early stages, but this change in strategy has started to produce greater vendor competition, cost savings, a vastly improved end product, and result in a better contracting experience for California’s Department of Social Services. All of this is being done to focus the valuable time of Child Welfare Professionals in California so they can spend more time helping the deeply vulnerable population of children who are the victims of abuse and neglect.
+
+## Tools We're Using
+* [Modular contracting](/modular-procurement/)
+* [Agile development](/agile-development/)
+* [DevOps](/devops/)
+* [Open source software](/open-source/)
 
 ## Read More
 
