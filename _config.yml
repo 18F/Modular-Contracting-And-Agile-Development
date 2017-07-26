@@ -75,12 +75,8 @@ footer:
     name: GSA
     phonenumber: 1-800-CALL-GOV
     email: gsa@gsa.gov
-    twitter:
-      - 18f
-    facebook: 18f
-    youtube: 18f
-    rss: 18f
-  text: This site was built using <a href="https://federalist.18f.gov/" target="_blank">Federalist, from 18F</a>. The source is available [on GitHub](https://github.com/18F/Modular-Contracting-And-Agile-Development/)
+    twitter: "18f"
+  text: This site was built using <a href="https://federalist.18f.gov/" target="_blank">Federalist, from 18F</a>. The source is available <a href="https://github.com/18F/Modular-Contracting-And-Agile-Development/">on GitHub</a>.
 
 # Build settings
 markdown: kramdown

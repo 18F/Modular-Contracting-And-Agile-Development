@@ -27,16 +27,7 @@
 
       <div class="usa-footer-contact-links usa-width-one-half">
           {% if site.footer.contact.twitter %}
-          <a class="usa-link-twitter" href="https://twitter.com/{{ twitter }}"><span>Twitter</span></a>
-          {% endif %}
-          {% if site.footer.contact.facebook %}
-          <a class="usa-link-facebook" href="https://facebook.com/{{ facebook }}"><span>Facebook</span></a>
-          {% endif %}
-          {% if site.footer.contact.youtube %}
-          <a class="usa-link-youtube" href="https://youtube.com/{{ youtube }}"><span>YouTube</span></a>
-          {% endif %}
-          {% if site.footer.contact.rss %}
-          <a class="usa-link-rss" href="{{ rss }}"><span>RSS feed</span></a>
+          <a class="usa-link-twitter" href="https://twitter.com/{{ site.footer.contact.twitter }}"><span>Twitter</span></a>
           {% endif %}
         <address>
           {% if site.footer.contact.name %}
