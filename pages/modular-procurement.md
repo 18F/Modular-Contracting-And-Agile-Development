@@ -27,7 +27,7 @@ At its core, modular procurement supports iterative development. This means that
 
 #### There are ways to make sure code is consistent and compatible while using multiple vendors.
 
-There are well-documented, standardized software development practices that can be standardized across vendors, and tools to enforce those. By adopting a “programming style” and an automated style checking tool (known as a “linter”), your vendors can ensure the code style is consistent. By adopting other automated quality-checking tools (examples include Code Climate and HoundCI), your vendors can avoid other poor code quality practices. Because the code is open source, vendors can see the code they have to integrate with. By having automated integration and unit tests, your vendors can identify and fix code that breaks or doesn't integrate as soon as it’s written.
+There are well-documented, standardized software development practices that can be standardized across vendors, and tools to enforce those. By adopting a “programming style guide” and an automated style checking tool (known as a “linter”), your vendors can ensure the code style is consistent. By adopting other automated quality-checking tools (examples include Code Climate and HoundCI), your vendors can avoid other poor code quality practices. Because the code is open source, vendors can see the code they have to integrate with. By having automated integration and unit tests, your vendors can identify and fix code that breaks or doesn't integrate as soon as it’s written.
 
 #### Onboarding vendors is more manageable when projects are modular.
 

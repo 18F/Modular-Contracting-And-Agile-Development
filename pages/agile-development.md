@@ -24,7 +24,7 @@ Ultimately, the state’s investment should be measured in working software, not
 
 #### Starting with small projects can help build agile project management skills.
 
-We recommend starting with a small, less important project in order to develop your team’s understanding of agile project management, then expand. It is certainly much more difficult (and higher risk), and requires more coaching and training, to dive right into a large, high profile, critical project first.
+We recommend starting with a small, less important project in order to develop your team’s understanding of agile project management, then expand. Diving right into a large, high profile, or critical project is risky; it requires more coaching and training.
 
 #### Incremental development can allow end users to start seeing benefits even before the legacy system can be fully replaced.
 
