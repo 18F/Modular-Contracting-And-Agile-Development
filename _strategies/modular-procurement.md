@@ -33,7 +33,8 @@ At its core, modular procurement supports iterative development. This means that
 
 #### There are ways to make sure code is consistent and compatible while using multiple vendors.
 
-There are well-documented, standardized software development practices that can be standardized across vendors, and tools to enforce those. By adopting a “programming style” and an automated style checking tool (known as a “linter”), your vendors can ensure the code style is consistent. By adopting other automated quality-checking tools (examples include Code Climate and HoundCI), your vendors can avoid other poor code quality practices. Because the code is open source, vendors can see the code they have to integrate with. By having automated integration and unit tests, your vendors can identify and fix code that breaks or doesn't integrate as soon as it’s written.
+There are well-documented, standardized software development practices that can be standardized across vendors, and tools to enforce those. By adopting a "programming style guide" and an automated style checking tool (known as a "linter"), your vendors can ensure the code style is consistent. By adopting other automated quality-checking tools (examples include Code Climate and HoundCI), your vendors can avoid other poor code quality practices. Because the code is open source, vendors can see the code they have to integrate with. By having automated integration and unit tests, your vendors can identify and fix code that breaks or doesn't integrate as soon as it’s written.
+  
 
 #### Onboarding vendors is more manageable when projects are modular.
 
@@ -50,4 +51,4 @@ During the selection process, the vendor pool is asked to provide proof of their
 * Asking for a link to the working prototype as part of their proposal, as well as a link to the public source code.
 * Evaluating the proposals based on adherence to coding and design best practices, proof they followed an agile methodology, and evidence of their user research.
 * Selecting the best-performing companies for your pool. We recommend starting with a smaller number of companies, perhaps 8 to 10. This is a manageable number, and with a defined on and off-ramp process, the size of the pool can be modified as the amount of work that can be managed increases.
-* Once your pool is created, you can write a “task order” (specific language varies from federal to state to local governments), or an RFP that only goes out to the vendors on the pool. Since they are all pre-qualified, you know they are all capable of doing the work, which lets you skip that stage of the evaluations for each subsequent RFP.
+* Once your pool is created, you can write a "task order" (specific language varies from federal to state to local governments), or an RFP that only goes out to the vendors on the pool. Since they are all pre-qualified, you know they are all capable of doing the work, which lets you skip that stage of the evaluations for each subsequent RFP.
