@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Reaching New Vendors
-description: Rethinking the procurement process in Ohio to attract new vendors to state IT projects.
+description: Restructuring procurements to include more small vendors with agile delivery expertise.
 permalink: /projects/vendor-pools/
 tags: project
 image: /assets/img/project-images/papers.jpg
