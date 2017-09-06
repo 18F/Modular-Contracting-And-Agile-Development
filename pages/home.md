@@ -2,7 +2,7 @@
 layout: home
 body-class: home
 permalink: /
-hero-image: /assets/img/feature-background.jpg
+hero-image: /assets/img/new-background.jpg
 hero-text: "Modular Contracting + Agile Delivery = Better Digital Services "
 hero-button-text: Learn more
 hero-button-link: /strategies/
@@ -15,4 +15,4 @@ thumbnail-description: "Hear about 18F's work with the California Child Welfare 
 
 ---
 ## What we do
-At part of the GSA's Technology Transformation Services (TTS), the mission of the Acquisitions Team is to improve the public’s experience with government by helping federal agencies and state governments buy and share technology solutions that allow them to better serve the public.
+At part of the GSA's Technology Transformation Services (TTS), the mission of the Acquisitions Team is to improve the public’s experience with government by helping federal agencies and state governments buy and share technology solutions that allow them to better serve the public. Learn more about our [background and mission](/about/).

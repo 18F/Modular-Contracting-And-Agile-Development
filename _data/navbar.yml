@@ -56,7 +56,7 @@ assigned:
                 show_in_footer: false
             -
                 text: 'Streamlining Procurement'
-                href: pages/projects/oh-procurement.md
+                href: pages/projects/vendor-pools.md
                 show_in_menu: false
                 show_in_footer: false
     -
