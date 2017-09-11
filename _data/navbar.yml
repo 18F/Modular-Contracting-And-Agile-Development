@@ -60,9 +60,9 @@ assigned:
                 show_in_menu: false
                 show_in_footer: false
     -
-        text: 'Assets'
-        href: pages/assets.md
-        permalink: /assets/
+        text: 'Resources'
+        href: pages/resources.md
+        permalink: /resources/
         show_in_menu: true
         show_in_footer: false
     -

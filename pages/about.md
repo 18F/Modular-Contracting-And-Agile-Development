@@ -11,7 +11,7 @@ GSA provides workplaces by constructing, managing, and preserving government bui
 
 ### Mission
 
-18F, as part of the General Services Administration, partners with federal agencies to build and buy digital services that improve the user experience of government. Together, we create a unified team by pairing our technical expertise with your program knowledge. Partner with 18F to deliver projects that fulfill federal rules, stay within budget, and provide excellent value to the public.
+18F - as part of the General Services Administration - partners with federal agencies to build and buy digital services that improve the user experience of government. Together, we create a unified team by pairing our technical expertise with your program knowledge. Partner with 18F to deliver projects that fulfill federal rules, stay within budget, and provide excellent value to the public.
 
 ### History
 

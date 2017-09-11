@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Presentations & White Papers
-permalink: /assets/
+permalink: /resources/
 ---
 
 This list of assets has been developed through our work with federal agency partners and state and local governments. We are making these available for any agency or government that wants to learn more about modular procurement and begin adopting the strategies in our [modular procurement toolkit](/strategies).
