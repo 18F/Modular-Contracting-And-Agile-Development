@@ -1,0 +1,28 @@
+<div class="project-container">
+{% for strategy in site.strategies %}
+  {% unless strategy.featured %}
+    <article class="card usa-width-one-third">
+      <a class="card-link" href="{{ strategy.url | prepend: site.baseurl }}" aria-hidden="true" tabindex="-1"></a>
+      <div class="card-image"
+        style="background-image: url(
+        {% if strategy.image_thumbnail %}
+          {{ strategy.image_thumbnail | prepend: site.baseurl }}
+        {% else %}
+          {{ strategy.image | prepend: site.baseurl }}
+        {% endif %}
+        );">
+      </div>
+      <div class="card-banner">
+        <h3 class="card-description">
+          <span>{{ strategy.title }}</span>
+        </h3>
+        <p class="card-summary">{{ strategy.description }}</p>
+      </div>
+      <a class="card-read" href="{{ strategy.url | prepend: site.baseurl }}">
+        Read more
+        <span class="usa-sr-only">about {{ strategy.title }}</span>
+      </a>
+    </article>
+  {% endunless %}
+{% endfor %}
+</div>

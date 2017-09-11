@@ -1,0 +1,39 @@
+// Team ------------- //
+
+// Mixins
+@mixin image-circle($width) {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  clip-path: circle(($width / 2) at center);
+  height: $width;
+  width: $width;
+}
+
+.page-team {
+  .usa-graphic_list {
+    .usa-media_block {
+      margin-bottom: 6rem;
+
+      @media all and (min-width: $on-laptop) {
+        margin-right: 0;
+        width: 50%;
+      }
+    }
+
+    h3 {
+      margin-top: 0;
+    }
+  }
+}
+
+.team-image {
+  @include image-circle(124px);
+}
+
+.page-team-single {
+  .team-image {
+    @include image-circle(270px);
+  }
+}
+

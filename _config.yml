@@ -1,21 +1,28 @@
 # Site settings
-title: Modular Contracting | 18F 
+title: Modular Contracting | 18F
 description: Modular Contracting and Agile Development in government.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://modularcontracting.18f.gov" # the base hostname & protocol for your site
 logo: /assets/img/18F-logo.png
-feature_image: /assets/img/feature-background.jpg
+feature_image: /assets/img/new-background.jpg
 
 colors:
   background: '#ffffff'
+  link:
+    color: '#0071bc'
+    active: '#0071bc'
+    hover: '#205493'
+    visited: '#0071bc'
   button:
     background: '#0071bc'
-    hover: '#3e94cf'
+    hover: '#205493'
     text: '#fff'
   headers: '#205493'
   text: '#212121'
+  reverse_text: '#ffffff'
   projects:
     accent: '#02bfe7'
+    card-heading: '#0071bc'
   banner:
     background: '#112e51'
     text: '#fff'
@@ -23,12 +30,13 @@ colors:
       background: '#dce4ef'
       text: '#112e51'
   footer:
-    background: '#323a45'
-    text: '#fff'
+    primary-background: '#f1f1f1'
+    secondary-background: '#d6d7d9'
+    text: '#212121'
 
 analytics:
   google:
-    code: 'UA-48605964-19' # Change this to your GSA analytics code
+    code: 'UA-48605964-32' # Change this to your GSA analytics code
   dap:
     agency: GSA    # Change this to your agency
     subagency: 18F # Change this to your agency
@@ -43,20 +51,32 @@ defaults:
       - page
       - "project-list"
       - project
+      - "team-list"
+      - team
 
 forms:
 - type: newsletter
-  heading: <a href="http://eepurl.com/bJQHFr">Want to know when this guide is updated?</a>
-  url: http://eepurl.com/bJQHFr
+  heading: Sign up to receive updates from our team
+  url: https://docs.google.com/forms/d/1Tsdm_2spbxWnmTFMrH5eHxpOAN9W4LB3eaMMXJ1N0rU/formResponse
   button: Subscribe
   privacypolicy: Your privacy and security are important to us, we'll only share your information as described in the <a href="http://www.gsa.gov/portal/content/116609">GSA Privacy and Security Notice</a>
+  fields:
+    - type: email
+      name: entry.1440502332
+      label: Email Address
+    - type: hidden
+      name: fbzx
+      value: -7861934959779167198
 
 footer:
+  links: ~
   image: /assets/img/gsa-logo-dark.jpg
-  email:
-  twitter:
-    - 18f
-  text: This site was built using <a href="https://federalist.18f.gov/" target="_blank">Federalist, from 18F</a>. Take a look at <a href="https://github.com/18F/Modular-Contracting-And-Agile-Development">the Github repo for this site</a>. # Change to a tag line for your agency
+  contact:
+    name: GSA
+    phonenumber: 1-800-CALL-GOV
+    email: gsa@gsa.gov
+    twitter: "18f"
+  text: This site was built using <a href="https://federalist.18f.gov/" target="_blank">Federalist, from 18F</a>. The source is available <a href="https://github.com/18F/Modular-Contracting-And-Agile-Development/">on GitHub</a>. Header image is from Flickr user Raúl Hernández González and is used under a <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank">Creative Commons License</a>.
 
 # Build settings
 markdown: kramdown
@@ -66,3 +86,14 @@ exclude:
   - CONTRIBUTING.md
   - LICENSE.md
   - README.md
+
+# Inititalize project and team collections
+collections:
+  projects:
+    output: true
+  strategies:
+    output: true
+  team:
+    output: true
+
+wds-version: 1.1.0

@@ -2,16 +2,15 @@
 layout: base
 ---
 
-<div class="usa-grid sidenav">
+<div class="usa-grid usa-section usa-content">
   <aside class="usa-width-one-fourth">
     <ul class="usa-sidenav-list">
-      {% for project in site.data.projects %}
+      {% for project in site.projects %}
           <li>
-            {{ project.permalink }}
-            {% if page.permalink == project.link %}
-              <a class="usa-current-page" href="{{ project.link | prepend: site.baseurl }}">{{ project.title }}</a>
+            {% if page.permalink == project.permalink %}
+              <a class="usa-current" href="{{ project.permalink | prepend: site.baseurl }}">{{ project.title }}</a>
             {% else %}
-              <a href="{{ project.link | prepend: site.baseurl }}">{{ project.title }}</a>
+              <a href="{{ project.permalink | prepend: site.baseurl }}">{{ project.title }}</a>
             {% endif %}
           </li>
       {% endfor %}

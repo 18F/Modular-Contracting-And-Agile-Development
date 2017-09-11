@@ -1,34 +1,92 @@
-.project {
-  margin-bottom: 2em;
-  min-height: 300px;
-  padding: 1em;
+ @media screen and (min-width: 600px) {
+  .project-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 102.5%;
+  }
 }
+// Project card ------------- //
 
-.project--image {
-  background-size: cover;
+// Sets a height on projects so they're the same height and don't break the grid
+.card {
+  box-shadow: 0 0 0 1px #d6d7d9;
   display: block;
-  min-height: 75px;
-  width: 75px;
+  margin-bottom: 3rem;
+  padding-bottom: 3rem;
+  position: relative;
+  text-decoration: none;
+
+  @media all and (min-width: $on-laptop) {
+    display: flex;
+    flex-direction: column;
+    margin-right: 2.3%;
+    min-height: 450px;
+    width: 31%;
+  }
+
+  &:hover {
+    box-shadow: 0 0 0 1px $card-heading-color;
+  }
+
+  &:active {
+    box-shadow: #3e94cf;
+  }
 }
 
-a.project--image,
-a.project--image:active,
-a.project--image:focus,
-a.project--image:hover,
-a.project--image:visited {
-  border: 0;
+.card-link {
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 0;
+  position: absolute;
 }
 
-.project--description {
-  border-top: 3px solid $project-accent-color;
-  padding-top: .5em;
+.card-banner {
+  margin: 3rem;
+  @media all and (min-width: $on-laptop) {
+    flex: 1 0 auto;
+  }
 }
 
-a .project--description span {
-  border-bottom: 0;
-  color: $text-color;
+.card-image {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 200px;
+  width: 100%;
 }
 
-a:hover .project--description span {
-  border-bottom: 1px dotted;
+.card-description.card-description {
+  color: $card-heading-color;
+  margin-top: 0;
 }
+
+.card-summary {
+  font-size: 16px;
+  margin-bottom: 0;
+
+  em {
+    font-style: normal;
+  }
+}
+
+.card-read {
+  margin: 0 3rem;
+  color: $card-heading-color;
+  font-size: $small-font-size;
+  font-weight: bold;
+  text-decoration: none;
+
+  &:visited {
+    color: $card-heading-color;
+  }
+
+  svg {
+    display: inline-block;
+    height: 1.2rem;
+    margin-bottom: -1px;
+    width: 1.2rem;
+    margin-left: 4px;
+  }
+}
+

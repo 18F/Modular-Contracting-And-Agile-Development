@@ -5,7 +5,7 @@
 @charset "utf-8";
 
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
@@ -15,19 +15,28 @@ $spacing-unit:     30px;
 $background-color:         {{ site.colors.background }};
 $headers-color:            {{ site.colors.headers }};
 $text-color:               {{ site.colors.text }};
-$header-text-color:       {{ site.colors.headers }};
+$reverse-text-color:       {{ site.colors.reverse_text }};
+$header-text-color:        {{ site.colors.headers }};
+
+$link-color:               {{ site.colors.link.color }};
+$link-visited-color:       {{ site.colors.link.visited }};
+$link-active-color:        {{ site.colors.link.active }};
+$link-hover-color:         {{ site.colors.link.hover }};
+
 $button-color:             {{ site.colors.button.background }};
 $button-hover-color:       {{ site.colors.button.hover }};
 $button-text-color:        {{ site.colors.button.text }};
 
 $project-accent-color:     {{ site.colors.projects.accent }};
+$card-heading-color:       {{ site.colors.projects.card-heading }};
 
-$banner-background-color: {{ site.colors.banner.background }};
-$banner-text-color:       {{ site.colors.banner.text }};
-$banner-button-color:     {{ site.colors.banner.button.background }};
-$banner-button-text-color:       {{ site.colors.banner.button.text }};
+$banner-background-color:  {{ site.colors.banner.background }};
+$banner-text-color:        {{ site.colors.banner.text }};
+$banner-button-color:      {{ site.colors.banner.button.background }};
+$banner-button-text-color: {{ site.colors.banner.button.text }};
 
-$footer-background-color:  {{ site.colors.footer.background }};
+$footer-primary-background-color:    {{ site.colors.footer.primary-background }};
+$footer-secondary-background-color:  {{ site.colors.footer.secondary-background }};
 $footer-text-color:        {{ site.colors.footer.text }};
 
 // Width of the content area
@@ -51,6 +60,8 @@ $on-laptop:        800px;
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)
+// These contain overrides and additions to the Web Design System
+// (standards.18f.gov, found locally at assets/css/uswds.<version>.css)
 @import
         "base",
         "buttons",
@@ -62,5 +73,6 @@ $on-laptop:        800px;
         "pages",
         "projects",
         "banners",
-        "footer"
+        "footer",
+        "team"
 ;

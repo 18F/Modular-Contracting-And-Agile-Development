@@ -6,6 +6,7 @@ This repo contains a Jekyll website to showcase and share the 18F Acquisition Te
 * Examples: featured projects that showcase some of the work we have done with partners.
 * Assets: Materials that we have developed through the course of our work that we want to share with those interested in learning more about modular contracting.
 
+=======
 ## Contributing
 
 To contribute to this project, read the CONTRIBUTING policy and the instructions below.

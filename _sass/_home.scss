@@ -1,3 +1,30 @@
 .center-content {
   text-align: center;
 }
+
+.home .usa-width-one-whole > p {
+  // same as .usa-font-lead
+  max-width: 77rem;
+  font-size: 20px;
+  line-height: 1.7;
+}
+
+.banner-text {
+  margin-top: 35px;
+  text-align: justify;
+}
+
+figure {
+  float: right;
+  padding: 5px;
+}
+
+figcaption {
+  text-align: center;
+  color: $banner-text-color;
+}
+
+.featured-video {
+  padding: 2px;
+  border:1px solid $button-color;
+}

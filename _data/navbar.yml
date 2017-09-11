@@ -1,39 +1,79 @@
 assigned:
-    # -
-    #     text: About
-    #     href: pages/about.md
-    #     permalink: /about/
-    #     show_in_menu: true
-    #     show_in_footer: false
     -
-        text: 'Agile Development'
-        href: pages/agile-development.md
-        permalink: /agile-development/
+        text: Home
+        href: pages/home.md
+        permalink: /
         show_in_menu: true
         show_in_footer: false
     -
-        text: 'Modular Procurement'
-        href: pages/modular-procurement.md
-        permalink: /modular-procurement/
+        text: 'Toolkit'
+        href: pages/strategies.md
+        permalink: /strategies/
+        show_in_menu: true
+        show_in_footer: false
+        children:
+          -
+              text: 'Agile Development'
+              href: pages/strategies/agile-development.md
+              show_in_menu: true
+              show_in_footer: false
+          -
+              text: 'Modular Procurement'
+              href: pages/strategies/modular-procurement.md
+              show_in_menu: true
+              show_in_footer: false
+          -
+              text: 'Open Source'
+              href: pages/strategies/open-source.md
+              show_in_menu: true
+              show_in_footer: false
+          -
+              text: 'Using COTS'
+              href: pages/strategies/using-cots.md
+              show_in_menu: true
+              show_in_footer: false
+          -
+              text: FAQ
+              href: pages/strategies/common-questions.md
+              show_in_menu: true
+              show_in_footer: false
+    -
+        text: Examples
+        href: pages/examples.md
+        permalink: /examples/
+        show_in_menu: true
+        show_in_footer: false
+        children:
+            -
+                text: 'Protecting At Risk Kids'
+                href: pages/projects/ca-child-welfare.md
+                show_in_menu: false
+                show_in_footer: false
+            -
+                text: 'Strengthening the Safety Net'
+                href: pages/projects/ak-medicaid.md
+                show_in_menu: false
+                show_in_footer: false
+            -
+                text: 'Streamlining Procurement'
+                href: pages/projects/vendor-pools.md
+                show_in_menu: false
+                show_in_footer: false
+    -
+        text: 'Assets'
+        href: pages/assets.md
+        permalink: /assets/
         show_in_menu: true
         show_in_footer: false
     -
-        text: 'Open Source'
-        href: pages/open-source.md
-        permalink: /open-source/
+        text: About
+        href: pages/about.md
+        permalink: /about/
         show_in_menu: true
         show_in_footer: false
     -
-        text: 'Using COTS'
-        href: pages/using-cots.md
-        permalink: /using-cots/
-        show_in_menu: true
+        text: 'Project data'
+        href: _data/projects.yml
+        show_in_menu: false
         show_in_footer: false
-    -
-        text: FAQ
-        href: pages/common-questions.md
-        permalink: /common-questions/
-        show_in_menu: true
-        show_in_footer: false
-
 unassigned: []

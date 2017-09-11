@@ -1,38 +1,70 @@
-<div class="skip-nav">
-  <a href="#main" class="skips">Skip to main content</a>
-</div>
+<a href="#main" class="usa-skipnav">Skip to main content</a>
 
-<header class="usa-site-header" role="banner">
-  <div class="usa-disclaimer">
-    <div class="usa-grid">
-      <span class="usa-disclaimer-official">An official website of the United States Government
-        <img alt="US flag signifying that this is a United States Federal Government website" src="{{ '/assets/img/us_flag_small.png' | prepend: site.baseurl }}">
-      </span>
-      <!-- <span class="usa-disclaimer-stage">This site is currently in alpha. <a href="https://18f.gsa.gov/dashboard/stages/#alpha">Learn more.</a></span> -->
+<header class="usa-header usa-header-basic" role="banner">
+  <!-- Gov banner BEGIN -->
+  <div class="usa-banner">
+    <div class="usa-accordion">
+      <header class="usa-banner-header">
+        <div class="usa-grid usa-banner-inner">
+        <img src="{{ site.baseurl }}/assets/vendor/uswds-{{ site.wds-version }}/img/us_flag_small.png" alt="U.S. flag">
+        <p>An official website of the United States government</p>
+        <button class="usa-accordion-button usa-banner-button"
+          aria-expanded="false" aria-controls="gov-banner">
+          <span class="usa-banner-button-text">Here's how you know</span>
+        </button>
+        </div>
+      </header>
+      <div class="usa-banner-content usa-grid usa-accordion-content" id="gov-banner">
+        <div class="usa-banner-guidance-gov usa-width-one-half">
+          <img class="usa-banner-icon usa-media_block-img" src="{{ site.baseurl }}/assets/vendor/uswds-{{ site.wds-version }}/img/icon-dot-gov.svg" alt="Dot gov">
+          <div class="usa-media_block-body">
+            <p>
+              <strong>The .gov means it’s official.</strong>
+              <br>
+              Federal government websites always use a .gov or .mil domain. Before sharing sensitive information online, make sure you’re on a .gov or .mil site by inspecting your browser’s address (or “location”) bar.
+            </p>
+          </div>
+        </div>
+        <div class="usa-banner-guidance-ssl usa-width-one-half">
+          <img class="usa-banner-icon usa-media_block-img" src="{{ site.baseurl }}/assets/vendor/uswds-{{ site.wds-version }}/img/icon-https.svg" alt="SSL">
+          <div class="usa-media_block-body">
+            <p>This site is also protected by an SSL (Secure Sockets Layer) certificate that’s been signed by the U.S. government. The <strong>https://</strong> means all transmitted data is encrypted  — in other words, any information or browsing history that you provide is transmitted securely.</p>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
-  <nav class="usa-site-navbar">
-    <div class="usa-grid">
-      <div id="logo">
-        <a href="{{ site.baseurl }}/" accesskey="1" title="Home" aria-label="Home">
+  <!-- Gov banner END -->
+
+  <div class="usa-nav-container">
+    <div class="usa-navbar">
+      <button class="usa-menu-btn">Menu</button>
+      <div class="usa-logo" id="logo">
+        <em class="usa-logo-text">
+          <a href="{{ site.url }}" accesskey="1" title="Home" aria-label="Home">
           {% if site.logo %}
             <img src="{{ site.logo | prepend: site.baseurl }}" alt="{{ site.title }}">
           {% else %}
             <h1 class="usa-header-title">{{ site.title }}</h1>
           {% endif %}
-        </a>
+          </a>
+        </em>
       </div>
-      <ul class="usa-nav-list usa-unstyled-list">
-        {% assign navs = site.data.navbar.assigned %}
-
-        {% for nav in navs %}
-          {% if nav.show_in_menu %}
-          <li class="usa-menu-item">
-            <a href="{{ nav.permalink | prepend: site.baseurl }}">{{ nav.text }}</a>
-          </li>
-          {% endif %}
-        {% endfor %}
-      </ul>
     </div>
-  </nav>
+    <nav role="navigation" class="usa-nav">
+      <button class="usa-nav-close">
+        <img src="{{ site.baseurl }}/assets/vendor/uswds-{{ site.wds-version }}/img/close.svg" alt="close">
+      </button>
+      <ul class="usa-nav-primary usa-accordion">
+      {% assign navs = site.data.navbar.assigned %}
+      {% for nav in navs %}
+        {% if nav.show_in_menu %}
+        <li>
+          <a class="usa-nav-link" href="{{ nav.permalink | prepend: site.baseurl }}"><span>{{ nav.text }}</span></a>
+        </li>
+        {% endif %}
+      {% endfor %}
+      </ul>
+    </nav>
+  </div>
 </header>
