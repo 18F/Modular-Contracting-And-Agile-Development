@@ -23,4 +23,4 @@ Building on the work we're doing with other states, 18F is helping introduce [mo
 
 ## Read More
 
-Read more about our work with the State of Alaska on the 18F blog (Coming soon).
+Read more about our work with the State of Alaska on the [18F blog](https://18f.gsa.gov/2017/09/12/how-alaska-is-using-transparency/).
