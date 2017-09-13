@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Helping Those in Need
+title: Modernizing Access to Healthcare
 description: Using Agile methodologies and DevOps to overhaul the State of Alaska's Medicaid system.
 permalink: /projects/ak-medicaid/
 tags: project
