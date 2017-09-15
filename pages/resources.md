@@ -6,6 +6,10 @@ permalink: /resources/
 
 This list of assets has been developed through our work with federal agency partners and state and local governments. We are making these available for any agency or government that wants to learn more about modular procurement and begin adopting the strategies in our [modular procurement toolkit](/strategies).
 
+## How we can work with you
+
+* This is an [overview of how the 18F Acquisition team works with partners](https://github.com/18F/Modular-Contracting-And-Agile-Development/raw/master/assets/files/Say%20Hello%20to%2018F.pdf), along with some information on how we can help with your next IT procurement.
+
 ## Product strategy
 
 * [United States Digital Service: Digital Services Playbook](https://playbook.cio.gov/). Too many of our digital services projects do not work well, are delivered late, or are over budget. To increase the success rate of these projects, the U.S. government needs a new approach. The United States Digital Service created a playbook of 13 key “plays” drawn from successful practices from the private sector and government that, if followed together, will help government build effective digital services.
