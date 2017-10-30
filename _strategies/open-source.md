@@ -12,7 +12,7 @@ image-credit: https://www.flickr.com/photos/caveman_92223/
 
 18F has committed to working with open source software because developing in the open has real benefits, especially for the public sector. The [18F Open Source Policy](https://github.com/18F/open-source-policy/blob/master/policy.md) explains the benefits of open source and answers many common questions about security, licensing, distribution, and exceptions. Our policy is _itself_ open source, which means it can be adapted for state use.
 
-* For a primer on how to begin to work on open source software projects, our [getting started with 18F Micro-purchase](https://pages.18f.gov/micropurchase/docs/getting-started/) guide has extensive guidance and resources. It was written for potential clients of our micro-purchase platform (which allows federal agencies to purchase small amounts of open source code for integration into an existing software product), but much of the guidance applies to any open source project.
+* For a primer on how to begin to work on open source software projects, our [getting started with 18F Micro-purchase]https://micropurchase.18f.gov/docs/getting_started.html) guide has extensive guidance and resources. It was written for potential clients of our micro-purchase platform (which allows federal agencies to purchase small amounts of open source code for integration into an existing software product), but much of the guidance applies to any open source project.
 * Our blog entry on [facts about publishing open source code in government](https://18f.gsa.gov/2016/08/08/facts-about-publishing-open-source-code-in-government/) dispels some common myths about open source software.
 
 #### Using open source software makes it easier to secure our systems and helps mitigate risks.
