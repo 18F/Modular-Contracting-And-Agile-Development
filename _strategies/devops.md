@@ -1,7 +1,7 @@
 ---
 layout: strategy
-title: DevOps
-description: Learn about DevOps practices and tools for delivering high qualuty software
+title: Embracing DevOps
+description: Learn about DevOps practices and tools for delivering high quality software
 permalink: /devops/
 tags: strategy
 image: /assets/img/strategy-images/devops.jpg

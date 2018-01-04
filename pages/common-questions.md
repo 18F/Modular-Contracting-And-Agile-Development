@@ -1,11 +1,8 @@
 ---
-layout: strategy
+layout: page
 title: Common questions
 description: Review a list of commonly asked questions from our partners.
 permalink: /common-questions/
-tags: strategy
-image: /assets/img/strategy-images/question.jpg
-image-credit: https://www.flickr.com/photos/worldbank/
 ---
 
 ## How Can We Help You?
