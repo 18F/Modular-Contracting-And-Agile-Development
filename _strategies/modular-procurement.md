@@ -36,7 +36,9 @@ By adopting a "programming style guide" and an automated style checking tool (kn
 
 One of the major burdens of onboarding is the time for a vendor to understand the entirety of a project. By reducing the size of each project and simplifying the specs, the time required to onboard vendors can be reduced substantially. This makes it manageable to onboard several vendors over the course of a complex project, and reduces the risk.
 
-In modular contracting, however, there will be some amount of system architecture and integration planning by the government to ensure that vendors understand where certain technical and business decisions will impact their portion of the work. Or why previous parts of code that they may interact with are structured that way.
+In modular contracting, however, there will be some amount of system architecture and integration planning by the government to ensure that vendors understand where certain technical and business decisions will impact their portion of the work. Or why previous parts of code that they may interact with are structured that way. 
+
+In particular, with open source software development include clauses in the statement of work that require vendors to make back-ward compatible changes when work developed in service of a particular module should impact the entire project.
 
 #### Consider pre-qualified user-centered vendor pools can help speed up modular procurement in the long run.
 
