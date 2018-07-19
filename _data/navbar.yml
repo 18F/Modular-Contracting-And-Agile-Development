@@ -60,9 +60,9 @@ assigned:
                 show_in_menu: false
                 show_in_footer: false
     -
-        text: 'Questions'
+        text: 'Learn More'
         href: pages/common-questions.md
-        permalink: /common-questions/
+        permalink: /learn-more/
         show_in_menu: true
         show_in_footer: false
     -
