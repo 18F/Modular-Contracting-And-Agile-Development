@@ -84,22 +84,22 @@ You would ensure that the vendors:
 - Use current and popular languages, tools and frameworks
 - Include "non-functional requirements (NFRs)" in all solicitations, specifying required technology stack, tools, and other technical constraints
 
-#### Let’s say we build a new system with 12 modules, how do we maintain that system? Do we keep all of those vendors on board through the life of the project?
+#### How to maintain a system with multiple modules through the life of the project
 
-No. If the modules are open source and built with standard languages, libraries, and frameworks, other vendors can jump in to add features or make fixes as necessary. This frees the state from having to rely on any given vendor for anything as new vendors can swap in and out.
+If the modules are open source and built with standard languages, libraries, and frameworks, other vendors can jump in to add features or make fixes as necessary. This frees the government from having to rely on any given vendor for anything as new vendors can swap in and out. In writing subsequent contracts, be sure to include clauses that permit or require the vendor to apply their changes to any relevant sections of the code.
 
-With iterative and incremental goals of agile development, continuous integration and continuous deployment activities become de facto needs of systems.  As a result, comprehensive automation (testing and deployment) becomes baked in as part of the development process.  This automation helps reduce the reliance on institutional knowledge from vendors leading to the reduction of barriers to entry for other vendors to maintain the system.  Increasing competition amongst vendors and thus keeping costs down to the state.
+By leveraging configuration-as-code principles, you can work to minimize institutional knowledge of the deployment processs. By maintaining public backlogs, and keeping the artifacts public after a vendor offboards, you can create a reference of previous decisions that may have impacted the development of the site. Consistent government involvement in the role of the product owner, will also help keep continuity across module development. Increasing competition amongst vendors can help keep costs down to the state.
 
-#### What happens when something goes wrong and vendors all blame each other? How does the problem get fixed quickly and who pays for that?
+#### Accepting failure when something goes wrong
 
-With every release, you would have deployed code that is tested in the field. You could have an acceptance period. The state would be responsible for problems discovered after this period. It would be treated as fresh development that can be contracted out to any developer. This is a fact of (software development) life that has to be accepted.
+One of the most challenging cultural changes that happens when introducing agile development is accepting small failures as a learning process. With every release, you would have deployed code that is tested in the field. From this field testing you can learn about places to improve or invalidate assumptions You could have an acceptance period. The state would be responsible for problems discovered after this period. It would be treated as fresh development that can be contracted out to any developer. This is a fact of (software development) life that has to be accepted.
 
 
-#### How do all these modules really fit together?
+#### Fitting modules together
 
 There are two distinct levels of "fitting together."
-* One is at the user interface level where good and consistent application of HCD principles across all modules will provide similar user experiences to people using each module. For instance, if I have to look up a person, the presentation of that person’s information should look the same regardless of which module I am currently working in.
-* The second "fitting together" is at the technical level, and this is a key point. _The modules need not know much about each other at all._ Each separate module communicates directly via API, some modules may exist in the same software application and operate on the same database. There should be no need for "integration" between modules. So the modules fit together by operating on the same data independently.
+* One is at the user interface level where good and consistent application of HCD principles across all modules will provide similar user experiences to people using each module. For instance, if I have to look up a person, the presentation of that person’s information should look the same regardless of which module I am currently working in. We recommend leveraging a shared design framework such as the US Web Design System so that developers can  build indepently and still look like it is consistent. We also recommend having a shared style guide so that content has a consistent voice.
+* The second "fitting together" is at the technical level by creating documented interfaces - i.e. connection points using either a REST or graphSQL Application Protocol Interfaces. This allows one module to query another module without knowing the internals of another. This allows various modules to communicate via a service architecture. 
 
 #### Who is the system integrator? The state? A vendor? How does this work?
 
