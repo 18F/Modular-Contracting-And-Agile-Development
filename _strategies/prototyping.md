@@ -8,7 +8,7 @@ image: /assets/img/strategy-images/prototype.jpg
 image-credit: https://www.flickr.com/photos/baldiri/
 ---
 
-## Principles of Prototyping for Acquisition
+## Principles of prototyping for acquisition
 
 Software prototypes are one tool available to governments to “de-risk” software acquisitions where there are substantial unknowns, or not-yet validated technology choices, by providing out or invalidating a concept. They can help to reduce risk in complex IT procurements, especially when coupled with the adoption of agile practices and procurements that are smaller and more modular.
 
@@ -20,13 +20,13 @@ Rather than having a vendor raise questions during a contract's period of perfor
 
 The following principles are meant to guide product teams in the use of technical prototypes in support of an acquisition. Note: This is a living document, and will be modified frequently as product teams become more proficient and experienced in using prototypes.
 
-## Guiding Principles
+## Guiding principles
 
-### Avoid Premature Optimization
+### Avoid premature optimization
 
 A prototype should support a procurement and be thought of as a research tool. It should be developed rapidly, using a relatively lightweight approach and at low cost. Guard against over-optimization.
 
-The government should leverage prototypes to garner obtain user feedback, validate technical decisions, and better understand the organizational barriers to deploying software in modern ways.
+The government should leverage prototypes to obtain user feedback, validate technical decisions, and better understand the organizational barriers to deploying software in modern ways.
 
 If the logic behind modular procurement is to break down large projects into smaller chunks to reduce risk, employ this same approach when prototyping. Instead of thinking of a prototype as an immutable whole, consider how it can be broken into pieces to address assumptions about customer value and technical risks. Don't obsess about documentation, but highlight to the  what assumption this prototype was meant to assess, and how this tool measured up against those hypothesis.
 
