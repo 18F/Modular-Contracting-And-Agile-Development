@@ -82,9 +82,4 @@ assigned:
         permalink: /about/
         show_in_menu: true
         show_in_footer: false
-    -
-        text: 'Project data'
-        href: _data/projects.yml
-        show_in_menu: false
-        show_in_footer: false
 unassigned: []
