@@ -31,7 +31,7 @@ The government is always accountable to deliver on its mission, not your vendor.
 
 ### Building an agile skill set in-house
 
-This is where 18F, in particular, can help the most.
+This is where 18F, in particular, can help the most as we work to model best practices and coach our partners.
 
 ### Our mainframe is 30 years old and I can’t risk doing anything to make it stop working because it’s the only thing we have that works.
 
@@ -54,11 +54,11 @@ Within the agile process, expectations are managed by having incremental release
 
 Vendors that can do agile work will respond to the way you are working. We recommend having an empowered government product owner — a single person who acts as the point of contact for the vendor, and who can serve as a zealous advocate for the success of the project. In a well-run agile project you will get working product from your vendors every two weeks. This product is the basis on which to evaluate their performance.
 
-If you don’t, then you have a problem you need to conduct an assessment as to what is preventing your team from delivering. Does your vendor truely have the right skill set? Are they given access to users regularly? Is there onerous stakeholder review?
+If you don’t, then you have a problem you need to conduct an assessment as to what is preventing your team from delivering. Does your vendor truly have the right skill set? Are they given access to users regularly? Is there onerous stakeholder review?
 
 ### IV&V and governance in agile development
 
-With iterative development the completed stories becomes an indication of work completed that can be used to determine the amount of output. IV&V activties can concentrate on the working software rather than documentation.
+With iterative development the completed stories becomes an indication of work completed that can be used to determine the amount of output. IV&V activities can concentrate on the working software rather than documentation.
 
 ### What to do if something goes wrong
 

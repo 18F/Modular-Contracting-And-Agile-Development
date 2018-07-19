@@ -24,7 +24,7 @@ Be upfront about asking a COTS vendor allowing your users to test out the produc
 
 
 #### For products to be used by internal department staff
-Administrative tools are often mostly likely to leverage COTS and the least likely to conform to the unique workflows and regulatory constraints of government. Rather than identify these requirements upfront conduct design research about what the workflows your staff conduct using existing tools and highlight what would be the most streamlined process possible. Then conduct an assessment of how closely the product 
+Administrative tools are often mostly likely to leverage COTS and the least likely to conform to the unique workflows and regulatory constraints of government. Rather than identify these requirements upfront conduct design research about what the workflows your staff conduct using existing tools and highlight what would be the most streamlined process possible. Then conduct an assessment of how closely the products that appear in your market research match the observed ideal workflows. 
 
 #### Acquisitions and technical factors to consider
 
