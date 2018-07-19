@@ -10,7 +10,7 @@ image-credit: https://www.flickr.com/photos/nearsoft/
 
 ## What is human-centered design and why is it important in modular contracting?
 
-Human centered design is an approach to engage the end user in software development to yield actionable, prioritized, and assumption-challenging results. By directly engaging users throughout, HCD builds products that work better for users, require less rework, and prompt fewer support calls. We believe that theses approaches need to be incorporated at every step of the agile process. From conducting design research before and at the beginning of an acquistition, and usability testing for every sprint and user story developed.
+Human centered design is an approach to engage the end user in software development to yield actionable, prioritized, and assumption-challenging results. By directly engaging users throughout, HCD builds products that work better for users, require less rework, and prompt fewer support calls. We believe that theses approaches need to be incorporated at every step of the agile process. From conducting design research before and at the beginning of an acquisition, and usability testing for every sprint and user story developed.
 
 ## Four tenets of human-centered design
 1. Put people before technology.
@@ -32,7 +32,7 @@ We use *standardized* questions and targets of observation so that we identify c
 
 We *observe and ask about behaviors*, instead of their opinions, because opinions — without an understanding of what people actually _do_ — are rarely actionable.
 
-We leverage a number of different methods that are ok within governement such as:
+We leverage a number of different methods that are ok within government such as:
 
 * Stakeholder and user interviews
 * Card sorting
@@ -46,7 +46,7 @@ We leverage a number of different methods that are ok within governement such as
 For more on how to use these methods check out [methods.18f.gov](methods.18f.gov).
 
 #### Contextual inquiry
-One tool that is especially helpful prior to conducting an acquisition is contextual inquiry, that occures where a user will likely be when they use your tool.
+One tool that is especially helpful prior to conducting an acquisition is contextual inquiry, that occurs where a user will likely be when they use your tool.
 
 1. Go to the places users work.
 2. Ask them what they do.

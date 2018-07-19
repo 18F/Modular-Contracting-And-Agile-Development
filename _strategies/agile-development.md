@@ -10,7 +10,7 @@ image-credit: https://www.flickr.com/photos/hernanpc/
 
 ## What is Agile Development?
 
-Agile development describes a set of principles for building software that allow collaborative, cross-functional teams to accommodate changing user needs and requirements. Agile development alone will not help you build a good product. In fact, many agile projects fail unless they work to intergrate human-centered desgin.
+Agile development describes a set of principles for building software that allow collaborative, cross-functional teams to accommodate changing user needs and requirements. Agile development alone will not help you build a good product. In fact, many agile projects fail unless they work to integrate human-centered design.
 
 One of the great strengths of agile development is that delivery is incremental, which spreads the risk across the entire development process rather than loading all of it at the very end. When things go wrong, they’re smaller problems that can be fixed more quickly and more easily.
 
@@ -18,7 +18,7 @@ One of the great strengths of agile development is that delivery is incremental,
 
 In any complex system, needs change, evolve, or are discovered over time. Instead of ignoring these changing needs, or going through a painful contract amendment and renegotiation process, we embrace the concept that we will discover new user needs and constraints as we go.
 
-To help this process, we pair identifying goals at a higher level (an “epic” in agile terminology) with an ongoing user research process. These epics describe the user need, not the solution.  For example, a user story might be: “As a caseworker, I want to see all my current cases and next steps so I know what I need to do next, and when I need to do it.” We wouldn't write: “The system shall display the next step next to each case in a grid on the main screen.” Through the user research and usability testing throughout the life of the product development, these epics are turned into a set of increasingly-specific user stories. Each story should be designed, researched, developed and tested within a single sprint. We validate each implemented story with usability testing with real end users, and use the feedback from that work to generate addtional backlog user stories.
+To help this process, we pair identifying goals at a higher level (an “epic” in agile terminology) with an ongoing user research process. These epics describe the user need, not the solution.  For example, a user story might be: “As a caseworker, I want to see all my current cases and next steps so I know what I need to do next, and when I need to do it.” We wouldn't write: “The system shall display the next step next to each case in a grid on the main screen.” Through the user research and usability testing throughout the life of the product development, these epics are turned into a set of increasingly-specific user stories. Each story should be designed, researched, developed and tested within a single sprint. We validate each implemented story with usability testing with real end users, and use the feedback from that work to generate additional backlog user stories.
 
  We prioritize user stories continuously and do not focus on what is in the development backlog beyond what can be done in a month in the future.
 

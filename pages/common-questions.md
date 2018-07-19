@@ -27,7 +27,7 @@ We work to ensure that an appropriate acquisition plan is in place, so that an o
 
 ### Ensuring accountability without having a single systems integrator
 
-The government is always accountable to deliver on its mission, not your vendor. In the same way that most manufacturing companies rely on multiple suppliers, companies that need digital products have expanded their procurement practices with multisourcing, to reduce the type of risk that comes from vendor lock-in with a single systems integrator. Moreover, decaders of large-scale IT failures indicate that a single systems integrator have provided neither the control nor the accountability needed for the government to succeed. 
+The government is always accountable to deliver on its mission, not your vendor. In the same way that most manufacturing companies rely on multiple suppliers, companies that need digital products have expanded their procurement practices with multi-sourcing, to reduce the type of risk that comes from vendor lock-in with a single systems integrator. Moreover, decades of large-scale IT failures indicate that a single systems integrator have provided neither the control nor the accountability needed for the government to succeed. 
 
 ### Building an agile skill set in-house
 
@@ -46,7 +46,7 @@ The key to success is migrating piece by piece. Aiming to do a single cut over t
 
 ### Holding vendors accountable without traditional requirements documentation
 
-In waterfall development documentation provides a blueprint and oversight thorughout development, because there's no product to assess or examine until the end of the project. Agile Independent Vertification & Validation must concentrate on evaluating the actual product, each sprint, throughout the development period.
+In waterfall development documentation provides a blueprint and oversight throughout development, because there's no product to assess or examine until the end of the project. Agile Independent Verification & Validation must concentrate on evaluating the actual product, each sprint, throughout the development period.
 
 Within the agile process, expectations are managed by having incremental releases. Working software (or lack thereof) is the measure of a vendor's performance. A good vendor is not just one that delivers software functionality, but can also easily adapt to changing needs.
 
@@ -88,7 +88,7 @@ You would ensure that the vendors:
 
 If the modules are open source and built with standard languages, libraries, and frameworks, other vendors can jump in to add features or make fixes as necessary. This frees the government from having to rely on any given vendor for anything as new vendors can swap in and out. In writing subsequent contracts, be sure to include clauses that permit or require the vendor to apply their changes to any relevant sections of the code.
 
-By leveraging configuration-as-code principles, you can work to minimize institutional knowledge of the deployment processs. By maintaining public backlogs, and keeping the artifacts public after a vendor offboards, you can create a reference of previous decisions that may have impacted the development of the site. Consistent government involvement in the role of the product owner, will also help keep continuity across module development. Increasing competition amongst vendors can help keep costs down to the state.
+By leveraging configuration-as-code principles, you can work to minimize institutional knowledge of the deployment process. By maintaining public backlogs, and keeping the artifacts public after a vendor off-boards, you can create a reference of previous decisions that may have impacted the development of the site. Consistent government involvement in the role of the product owner, will also help keep continuity across module development. Increasing competition amongst vendors can help keep costs down to the state.
 
 ### Accepting failure when something goes wrong
 
@@ -98,7 +98,7 @@ One of the most challenging cultural changes that happens when introducing agile
 ### Fitting modules together
 
 There are two distinct levels of "fitting together."
-* One is at the user interface level where good and consistent application of HCD principles across all modules will provide similar user experiences to people using each module. For instance, if I have to look up a person, the presentation of that person’s information should look the same regardless of which module I am currently working in. We recommend leveraging a shared design framework such as the US Web Design System so that developers can  build indepently and still look like it is consistent. We also recommend having a shared style guide so that content has a consistent voice.
+* One is at the user interface level where good and consistent application of HCD principles across all modules will provide similar user experiences to people using each module. For instance, if I have to look up a person, the presentation of that person’s information should look the same regardless of which module I am currently working in. We recommend leveraging a shared design framework such as the US Web Design System so that developers can  build independently and still look like it is consistent. We also recommend having a shared style guide so that content has a consistent voice.
 * The second "fitting together" is at the technical level by creating documented interfaces - i.e. connection points using either a REST or graphSQL Application Protocol Interfaces. This allows one module to query another module without knowing the internals of another. This allows various modules to communicate via a service architecture. 
 
 ### Role of the system integrator in incremental delivery

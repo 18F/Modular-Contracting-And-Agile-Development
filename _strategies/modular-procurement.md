@@ -12,7 +12,7 @@ image-credit: https://www.flickr.com/photos/aaronharmon/
 
 Modular procurement is a procurement model that breaks what would traditionally be a large, monolithic contract into several shorter-term, lower dollar amount contracts. When combined with human-centered and agile practices, it can mean allowing those who use your services to use portions of the new software faster.
 
-Modular procurement makes it easier to manage software development by segmenting risk. This acquistion strategy permits isolated failure in one unit of many units, rather than letting it impact the entire project. Because each project is smaller, they are easier to comprehend and manage, making problems and risks smaller so you can recognize and resolve them more easily.
+Modular procurement makes it easier to manage software development by segmenting risk. This acquisition strategy permits isolated failure in one unit of many units, rather than letting it impact the entire project. Because each project is smaller, they are easier to comprehend and manage, making problems and risks smaller so you can recognize and resolve them more easily.
 
 As the government needs to more closely monitor the performance of smaller contracts they can help remedy problems to avoid cost overlays and drawn out schedules.
 
@@ -22,19 +22,19 @@ In contrast, the vast majority of larger projects are overbudget or failing. The
 
 ### Shorter contracts will reduce the risk of factors beyond your control.
 
-Planning work for a successful six-month to twelve-month contract is easier than planning a successful six-year contract. Modular contracting allows you to craft procurements that set out expectations for segments of work rather than scope out every contigency that could happen over the life of the product. Longer contracts also don't easily account for inevitable changes in leadership, legislative and other policy constraints or emerging technologies.
+Planning work for a successful six-month to twelve-month contract is easier than planning a successful six-year contract. Modular contracting allows you to craft procurements that set out expectations for segments of work rather than scope out every contingency that could happen over the life of the product. Longer contracts also don't easily account for inevitable changes in leadership, legislative and other policy constraints or emerging technologies.
 
 To do this modular procurement should model iterative software development practices. This means that you are continuously improving both the product and your process and delivering some customer value as soon as possible. Building a Minimal Viable Product (MVP) and learning from it ultimately results in a better product than the traditional approach of trying to scope out what an complex product without validated assumptions looks like all at once.
 
-### Code consistency and compatiblity reduces vendor lock-in.
+### Code consistency and compatibility reduces vendor lock-in.
 
-There are well-documented, standardized software development practices that can be standardized across vendors, and tools to enforce those. These practices can be incorporated into the contract via the Quality Assurance Surveillance Plan. The following practices facilitate faster onboarding of new development teams.
+There are well-documented, standardized software development practices that can be standardized across vendors, and tools to enforce those. These practices can be incorporated into the contract via the Quality Assurance Surveillance Plan. The following practices facilitate faster on-boarding of new development teams.
 
 By adopting a "programming style guide" and an automated style checking tool (known as a "linter"), your vendors can ensure the code style is consistent. By adopting other automated quality-checking tools (examples include Code Climate and HoundCI), your vendors can avoid other poor code quality practices. Because the code is open source, vendors can see the code they have to integrate with. By having automated integration and unit tests, your vendors can identify and fix code that breaks or doesn't integrate as soon as it’s written.
   
-### Onboarding vendors is more manageable when projects are modular.
+### On-boarding vendors is more manageable when projects are modular.
 
-One of the major burdens of onboarding is the time for a vendor to understand the entirety of a project. By reducing the size of each project and simplifying the specs, the time required to onboard vendors can be reduced substantially. This makes it manageable to onboard several vendors over the course of a complex project, and reduces the risk.
+One of the major burdens of on-boarding is the time for a vendor to understand the entirety of a project. By reducing the size of each project and simplifying the specs, the time required to onboard vendors can be reduced substantially. This makes it manageable to onboard several vendors over the course of a complex project, and reduces the risk.
 
 In modular contracting, however, there will be some amount of system architecture and integration planning by the government to ensure that vendors understand where certain technical and business decisions will impact their portion of the work. Or why previous parts of code that they may interact with are structured that way. 
 

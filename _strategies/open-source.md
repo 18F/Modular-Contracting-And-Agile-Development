@@ -38,7 +38,7 @@ Open source software requires quality review and ongoing maintenance, just like 
 
 All software needs to be maintained and updated to continue to function, especially as technology, compliance requirements, and processes change.
 
-As with any government IT solution, closed- or open-source, the burden of ensuring the functionality, security, and operability of the solution ultimately rests with government. Open source software can provide more transparency about the health of government software, and expand options for maintainance. Working in the open can also make vendors more accountable to the software development community because their work is visible.
+As with any government IT solution, closed- or open-source, the burden of ensuring the functionality, security, and operability of the solution ultimately rests with government. Open source software can provide more transparency about the health of government software, and expand options for maintenance. Working in the open can also make vendors more accountable to the software development community because their work is visible.
 
 ### Open source software supports your team’s technical skill development.
 

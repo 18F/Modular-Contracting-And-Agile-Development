@@ -8,9 +8,9 @@ image: /assets/img/strategy-images/prototype.jpg
 image-credit: https://www.flickr.com/photos/baldiri/
 ---
 
-## Principles of Prototyping for Acquisiton
+## Principles of Prototyping for Acquisition
 
-Software prototypes are one tool available to governments to “de-risk” software acquisitions where there are substainial unknowns, or unvalidated technology choices, by providing out or invalidating a concept. They can help to reduce risk in complex IT procurements, especially when coupled with the adoption of agile practices and procurements that are smaller and more modular.
+Software prototypes are one tool available to governments to “de-risk” software acquisitions where there are substantial unknowns, or not-yet validated technology choices, by providing out or invalidating a concept. They can help to reduce risk in complex IT procurements, especially when coupled with the adoption of agile practices and procurements that are smaller and more modular.
 
 ## Overview
 
