@@ -13,17 +13,22 @@ assigned:
         show_in_footer: false
         children:
           -
-              text: 'Agile Development'
+              text: 'Human-centered design'
+              href: pages/strategies/human-centered-design.md
+              show_in_menu: true
+              show_in_footer: false
+          -
+              text: 'Agile development'
               href: pages/strategies/agile-development.md
               show_in_menu: true
               show_in_footer: false
           -
-              text: 'Modular Procurement'
+              text: 'Modular procurement'
               href: pages/strategies/modular-procurement.md
               show_in_menu: true
               show_in_footer: false
           -
-              text: 'Open Source'
+              text: 'Open source'
               href: pages/strategies/open-source.md
               show_in_menu: true
               show_in_footer: false
@@ -33,7 +38,7 @@ assigned:
               show_in_menu: true
               show_in_footer: false
           -
-              text: Building Prorotypes
+              text: Building prorotypes
               href: pages/strategies/prototyping.md
               show_in_menu: true
               show_in_footer: false
@@ -45,22 +50,22 @@ assigned:
         show_in_footer: false
         children:
             -
-                text: 'Protecting At Risk Kids'
+                text: 'Protecting at risk kids'
                 href: pages/projects/ca-child-welfare.md
                 show_in_menu: false
                 show_in_footer: false
             -
-                text: 'Strengthening the Safety Net'
+                text: 'Strengthening the safety net'
                 href: pages/projects/ak-medicaid.md
                 show_in_menu: false
                 show_in_footer: false
             -
-                text: 'Streamlining Procurement'
+                text: 'Streamlining procurement'
                 href: pages/projects/vendor-pools.md
                 show_in_menu: false
                 show_in_footer: false
     -
-        text: 'Learn More'
+        text: 'Learn more'
         href: pages/common-questions.md
         permalink: /learn-more/
         show_in_menu: true

@@ -20,19 +20,19 @@ In contrast, the vast majority of larger projects are overbudget or failing. The
 
 > Of 3,555 projects from 2003 to 2012 that had labor costs of at least $10 million, only 6.4% were successful. The Standish data showed that 52% of the large projects were "challenged," meaning they were over budget, behind schedule or didn't meet user expectations. The remaining 41.4% were failures — they were either abandoned or started anew from scratch.
 
-#### Shorter contracts will reduce the risk of factors beyond your control.
+### Shorter contracts will reduce the risk of factors beyond your control.
 
 Planning work for a successful six-month to twelve-month contract is easier than planning a successful six-year contract. Modular contracting allows you to craft procurements that set out expectations for segments of work rather than scope out every contigency that could happen over the life of the product. Longer contracts also don't easily account for inevitable changes in leadership, legislative and other policy constraints or emerging technologies.
 
 To do this modular procurement should model iterative software development practices. This means that you are continuously improving both the product and your process and delivering some customer value as soon as possible. Building a Minimal Viable Product (MVP) and learning from it ultimately results in a better product than the traditional approach of trying to scope out what an complex product without validated assumptions looks like all at once.
 
-#### Code consistency and compatiblity reduces vendor lock-in.
+### Code consistency and compatiblity reduces vendor lock-in.
 
 There are well-documented, standardized software development practices that can be standardized across vendors, and tools to enforce those. These practices can be incorporated into the contract via the Quality Assurance Surveillance Plan. The following practices facilitate faster onboarding of new development teams.
 
 By adopting a "programming style guide" and an automated style checking tool (known as a "linter"), your vendors can ensure the code style is consistent. By adopting other automated quality-checking tools (examples include Code Climate and HoundCI), your vendors can avoid other poor code quality practices. Because the code is open source, vendors can see the code they have to integrate with. By having automated integration and unit tests, your vendors can identify and fix code that breaks or doesn't integrate as soon as it’s written.
   
-#### Onboarding vendors is more manageable when projects are modular.
+### Onboarding vendors is more manageable when projects are modular.
 
 One of the major burdens of onboarding is the time for a vendor to understand the entirety of a project. By reducing the size of each project and simplifying the specs, the time required to onboard vendors can be reduced substantially. This makes it manageable to onboard several vendors over the course of a complex project, and reduces the risk.
 
@@ -40,7 +40,7 @@ In modular contracting, however, there will be some amount of system architectur
 
 In particular, with open source software development include clauses in the statement of work that require vendors to make back-ward compatible changes when work developed in service of a particular module should impact the entire project.
 
-#### Consider pre-qualified user-centered vendor pools can help speed up modular procurement in the long run.
+### Consider pre-qualified user-centered vendor pools can help speed up modular procurement in the long run.
 
 Agile vendor pools are groups of vendors that have been pre-qualified to work on modular procurements.
 
