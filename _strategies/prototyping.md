@@ -44,7 +44,7 @@ A prototype should reduce risk prior to procurement, but probably won’t elimin
 
 ### Help the buyer develop prototyping capacity
 
-One of the goals of Acq engagements (and [18F engagements in general](https://partnership-playbook.18f.gov/7-transfer-projects-back/)) is to impart strategies and techniques to our clients that will allow them to practice modular procurement on their own going forward, and on other projects. We should intentionally include client staff in prototype work so they have an ownership stake in the process and familiarity with how to use prototyping to support future procurements.
+One of the goals of Acq engagements (and [18F engagements in general](https://partnership-playbook.18f.gov/7-transfer-projects-back/)) is to impart strategies and techniques to our clients that will allow them to practice modular procurement on their own going forward, and on other projects. We should intentionally include client staff in prototype work so they have an ownership stake in the process and familiarity with how to use prototyping to support future procurements. Be sure to assess the capability of the client to continue prototype work after the engagement is over, and structure the work to best help them develop the capacity for continuing to do it going forward.
 
 ### Understand security requirements
 
