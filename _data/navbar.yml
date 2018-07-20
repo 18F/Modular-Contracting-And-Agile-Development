@@ -38,7 +38,7 @@ assigned:
               show_in_menu: true
               show_in_footer: false
           -
-              text: Building prorotypes
+              text: Building prototypes
               href: pages/strategies/prototyping.md
               show_in_menu: true
               show_in_footer: false

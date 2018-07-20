@@ -12,7 +12,7 @@ image-credit: https://www.flickr.com/photos/butterflysha/
 
 In some cases, if there is a COTS system that will fit your end-user needs, then there may be an opportunity for cost savings. 
 
-### Fully assess whether commercial off-the-shelf (COTS) solutions fit your projects' needs.
+### Fully assess whether commercial off-the-shelf (COTS) solutions fit your project's needs.
 
 First determine, whether the COTS product will be to deliver a unique government service with public users, or is an intermediate tool for developers. 
 

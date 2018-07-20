@@ -30,7 +30,7 @@ The government should leverage prototypes to obtain user feedback, validate tech
 
 If the logic behind modular procurement is to break down large projects into smaller chunks to reduce risk, employ this same approach when prototyping. Instead of thinking of a prototype as an immutable whole, consider how it can be broken into pieces to address assumptions about customer value and technical risks. Don't obsess about documentation, but highlight to the  what assumption this prototype was meant to assess, and how this tool measured up against those hypothesis.
 
-For example, consider using a boilerplate app (or simple demo app) to support development or to build out a minimal [DevOps pipeline](/devops), can help you see where the bottlenecks to agile development will likely occur before a vendor is brought on.
+For example, consider using a boilerplate app (or simple demo app) to support development, or building out a minimal [DevOps pipeline](/devops) pipeline to help identify bottlenecks in your process before a vendor is brought on.
 
 ### Help vendors, don’t handcuff them
 
@@ -50,9 +50,9 @@ One of the goals of Acq engagements (and [18F engagements in general](https://pa
 
 It’s important to understand security requirements in the client environment that can impact prototyping work.
 
-Does you have the policy and technical infrastructure in place to support prototyping? Is a full System Security Plan required to build a prototype that isn’t intended to be deployed to a production environment or require ongoing O&M?
+Do you have the policy and technical infrastructure in place to support prototyping? Is a full System Security Plan required to build a prototype that isn’t intended to be deployed to a production environment or require ongoing O&M?
 
-Does you have the technical infrastructure in place to support prototyping? Is test data available for use in building a prototype? Is there an environment where test apps or prototypes can be efficiently deployed?
+Do you have the technical infrastructure in place to support prototyping? Is test data available for use in building a prototype? Is there an environment where test apps or prototypes can be efficiently deployed?
 
 Consider adding someone that can represent the client’s security office to the product team. Give this person a seat at the table from day one.
 

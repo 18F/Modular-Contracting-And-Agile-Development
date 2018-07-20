@@ -20,11 +20,11 @@ In any complex system, needs change, evolve, or are discovered over time. Instea
 
 To help this process, we pair identifying goals at a higher level (an “epic” in agile terminology) with an ongoing user research process. These epics describe the user need, not the solution.  For example, a user story might be: “As a caseworker, I want to see all my current cases and next steps so I know what I need to do next, and when I need to do it.” We wouldn't write: “The system shall display the next step next to each case in a grid on the main screen.” Through the user research and usability testing throughout the life of the product development, these epics are turned into a set of increasingly-specific user stories. Each story should be designed, researched, developed and tested within a single sprint. We validate each implemented story with usability testing with real end users, and use the feedback from that work to generate additional backlog user stories.
 
- We prioritize user stories continuously and do not focus on what is in the development backlog beyond what can be done in a month in the future.
+ We prioritize user stories continuously and do not focus on what is in the development backlog beyond what can be done within the next month.
 
 ### Agile development requires a shift in how you understand the costs of software development.
 
-The traditional “waterfall” method of software development assumes that software can be built once for a large, one-time investment. In practice, this is untrue, because requirements can rarely be fully known and change constantly. The product team's understanding of users' needs arise through research and testing which deepens but shortens your teams forecasting of costs..
+The traditional “waterfall” method of software development assumes that software can be built once for a large, one-time investment. In practice, this is untrue, because requirements can rarely be fully known and change often. The product team's understanding of users' needs arise through research and testing, allowing you to provide reasonable cost estimates in the short-term.
 
 Ultimately, the state’s investment should be measured in working software, not phase documents or milestones. Only working systems are of value to real constituents. Based on that premise, teams are only able to measure the success of a waterfall project after most costs have been incurred, because that is the first time working software is delivered. This is a huge risk. Agile projects allow the state to measure success at more regular intervals, and reduce the overall risk to the state.
 
