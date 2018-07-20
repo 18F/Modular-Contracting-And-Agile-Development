@@ -15,4 +15,4 @@ thumbnail-description: "Hear about 18F's work with the California Child Welfare 
 
 ---
 ## What we do
-At part of the GSA's Technology Transformation Services (TTS), the mission of the Acquisitions Team is to improve the public’s experience with government by helping federal agencies and state governments buy and share technology solutions that allow them to better serve the public. Learn more about our [background and mission](/about/).
+As part of the GSA's Technology Transformation Services (TTS), the mission of the Acquisitions Team is to improve the public’s experience with government by helping federal agencies and state governments buy and share technology solutions that allow them to better serve the public. Learn more about our [background and mission](/about/).
