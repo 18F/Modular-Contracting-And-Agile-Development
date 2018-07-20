@@ -42,9 +42,9 @@ A prototype should not dictate a choice of specific technology or approach (e.g.
 
 A prototype should reduce risk prior to procurement, but probably won’t eliminate it. There may be questions unanswered or risks present when issuing an RFP — that’s normal. RFPs themselves should have some provisions for managing risk (particularly if they are smaller in scope), and using an agile methodology can provide opportunities to change course as issues arise after contract award.
 
-### Help the buyer develop prototyping capacity
+### Helping our partners develop prototyping capacity
 
-One of the goals of Acq engagements (and [18F engagements in general](https://partnership-playbook.18f.gov/7-transfer-projects-back/)) is to impart strategies and techniques to our clients that will allow them to practice modular procurement on their own going forward, and on other projects. We should intentionally include client staff in prototype work so they have an ownership stake in the process and familiarity with how to use prototyping to support future procurements.
+One of the goals of [18F engagements](https://partnership-playbook.18f.gov/7-transfer-projects-back/)) is to impart strategies and techniques to our partners that will allow them to practice modular procurement on their own going forward, and on other projects. We strive to intentionally include partner staff in prototype work so they have an ownership stake in the process and familiarity with how to use prototyping to support future procurements. We work to assess the capability of our partners to continue prototype work after our engagement is over, and intentionally structure the work to best help them develop the capacity for continuing to do it going forward.
 
 ### Understand security requirements
 
