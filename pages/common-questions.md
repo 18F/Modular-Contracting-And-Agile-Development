@@ -1,39 +1,39 @@
 ---
 layout: page
-title: Common questions
+title: Learn More
 description: Review a list of commonly asked questions from our partners.
-permalink: /common-questions/
+permalink: /learn-more/
 ---
 
-## How Can We Help You?
+## Working with 18F
 
-There are a number of questions and concerns we've heard expressed in many of our workshops and conversations. Here's how we answer some of them:
+There are a number of concerns we've heard expressed in many of our workshops and conversations. Here's how we answer some of them:
 
-#### How do we evaluate vendors if they don’t estimate costs up front and the deliverables aren’t fixed? How is this better than knowing upfront costs and all deliverables and timelines?
+### Vendor cost evaluation in agile and modular contracts
 
-Vendors would still be submitting proposals with associated costs, deliverables, etc. The difference with modular procurement is that what they are proposing against is much smaller and more frequent.
+Vendors submit proposals with associated costs, staffing plans, and their suggested technical approach even though the exact deliverables are not known. In modular procurement vendors have a better sense cost estimate because the contracts are more tightly scoped and more frequent..
 
-#### The federal government has up to 60 days to approve our Advance Planning Documents and our RFPs for projects involving federal grants. Doing more small procurements just means more delay. How can that be improved?
+### Avoiding Federal approval delays in modular contracting.
 
-18F is committed to working with our federal partners to reduce the burden on state agencies to get smaller contracts approved. The approval cycle is to ensure that states are mitigating risk—and one of the best ways to do that is with shorter, lower-cost contracts.
+While the federal government has up to 60 days to approve our Advance Planning Documents and our RFPs for projects involving federal grants, as  a Federal entity 18F is committed to working with our federal partners to reduce the burden on state agencies to get smaller contracts approved. The approval cycle is to ensure that states are mitigating risk—and one of the best ways to do that is with shorter, lower-cost contracts.
 
-#### Can I just buy off 18Fs Agile Blanket Purchase Agreement (BPA)?
+### Using the 18Fs Agile Blanket Purchase Agreement (BPA)
 
 18F’s Agile BPA is only available for use by 18F and its partner agencies. As 18F can directly support states by establishing an Intergovernmental Cooperative Agreement with them, then any state or local entity can avail themselves of the services offered on it.
 
-#### Who will I call when something goes wrong after launch?
+### Open source software product support
 
-We work to ensure that an appropriate acquisition plan is in place, so that an open source solution will be maintained, just like closed source software.
+We work to ensure that an appropriate acquisition plan is in place, so that an open source solution will be maintained after the product is launched, just like closed source software.
 
-#### How can we ensure accountability without having a single systems integrator?
+### Ensuring accountability without having a single systems integrator
 
-Paradoxically, the idea that a single systems integrator provides ultimate accountability and maximum control isn’t supported by decades of large-scale IT projects that used this approach. In the same way that most manufacturing companies rely on multiple suppliers, companies that need digital products have expanded their procurement practices with multisourcing, to reduce the type of risk that comes from vendor lock-in with a single systems integrator.
+The government is always accountable to deliver on its mission, not your vendor. In the same way that most manufacturing companies rely on multiple suppliers, companies that need digital products have expanded their procurement practices with multi-sourcing, to reduce the type of risk that comes from vendor lock-in with a single systems integrator. Moreover, decades of large-scale IT failures indicate that a single systems integrator have provided neither the control nor the accountability needed for the government to succeed. 
 
-#### Agile seems to require different skills of my staff, how do I know what skill we need in house and how do we get that training? Or can I hire a vendor to do that?
+### Building an agile skill set in-house
 
-This is where 18F, in particular, can help the most.
+This is where 18F, in particular, can help the most as we work to model best practices and coach our partners.
 
-#### Our mainframe is 30 years old and I can’t risk doing anything to make it stop working because it’s the only thing we have that works.
+### Our mainframe is 30 years old and I can’t risk doing anything to make it stop working because it’s the only thing we have that works.
 
 We can help you identify strategies to mitigate the risks of moving away from a legacy mainframe system. For example:
 
@@ -44,28 +44,32 @@ We can help you identify strategies to mitigate the risks of moving away from a 
 
 The key to success is migrating piece by piece. Aiming to do a single cut over to a new system is extremely risky.
 
-#### How do we hold vendors accountable without traditional requirements documentation?
+### Holding vendors accountable without traditional requirements documentation
 
-Documentation as the bedrock of oversight is an artifact of waterfall development, because there's no product to assess or examine until the end of the project. Agile IV&V must concentrate on evaluating the actual product, each sprint, throughout the development period.
+In waterfall development documentation provides a blueprint and oversight throughout development, because there's no product to assess or examine until the end of the project. Agile Independent Verification & Validation must concentrate on evaluating the actual product, each sprint, throughout the development period.
 
 Within the agile process, expectations are managed by having incremental releases. Working software (or lack thereof) is the measure of a vendor's performance. A good vendor is not just one that delivers software functionality, but can also easily adapt to changing needs.
 
-#### Once we hire an agile vendor, how do we know they’re going to deliver what we want?
+### Working with vendors to ensure delivery
 
-Vendors that can do agile work will respond to the way you are working. We recommend having an empowered product owner — a single person who acts as the point of contact for the vendor, and who can serve as a zealous advocate for the success of the project. In a well-run agile project you will get working product from your vendors every two weeks. If you don’t, then you have a problem. If you do, then you can evaluate their deliverables every two weeks
+Vendors that can do agile work will respond to the way you are working. We recommend having an empowered government product owner — a single person who acts as the point of contact for the vendor, and who can serve as a zealous advocate for the success of the project. In a well-run agile project you will get working product from your vendors every two weeks. This product is the basis on which to evaluate their performance.
 
-#### What about governance? And IV&V? How does that work with agile development?
+If you don’t, then you have a problem you need to conduct an assessment as to what is preventing your team from delivering. Does your vendor truly have the right skill set? Are they given access to users regularly? Is there onerous stakeholder review?
 
-In a well-run agile project you will get working product from your vendors every two weeks. If you don’t, then you have a problem. If you do, then you can evaluate their deliverables every two weeks.
+### IV&V and governance in agile development
 
-#### What happens if something goes wrong?
+With iterative development the completed stories becomes an indication of work completed that can be used to determine the amount of output. IV&V activities can concentrate on the working software rather than documentation.
 
-If you discover a bug in the software, you hire a vendor to fix it. It doesn’t have to be the same vendor that originally produced the code. In fact, the bug could simply be added to the product backlog and the next vendor would pick it up.
+### What to do if something goes wrong
 
-If a vendor isn’t producing to the level you expect, you can simply not hire them for any subsequent work. The amount of time and effort lost is limited to that one development period, possibly as short as a few weeks, rather than the entire life of the project.
+If you discover a bug in open source software, you hire a vendor to fix it. It doesn’t have to be the same vendor that originally produced the code. In fact, the bug could simply be added to the product backlog and the next vendor would pick it up.
+
+If a vendor isn’t producing to the level you expect, you can simply not hire them for any subsequent work. Before removing your vendor, make sure you've done all you can to remove the impediments to prevent them from delivering. If you have not, you will likely see the same results with a follow on vendor.
+
+The amount of time and effort lost is limited to that one development period, possibly as short as a few weeks, rather than the entire life of the project.
 
 
-#### How do we deal with so many vendors? What if they use different languages and we don’t have staff familiar with those.
+### Managing multiple many vendors using different languages.
 
 You would ensure that the vendors:
 
@@ -80,23 +84,23 @@ You would ensure that the vendors:
 - Use current and popular languages, tools and frameworks
 - Include "non-functional requirements (NFRs)" in all solicitations, specifying required technology stack, tools, and other technical constraints
 
-#### Let’s say we build a new system with 12 modules, how do we maintain that system? Do we keep all of those vendors on board through the life of the project?
+### How to maintain a system with multiple modules through the life of the project
 
-No. If the modules are open source and built with standard languages, libraries, and frameworks, other vendors can jump in to add features or make fixes as necessary. This frees the state from having to rely on any given vendor for anything as new vendors can swap in and out.
+If the modules are open source and built with standard languages, libraries, and frameworks, other vendors can jump in to add features or make fixes as necessary. This frees the government from having to rely on any given vendor for anything as new vendors can swap in and out. In writing subsequent contracts, be sure to include clauses that permit or require the vendor to apply their changes to any relevant sections of the code.
 
-With iterative and incremental goals of agile development, continuous integration and continuous deployment activities become de facto needs of systems.  As a result, comprehensive automation (testing and deployment) becomes baked in as part of the development process.  This automation helps reduce the reliance on institutional knowledge from vendors leading to the reduction of barriers to entry for other vendors to maintain the system.  Increasing competition amongst vendors and thus keeping costs down to the state.
+By leveraging configuration-as-code principles, you can work to minimize institutional knowledge of the deployment process. By maintaining public backlogs, and keeping the artifacts public after a vendor off-boards, you can create a reference of previous decisions that may have impacted the development of the site. Consistent government involvement in the role of the product owner, will also help keep continuity across module development. Increasing competition amongst vendors can help keep costs down to the state.
 
-#### What happens when something goes wrong and vendors all blame each other? How does the problem get fixed quickly and who pays for that?
+### Accepting failure when something goes wrong
 
-With every release, you would have deployed code that is tested in the field. You could have an acceptance period. The state would be responsible for problems discovered after this period. It would be treated as fresh development that can be contracted out to any developer. This is a fact of (software development) life that has to be accepted.
+One of the most challenging cultural changes that happens when introducing agile development is accepting small failures as a learning process. With every release, you would have deployed code that is tested in the field. From this field testing you can learn about places to improve or invalidate assumptions You could have an acceptance period. The state would be responsible for problems discovered after this period. It would be treated as fresh development that can be contracted out to any developer. This is a fact of (software development) life that has to be accepted.
 
 
-#### How do all these modules really fit together?
+### Fitting modules together
 
 There are two distinct levels of "fitting together."
-* One is at the user interface level where good and consistent application of HCD principles across all modules will provide similar user experiences to people using each module. For instance, if I have to look up a person, the presentation of that person’s information should look the same regardless of which module I am currently working in.
-* The second "fitting together" is at the technical level, and this is a key point. _The modules need not know much about each other at all._ Each separate module communicates directly via API, some modules may exist in the same software application and operate on the same database. There should be no need for "integration" between modules. So the modules fit together by operating on the same data independently.
+* One is at the user interface level where good and consistent application of HCD principles across all modules will provide similar user experiences to people using each module. For instance, if I have to look up a person, the presentation of that person’s information should look the same regardless of which module I am currently working in. We recommend leveraging a shared design framework such as the US Web Design System so that developers can  build independently and still look like it is consistent. We also recommend having a shared style guide so that content has a consistent voice.
+* The second "fitting together" is at the technical level by creating documented interfaces - i.e. connection points using either a REST or graphSQL Application Protocol Interfaces. This allows one module to query another module without knowing the internals of another. This allows various modules to communicate via a service architecture. 
 
-#### Who is the system integrator? The state? A vendor? How does this work?
+### Role of the system integrator in incremental delivery
 
-Just as the role of Project Manager changes in an agile project, so does the role of system integrator. The state can become the system integrator if there is the will and the budget, a system integrator can be engaged as in the past, or you can take advantage of the agile approach and not use a system integrator. There will be a few things that require an overall project view that require some technical expertise, but they will be orders of magnitude less than with a multi-vendor waterfall project.
+In a modular software development project, a system integrator coordinates from both a technical, operational, and personnel (both with government and vendor) to ensure that technical decisions are interoperable, minimize technical debt or risk, and most importantly support the most end-user centered design. They will also need to be involved in acquisitions to help scope out the various modules. They often work with or also are the Product Manager to help the product team deliver.
